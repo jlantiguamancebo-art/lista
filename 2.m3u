@@ -1,0 +1,753 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png" group-title="España",Antena 3 Internacional
+http://177.10.184.193:8000/play/a06a/index.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="España",RTVE La 1 Internacional (América)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalEuropa.es" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="España",RTVE La 1 Internacional (Europa)
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="España",RTVE 24 Horas
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-logo="https://i.imgur.com/lznnA4v.png" group-title="España",Canal Sur (Andalucía)
+https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
+#EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-logo="https://i.imgur.com/dvkzH8n.png" group-title="España",TV Galicia Internacional
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-id="ETB1On.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_ETB1_On_2026.svg" group-title="España",ETB 1 On (País Vasco)
+https://cdn1.etbon.eus/etb1on/index.m3u8
+#EXTINF:-1 tvg-id="ETB2On.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_ETB2_On_2026.svg" group-title="España",ETB 2 On (País Vasco)
+https://cdn1.etbon.eus/etb2on/index.m3u8
+#EXTINF:-1 tvg-id="A7TV.do@HD" tvg-logo="https://a7tvjarabacoa.netlify.app/IMG_1968.PNG" group-title="República Dominicana",A7 TV
+https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
+#EXTINF:-1 tvg-id="AcentoTV.do@SD" tvg-logo="https://i.imgur.com/jhiZfHf.png" group-title="República Dominicana",Acento TV
+https://acentotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="AdoramTV.do@SD" tvg-logo="https://i.imgur.com/uU01KHz.png" group-title="República Dominicana",Adoram TV
+https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
+#EXTINF:-1 tvg-id="AguilaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3770-294x165-FFFFFF.jpg" group-title="República Dominicana",Aguila TV
+https://fox.hostlagarto.com:8081/aguilatv/playlist.m3u8
+#EXTINF:-1 tvg-id="AhoraTV.do@SD" tvg-logo="https://i.imgur.com/dyJyuXc.png" group-title="República Dominicana",Ahora TV
+https://stream.haislin.com/ahoratv/index.m3u8
+#EXTINF:-1 tvg-id="AIONTV.do@SD" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="República Dominicana",AION TV
+https://edge.essastream.com/aiontelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="AlcarrizosTV.do@SD" tvg-logo="https://i.ibb.co/C3fdPYGs/Alcarrizo.jpg" group-title="República Dominicana",Alcarrizos TV
+https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlegreTVRD.do@SD" tvg-logo="https://i.imgur.com/O6USO8r.png" group-title="República Dominicana",Alegre TV RD
+https://streamunoapp.com:3149/live/alegretvlive.m3u8
+#EXTINF:-1 tvg-id="AltantoTV.do@SD" tvg-logo="https://i.imgur.com/KWvVLhc.png" group-title="República Dominicana",Altanto TV
+https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8
+#EXTINF:-1 tvg-id="Ame47.do@SD" tvg-logo="https://i.imgur.com/MUEbjeP.png" group-title="República Dominicana",Ame 47
+https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena7.do@SD" tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="República Dominicana",Antena 7
+https://d3gie3ig6argu.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="Antena21.do@SD" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="República Dominicana",Antena 21
+https://d1ypfac91iuc9g.cloudfront.net/ts:abr.m3u8
+#EXTINF:-1 tvg-id="AtabalTV.do@HD" tvg-logo="https://imgur.com/QWR9SOH.png" group-title="República Dominicana",Atabal TV
+https://vdopanel.jlahozconsulting.com:3648/live/atabaltvlive.m3u8
+#EXTINF:-1 tvg-id="BajoTechoTV.do@SD" tvg-logo="https://i.imgur.com/I2wRq88.png" group-title="República Dominicana",Bajo Techo TV
+https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BaniVision.do@HD" tvg-logo="https://www.banivision.com/wp-content/uploads/2023/04/Bani-Vision-Favicon.png" group-title="República Dominicana",Bani Vision
+https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8
+#EXTINF:-1 tvg-id="BebetoTV.do@SD" tvg-logo="" group-title="República Dominicana",Bebeto TV
+https://edge.essastream.com/bebetotelevision/index.m3u8
+#EXTINF:-1 tvg-id="Bellavision.do@SD" tvg-logo="https://i.imgur.com/XqQ3kCs.png" group-title="República Dominicana",Bellavision
+https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BocaChicaTV.do@SD" tvg-logo="https://i.imgur.com/npiRBPC.png" group-title="República Dominicana",Boca Chica TV
+https://fox.hostlagarto.com:8081/bocachicatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BonaoTV.do@SD" tvg-logo="https://i.imgur.com/en1vCZB.png" group-title="República Dominicana",Bonao TV
+https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
+#EXTINF:-1 tvg-id="BonchesLatinosTV.do@SD" tvg-logo="https://i.imgur.com/Kp8x0NS.png" group-title="República Dominicana",Bonches Latinos TV
+https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
+#EXTINF:-1 tvg-id="Boreal.do@SD" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="República Dominicana",Boreal
+https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CamuTV.do@SD" tvg-logo="https://i.imgur.com/3d8cLm9.jpg" group-title="República Dominicana",Camu TV
+https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaTVDigital.do@SD" tvg-logo="https://i.imgur.com/k8jxt12.png" group-title="República Dominicana",Cana TV Digital
+https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
+#EXTINF:-1 tvg-id="Canal4RD.do@SD" tvg-logo="https://i.imgur.com/3AqCAji.png" group-title="República Dominicana",Canal 4 RD
+https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal17RTVD.do@HD" tvg-logo="https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png" group-title="República Dominicana",Canal 17 RTVD
+https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal56.do@SD" tvg-logo="https://i.imgur.com/HcLs5eM.png" group-title="República Dominicana",Canal 56
+https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Canal70.do@HD" tvg-logo="https://imgur.com/LfcHA2d.jpg" group-title="República Dominicana",Canal 70
+https://183.bozztv.com/giatv/giatv-cnal70tv/cnal70tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalCatorce.do@SD" tvg-logo="https://i.imgur.com/iKLGBbA.png" group-title="República Dominicana",Canal Catorce
+https://stream.haislin.com/14tv/index.m3u8
+#EXTINF:-1 tvg-id="CanaldelSol.do@SD" tvg-logo="https://i.imgur.com/gK0M1jB.png" group-title="República Dominicana",Canal del Sol
+https://stream.canaldelsol.com/sol26/live_1080.m3u8
+#EXTINF:-1 tvg-id="CanalDTV.do@SD" tvg-logo="https://i.imgur.com/JO5yuNC.png" group-title="República Dominicana",Canal DTV
+https://s.emisoras.tv:8081/dtv/index.m3u8
+#EXTINF:-1 tvg-id="CanalMultivision.do@SD" tvg-logo="https://i.imgur.com/puOrL7B.jpg" group-title="República Dominicana",Canal Multivision
+https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
+#EXTINF:-1 tvg-id="Canalda26HD.do@HD" tvg-logo="https://canaldahd.com/wp-content/uploads/2023/03/cropped-canaldahdlogo-1.png" group-title="República Dominicana",Canalda 26 HD
+https://canalda.rgradio.net:3084/live/canaldalive.m3u8
+#EXTINF:-1 tvg-id="CanangaTV.do@SD" tvg-logo="https://i.imgur.com/isXlMAh.png" group-title="República Dominicana",Cananga TV
+https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
+#EXTINF:-1 tvg-id="CaobaTVRadio.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3906-294x165-FFFFFF.jpg" group-title="República Dominicana",Caoba TV Radio
+https://host.streamingnation.live:3940/live/caobatvlive.m3u8
+#EXTINF:-1 tvg-id="Carivision.do@SD" tvg-logo="https://i.imgur.com/XjGb2UM.png" group-title="República Dominicana",Carivision
+https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8
+#EXTINF:-1 tvg-id="CascaraTV.do@SD" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="República Dominicana",Cascara TV
+https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
+#EXTINF:-1 tvg-id="CDN.do@SD" tvg-logo="https://i.imgur.com/eQyjIgf.png" group-title="República Dominicana",CDN
+http://200.125.170.121:8000/play/a09j/index.m3u8
+#EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://i.imgur.com/eQyjIgf.png" group-title="República Dominicana",CDN Deportes
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
+#EXTINF:-1 tvg-id="CenovisionHD.do@HD" tvg-logo="https://imgur.com/ShPaOvn.jpg" group-title="República Dominicana",Cenovision HD
+https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8
+#EXTINF:-1 tvg-id="ChinolaTV.do@SD" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="República Dominicana",Chinola TV
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+#EXTINF:-1 tvg-id="CibaenaTV.do@SD" tvg-logo="https://i.imgur.com/iHjdckl.png" group-title="República Dominicana",Cibaeña TV
+https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
+#EXTINF:-1 tvg-id="CieloTV.do@SD" tvg-logo="https://i.imgur.com/2PNw6BA.png" group-title="República Dominicana",Cielo TV
+https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
+#EXTINF:-1 tvg-id="CinevisionCanal19.do@SD" tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="República Dominicana",Cinevision Canal 19
+https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
+#EXTINF:-1 tvg-id="CitricoTV.do@SD" tvg-logo="https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg" group-title="República Dominicana",Citrico TV
+https://edge.essastream.com/citricotv/playlist.m3u8
+#EXTINF:-1 tvg-id="ClaroTelevisionDominicana.do@SD" tvg-logo="https://i.imgur.com/fJD7OxB.png" group-title="República Dominicana",Claro Televisión Dominicana
+https://streamunoapp.com:3960/live/claroteledomlive.m3u8
+#EXTINF:-1 tvg-id="ClaroVisionTV.do@SD" tvg-logo="https://i.imgur.com/MpTgJMJ.png" group-title="República Dominicana",Claro Visión TV
+https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
+#EXTINF:-1 tvg-id="CNTMasTV.do@HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/ctnmas.jpg" group-title="República Dominicana",CNT Mas TV
+https://edge.essastream.com/cntmas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="COCOTV.do@SD" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="República Dominicana",COCO TV
+https://edge.essastream.com/canalcocotv/playlist.m3u8
+#EXTINF:-1 tvg-id="CodigoTV.do@HD" tvg-logo="https://imgur.com/DbjywI3.png" group-title="República Dominicana",Codigo TV
+https://edge.essastream.com/codigotv/playlist.m3u8
+#EXTINF:-1 tvg-id="ColimdoTV.do@SD" tvg-logo="https://i.imgur.com/ZeUgLCa.png" group-title="República Dominicana",Colimdo TV
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1 tvg-id="ColomeTV.do@HD" tvg-logo="https://colometv.com/assets/images/logo.png" group-title="República Dominicana",Colome TV
+https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
+#EXTINF:-1 tvg-id="ColorVision.do@SD" tvg-logo="https://i.imgur.com/rkgWToA.jpg" group-title="República Dominicana",Color Vision
+https://cdn3.wind.do/streams/colorvision/colorvision_master.m3u8
+#EXTINF:-1 tvg-id="ConstanzaTV.do@SD" tvg-logo="https://i.imgur.com/4uV90gw.png" group-title="República Dominicana",Constanza TV
+https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8
+#EXTINF:-1 tvg-id="CotubanamaTV.do@SD" tvg-logo="https://i.imgur.com/D6gAezp.png" group-title="República Dominicana",Cotubanama TV
+https://host.streamingnation.live/p/3588/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="CromTV.do@SD" tvg-logo="https://i.imgur.com/jk1lkOV.png" group-title="República Dominicana",Crom TV
+https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CTTCanal49.do@SD" tvg-logo="https://i.imgur.com/jsi4qVb.jpg" group-title="República Dominicana",CTT Canal 49
+https://cdnfox.hostlagarto.com/cct49/index.m3u8
+#EXTINF:-1 tvg-id="CVVisionTV.do@SD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/ccviison-1.png" group-title="República Dominicana",CV Vision TV
+https://eu1.servers10.com:8081/8128/index.m3u8
+#EXTINF:-1 tvg-id="DeUltimoMinutoTV.do@SD" tvg-logo="https://i.imgur.com/6ML2z17.png" group-title="República Dominicana",De Ultimo Minuto TV
+https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
+#EXTINF:-1 tvg-id="DelPuebloTV.do@HD" tvg-logo="https://imgur.com/Pw7ZUT1.jpg" group-title="República Dominicana",Del Pueblo TV
+https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="DeltaTVCanal50.do@SD" tvg-logo="https://imgur.com/Z1K1tyl.jpg" group-title="República Dominicana",Delta TV Canal 50
+https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Digital15.do@SD" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="República Dominicana",Digital 15
+http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
+#EXTINF:-1 tvg-id="DigitalVision63.do@SD" tvg-logo="https://i.imgur.com/FQkLIMR.png" group-title="República Dominicana",Digital Vision 63
+https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8
+#EXTINF:-1 tvg-id="EcosCanal57.do@HD" tvg-logo="https://imgur.com/ccFwraQ.png" group-title="República Dominicana",Ecos Canal 57
+https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecovision.do@SD" tvg-logo="https://imgur.com/Y4ahiYu.png" group-title="República Dominicana",Ecovisión
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+#EXTINF:-1 tvg-id="ElNuevoDiarioTV.do@SD" tvg-logo="https://i.imgur.com/yjuTl6N.png" group-title="República Dominicana",El Nuevo Diario TV
+https://nuevodiario01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="ElPitucoTV.do@HD" tvg-logo="https://elpituco.com/wp-content/uploads/2021/04/ElPituco.png" group-title="República Dominicana",El Pituco TV
+https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
+#EXTINF:-1 tvg-id="ElPuertoTV.do@SD" tvg-logo="https://i.imgur.com/FnshExB.jpg" group-title="República Dominicana",El Puerto TV
+https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
+#EXTINF:-1 tvg-id="ElSeis6.do@SD" tvg-logo="https://elseis.do/wp-content/uploads/2025/02/logo-el-seis-horizontal.png" group-title="República Dominicana",El Seis
+https://stream.elseis.do/canal6/live_1080.m3u8
+#EXTINF:-1 tvg-id="EliasPinaTV.do@SD" tvg-logo="https://i.imgur.com/VqxSsZD.png" group-title="República Dominicana",Elias Pina TV
+https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8
+#EXTINF:-1 tvg-id="Enntivision.do@SD" tvg-logo="https://i.imgur.com/nePOFZW.png" group-title="República Dominicana",Enntivision
+https://edge.essastream.com/enntivision/playlist.m3u8
+#EXTINF:-1 tvg-id="entelevision.do@SD" tvg-logo="https://i.imgur.com/gVtLpMD.png" group-title="República Dominicana",Entelevision
+https://stream.haislin.com/entelevision/index.m3u8
+#EXTINF:-1 tvg-id="EnterateRD.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3508-294x165-FFFFFF.jpg" group-title="República Dominicana",Enterate RD
+https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8
+#EXTINF:-1 tvg-id="EntunoTV.do@HD" tvg-logo="https://imgur.com/U9OsybQ.jpg" group-title="República Dominicana",Entuno TV
+https://soportedvb.click:3442/live/entunotvlive.m3u8
+#EXTINF:-1 tvg-id="Extra86TV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3780-294x165-FFFFFF.jpg" group-title="República Dominicana",Extra 86 TV
+https://video-eu1.streamerr.co/hls/sb77f834a54/live.m3u8
+#EXTINF:-1 tvg-id="Farovision.do@SD" tvg-logo="https://i.imgur.com/YtdOXWb.png" group-title="República Dominicana",Farovisión
+https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="FemeninaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3802-294x165-FFFFFF.jpg" group-title="República Dominicana",Femenina TV
+https://streamunoapp.com:3511/live/femeninatvlive.m3u8
+#EXTINF:-1 tvg-id="FRATATV.do@SD" tvg-logo="https://i.imgur.com/VxeTREd.png" group-title="República Dominicana",FRATA TV
+https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="FuegoTV.do@SD" tvg-logo="https://i.imgur.com/T9vWjeB.png" group-title="República Dominicana",Fuego TV
+https://streamunoapp.com:3553/live/cromtvlive.m3u8
+#EXTINF:-1 tvg-id="GalaxiATeVe.do@SD" tvg-logo="https://grupomediosdelnorte.com/iptv/galaxia.png" group-title="República Dominicana",Galaxia TV
+https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
+#EXTINF:-1 tvg-id="GHTelevision.do@SD" tvg-logo="https://i.imgur.com/xhkiiO3.png" group-title="República Dominicana",GH Television
+https://fox.hostlagarto.com:8081/ghtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="GiTelevision.do@SD" tvg-logo="https://i.imgur.com/br9TNG8.png" group-title="República Dominicana",Gi Television
+https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8
+#EXTINF:-1 tvg-id="GlobalSocialTV.do@SD" tvg-logo="https://imgur.com/sGN1NbR.png" group-title="República Dominicana",Global Social TV
+https://stream.castr.com/6809124f3f3e7e594c63cf15/live_8e5d0b50206a11f08690576446b3c082/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="GlobalTV.do@SD" tvg-logo="https://i.imgur.com/1rQaROm.png" group-title="República Dominicana",Global TV
+https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="GuaymateTV.do@SD" tvg-logo="https://i.imgur.com/PBgQi9a.png" group-title="República Dominicana",Guaymate TV
+https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
+#EXTINF:-1 tvg-id="HainaVision.do@SD" tvg-logo="https://i.imgur.com/eoodUNJ.png" group-title="República Dominicana",Haina Vision
+https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
+#EXTINF:-1 tvg-id="HermanasMirabalTV.do@SD" tvg-logo="https://i.imgur.com/cbKgcGh.png" group-title="República Dominicana",Hermanas Mirabal TV
+https://fox.hostlagarto.com:8081/hmtv/index.m3u8
+#EXTINF:-1 tvg-id="HilandoFinoTV.do@SD" tvg-logo="https://i.imgur.com/E7ta6g8.png" group-title="República Dominicana",Hilando Fino TV
+https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
+#EXTINF:-1 tvg-id="Hits360TV.do@SD" tvg-logo="https://i.imgur.com/Cx5V233.jpg" group-title="República Dominicana",Hits 360 TV
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="HTVLive.do@SD" tvg-logo="https://i.imgur.com/0WBsAin.png" group-title="República Dominicana",HTV Live
+https://fox.hostlagarto.com:8081/canalhtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ImagenUniversalTV.do@SD" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="República Dominicana",Imagen Universal TV
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1 tvg-id="InformeTV.do@HD" tvg-logo="https://imgur.com/TmJaXrO.jpg" group-title="República Dominicana",Informe TV
+https://edge.essastream.com/informetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="JARABACOATV.do@HD" tvg-logo="https://imgur.com/m9WCrlw.jpg" group-title="República Dominicana",Jarabacoa TV
+https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JimaniTV.do@SD" tvg-logo="https://imgur.com/EPYHUSc.jpeg" group-title="República Dominicana",Jimani TV
+https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
+#EXTINF:-1 tvg-id="JPDTV.do@HD" tvg-logo="https://i0.wp.com/juanpabloduartetv.com/wp-content/uploads/2024/08/logo-JPDTV-100-x-100.png" group-title="República Dominicana",JPD TV
+https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8
+#EXTINF:-1 tvg-id="JuniorTechnologiaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3812-294x165-FFFFFF.jpg" group-title="República Dominicana",Junior Technologia TV
+https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
+#EXTINF:-1 tvg-id="LaCaletaTV.do@SD" tvg-logo="https://i.imgur.com/EfMtOja.png" group-title="República Dominicana",La Caleta TV
+https://edge.essastream.com/lacaletatv/playlist.m3u8
+#EXTINF:-1 tvg-id="LaDescargaTV.do@HD" tvg-logo="https://imgur.com/kq1CrDE.png" group-title="República Dominicana",La Descarga TV
+https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
+#EXTINF:-1 tvg-id="LaHoraTV.do@HD" tvg-logo="https://lahoratv.org/imagen/lahora.jpeg" group-title="República Dominicana",La Hora TV
+https://edge.enhdtv.com/8206/index.m3u8
+#EXTINF:-1 tvg-id="LaReinaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3386-294x165-FFFFFF.jpg" group-title="República Dominicana",La Reina TV
+https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
+#EXTINF:-1 tvg-id="LaRutaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2896-294x165-FFFFFF.jpg" group-title="República Dominicana",La Ruta TV
+https://streamunoapp.com:3983/live/larutatvlive.m3u8
+#EXTINF:-1 tvg-id="LaSultanadelEsteTV.do@SD" tvg-logo="https://i.imgur.com/UNiyOvd.png" group-title="República Dominicana",La Sultana del Este TV
+https://micanal.ovh/livestreams/544.EP3QGO4KPL66.m3u8
+#EXTINF:-1 tvg-id="LaVozdeJesusHD.do@HD" tvg-logo="https://gia.tv/streams/pstream/208429.png" group-title="República Dominicana",La Voz de Jesus HD
+https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
+#EXTINF:-1 tvg-id="LaVozdeMaria.do@SD" tvg-logo="https://i.imgur.com/Zv8CxZX.png" group-title="República Dominicana",La Voz de Maria
+https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
+#EXTINF:-1 tvg-id="LaVozdelTropico.do@SD" tvg-logo="https://i.imgur.com/DKDFpHt.png" group-title="República Dominicana",La Voz del Tropico
+https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8
+#EXTINF:-1 tvg-id="LagunaTV.do@HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/lagunatv.jpg" group-title="República Dominicana",Laguna TV
+https://cnn.hostlagarto.com/lagutv/playlist.m3u8
+#EXTINF:-1 tvg-id="LarivisionTV.do@HD" tvg-logo="https://www.larivision.com/web/wp-content/uploads/2025/07/logow.png" group-title="República Dominicana",Larivision TV
+https://cloud5.larivision.net/hls/live.m3u8
+#EXTINF:-1 tvg-id="LatinaTVInternacional.do@SD" tvg-logo="https://i.imgur.com/UAfyeYT.png" group-title="República Dominicana",Latina TV Internacional
+https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
+#EXTINF:-1 tvg-id="LenaTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3232-294x165-FFFFFF.jpg" group-title="República Dominicana",Lena TV
+https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8
+#EXTINF:-1 tvg-id="LinierosTV.do@SD" tvg-logo="https://i.imgur.com/bLutjkf.png" group-title="República Dominicana",Linieros TV
+https://soportedvb.click:3017/live/linierostvlive.m3u8
+#EXTINF:-1 tvg-id="LunaTVCanal53.do@SD" tvg-logo="https://i.imgur.com/EvX5aqI.png" group-title="República Dominicana",Luna TV Canal 53
+https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
+#EXTINF:-1 tvg-id="LuzDivinaTV.do@HD" tvg-logo="https://imgur.com/BHZw3PK.jpeg" group-title="República Dominicana",Luz Divina TV
+https://tv.wracanal10.com:3776/live/luzdivinatvlive.m3u8
+#EXTINF:-1 tvg-id="MaimonTVCanal3.do@SD" tvg-logo="https://i.imgur.com/twldaaC.png" group-title="República Dominicana",Maimon TV Canal 3
+https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8
+#EXTINF:-1 tvg-id="MakaoTV.do@SD" tvg-logo="https://i.imgur.com/asD5y7i.png" group-title="República Dominicana",Makao TV
+https://live.obslivestream.com/makaomux/index.m3u8
+#EXTINF:-1 tvg-id="MakinaTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2951-294x165-FFFFFF.jpg" group-title="República Dominicana",Makina TV
+https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8
+#EXTINF:-1 tvg-id="ManaclarTelevision.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3445-294x165-FFFFFF.jpg" group-title="República Dominicana",Manaclar Television
+https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
+#EXTINF:-1 tvg-id="ManielTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4060-294x165-FFFFFF.jpg" group-title="República Dominicana",Maniel TV
+https://stream.inliveserver.com:19360/8010/8010.m3u8
+#EXTINF:-1 tvg-id="MarkaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3355-294x165-FFFFFF.jpg" group-title="República Dominicana",Marka TV
+https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
+#EXTINF:-1 tvg-id="MarlaVision.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3738-294x165-FFFFFF.jpg" group-title="República Dominicana",Marla Vision
+https://soportedvb.click:3877/live/merlavisionlive.m3u8
+#EXTINF:-1 tvg-id="MegaCineTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="República Dominicana",Mega Cine TV
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+#EXTINF:-1 tvg-id="MegaVisionTV.do@SD" tvg-logo="https://i.imgur.com/u5ECnZd.png" group-title="República Dominicana",Megavisión TV
+http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+#EXTINF:-1 tvg-id="MITurnoTV.do@SD" tvg-logo="https://imgur.com/uODDaEY.png" group-title="República Dominicana",Mi Turno TV
+https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
+#EXTINF:-1 tvg-id="MiavisionTV.do@HD" tvg-logo="https://imgur.com/Bbcrjvs.png" group-title="República Dominicana",Miavision TV
+https://edge.essastream.com/miavisiontv/playlist.m3u8
+#EXTINF:-1 tvg-id="Microvision10.do@SD" tvg-logo="https://i.imgur.com/wMl1fNZ.png" group-title="República Dominicana",Microvision 10
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
+#EXTINF:-1 tvg-id="MisionELTV.do@SD" tvg-logo="https://i.imgur.com/hwC1stN.png" group-title="República Dominicana",Mision ELTV
+https://rd.tvabierta.net/live/misioneltv.m3u8
+#EXTINF:-1 tvg-id="MocaVisionCanal48.do@SD" tvg-logo="https://i.imgur.com/vclDXV7.jpeg" group-title="República Dominicana",Moca Vision Canal 48
+https://stream.castr.com/5da89a909db964293ad13301/live_2da463407fcc11f19ca8e70e403e6b54/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="MontecristiDigital8.do@HD" tvg-logo="https://imgur.com/ExoOHQI.jpeg" group-title="República Dominicana",Montecristi Digital 8
+https://soportedvb.click:3400/live/montecristitvlive.m3u8
+#EXTINF:-1 tvg-id="MontonesTV.do@HD" tvg-logo="https://montonestv.com/wp-content/uploads/2025/11/montones-logo.png" group-title="República Dominicana",Montones TV
+https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8
+#EXTINF:-1 tvg-id="MorroTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3759-294x165-FFFFFF.jpg" group-title="República Dominicana",Morro TV
+https://fox.hostlagarto.com:8081/morrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="Musavision.do@SD" tvg-logo="https://i.imgur.com/wMse6cT.png" group-title="República Dominicana",Musavision
+https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NaranjaTV.do@SD" tvg-logo="https://i.imgur.com/g7iFN3s.png" group-title="República Dominicana",Naranja TV
+https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
+#EXTINF:-1 tvg-id="NavarreteTelevision.do@HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/navarrete.png" group-title="República Dominicana",Navarrete Television
+https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8
+#EXTINF:-1 tvg-id="NexxoTV.do@SD" tvg-logo="https://i.imgur.com/2OpCxa6.png" group-title="República Dominicana",Nexxo TV
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+#EXTINF:-1 tvg-id="NitidaTV.do@SD" tvg-logo="https://i.imgur.com/z9JkxcM.png" group-title="República Dominicana",Nitida TV
+https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
+#EXTINF:-1 tvg-id="Noticias16.do@SD" tvg-logo="" group-title="República Dominicana",Noticias 16
+https://edge.essastream.com/noticias16/playlist.m3u8
+#EXTINF:-1 tvg-id="NotisurTV.do@HD" tvg-logo="https://rdomint.com/images/station/300.jpg" group-title="República Dominicana",Notisur TV
+https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8
+#EXTINF:-1 tvg-id="NuevaVision14.do@HD" tvg-logo="https://imgur.com/0fWQS53.png" group-title="República Dominicana",Nueva Vision 14
+https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8
+#EXTINF:-1 tvg-id="OEPMTV.do@SD" tvg-logo="https://i.imgur.com/QghtwMB.jpeg" group-title="República Dominicana",OEPM TV
+https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="OndaTV.do@SD" tvg-logo="https://i.imgur.com/RUIyD9a.png" group-title="República Dominicana",Onda TV
+https://cnn.hostlagarto.com/ondatv/index.m3u8
+#EXTINF:-1 tvg-id="ORBITTV.do@SD" tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="República Dominicana",Orbit TV
+https://edge.essastream.com/orbittv/index.m3u8
+#EXTINF:-1 tvg-id="OxiTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3801-294x165-FFFFFF.jpg" group-title="República Dominicana",Oxi TV
+https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
+#EXTINF:-1 tvg-id="PalmarTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3328-294x165-FFFFFF.jpg" group-title="República Dominicana",Palmar TV
+https://streamunoapp.com:3255/live/palmartvlive.m3u8
+#EXTINF:-1 tvg-id="PeraviaVision.do@SD" tvg-logo="https://i.imgur.com/k1Wj5ka.png" group-title="República Dominicana",Peravia Vision
+https://ss2.tvrdomi.com:1936/peraviavision/peraviavision/playlist.m3u8
+#EXTINF:-1 tvg-id="PortalDigitalTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3664-294x165-FFFFFF.jpg" group-title="República Dominicana",Portal Digital TV
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/5ccadd2a-00ad-4a5b-8322-4b5f69464a68/source/index.m3u8
+#EXTINF:-1 tvg-id="PronemsTV.do@SD" tvg-logo="https://i.imgur.com/a9ORO1G.png" group-title="República Dominicana",Pronems TV
+https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8
+#EXTINF:-1 tvg-id="PulaTV.do@SD" tvg-logo="https://i.imgur.com/8gSLJ2f.png" group-title="República Dominicana",Pula TV
+https://fox.hostlagarto.com:8081/pulatv/index.m3u8
+#EXTINF:-1 tvg-id="PuntaCanaTV.do@SD" tvg-logo="https://i.imgur.com/KF7fLTx.png" group-title="República Dominicana",Punta Cana TV
+https://fox.hostlagarto.com:8081/puntacanatv/index.m3u8
+#EXTINF:-1 tvg-id="PuntoTV.do@SD" tvg-logo="https://imgur.com/vfvN6ox.png" group-title="República Dominicana",Punto TV
+https://fox.hostlagarto.com:8081/puntotv/index.m3u8
+#EXTINF:-1 tvg-id="PuntoTVDigital40.do@SD" tvg-logo="https://puntotvdigital.net/wp-content/uploads/2024/02/logo.png" group-title="República Dominicana",Punto TV Digital 40
+https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/playlist.m3u8
+#EXTINF:-1 tvg-id="RTelevision.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3039-294x165-FFFFFF.jpg" group-title="República Dominicana",R Television
+https://vdopanel.jlahozconsulting.com/p/3142/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="RETV.do@SD" tvg-logo="https://i.imgur.com/HpKQYp3.png" group-title="República Dominicana",R&E TV
+https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8
+#EXTINF:-1 tvg-id="RDN.do@SD" tvg-logo="https://i.imgur.com/x02CGSW.png" group-title="República Dominicana",RDN
+https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ReadyTVCanal6.do@SD" tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="República Dominicana",Ready TV Canal 6
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
+#EXTINF:-1 tvg-id="RedSocialCodiTV.do@SD" tvg-logo="https://i.imgur.com/Yb4lhpG.png" group-title="República Dominicana",Red Social Codi TV
+https://mp.panelchs.com:1936/8040/8040/playlist.m3u8
+#EXTINF:-1 tvg-id="ReporteroTV.do@HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/Reportero-100x75-1.png" group-title="República Dominicana",Reportero TV
+https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8
+#EXTINF:-1 tvg-id="RNN.do@SD" tvg-logo="https://i.imgur.com/12Z9qPw.png" group-title="República Dominicana",RNN
+https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
+#EXTINF:-1 tvg-id="RNN.do@DOS" tvg-logo="https://i.imgur.com/12Z9qPw.png" group-title="República Dominicana",RNN DOS
+https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8
+#EXTINF:-1 tvg-id="RocavisionTV.do@SD" tvg-logo="https://imgur.com/FkHqqsi.jpg" group-title="República Dominicana",Rocavision TV
+https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
+#EXTINF:-1 tvg-id="RomanaTVCanal42.do@SD" tvg-logo="https://i.imgur.com/EXnsmhx.png" group-title="República Dominicana",Romana TV Canal 42
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+#EXTINF:-1 tvg-id="Ruta66TV.do@SD" tvg-logo="https://i.imgur.com/oY4Xfvq.png" group-title="República Dominicana",Ruta 66 TV
+https://cnn.livestreaminggroup.info:3796/live/ruta66tvlive.m3u8
+#EXTINF:-1 tvg-id="SanIsidroTV.do@SD" tvg-logo="https://i.imgur.com/pwmJrsm.jpg" group-title="República Dominicana",San Isidro TV
+https://5790d294af2dc.streamlock.net/expresooriental/expresooriental/playlist.m3u8
+#EXTINF:-1 tvg-id="SantaCruzTV.do@HD" tvg-logo="https://santacruztv8.com/assets/images/logo.png" group-title="República Dominicana",Santa Cruz TV
+https://host.streamingnation.live/p/3345/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="SantiagoTV.do@SD" tvg-logo="https://i.imgur.com/10SUxGZ.png" group-title="República Dominicana",Santiago TV
+https://edge.essastream.com/telemilenio/playlist.m3u8
+#EXTINF:-1 tvg-id="SenalDigitalTV.do@HD" tvg-logo="https://imgur.com/KGqUu1X.jpg" group-title="República Dominicana",Señal Digital TV
+https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
+#EXTINF:-1 tvg-id="SenalesTV.do@SD" tvg-logo="https://i.imgur.com/7Zr79F2.png" group-title="República Dominicana",Señales TV
+https://live.dionelysterrero.com/senalestv/stream.m3u8
+#EXTINF:-1 tvg-id="SiembraTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3226-294x165-FFFFFF.jpg" group-title="República Dominicana",Siembra TV
+https://streamunoapp.com:3809/live/siembratvlive.m3u8
+#EXTINF:-1 tvg-id="SimavisionCanal18.do@SD" tvg-logo="https://i.imgur.com/io9o30K.jpg" group-title="República Dominicana",Sima Vision TV
+https://soportedvb.click:3668/live/simavisiontvlive.m3u8
+#EXTINF:-1 tvg-id="Super7FM.do@SD" tvg-logo="https://i.imgur.com/TJEqwZo.png" group-title="República Dominicana",Super 7 FM
+https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
+#EXTINF:-1 tvg-id="SuperCanal.do@SD" tvg-logo="https://i.imgur.com/AZBamNi.png" group-title="República Dominicana",Super Canal
+https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperDigitalTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3431-294x165-FFFFFF.jpg" group-title="República Dominicana",Super Digital TV
+https://stream.inliveserver.com:19360/8006/8006.m3u8
+#EXTINF:-1 tvg-id="SuperTV55.do@SD" tvg-logo="https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg" group-title="República Dominicana",Super TV 55
+https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8
+#EXTINF:-1 tvg-id="Supremateve.do@HD" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/supremateve.jpeg" group-title="República Dominicana",Supremateve
+https://ss2.tvrdomi.com:1936/supremateve/supremateve/playlist.m3u8
+#EXTINF:-1 tvg-id="SurTV.do@SD" tvg-logo="https://i.imgur.com/oAyvK0N.jpeg" group-title="República Dominicana",Sur TV
+https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8
+#EXTINF:-1 tvg-id="TDNMedios.do@SD" tvg-logo="https://i.imgur.com/C8dSJM7.png" group-title="República Dominicana",TDN Medios
+https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8
+#EXTINF:-1 tvg-id="TeleAntillas.do@SD" tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="República Dominicana",Tele Antillas
+http://45.171.108.253:8888/TELEANTILLAS/index.m3u8
+#EXTINF:-1 tvg-id="TeleDajabonTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3822-294x165-FFFFFF.jpg" group-title="República Dominicana",Tele Dajabon TV
+https://tuvideoonline.com.ar:3599/live/tvdajabonlive.m3u8
+#EXTINF:-1 tvg-id="TeleDominicanaTV.do@SD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/teledominicana.png" group-title="República Dominicana",Tele Dominicana TV
+https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="TeleOla44.do@SD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/tele-ola.jpeg" group-title="República Dominicana",Tele Ola 44
+https://teleola.ddns.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TelePoderTV.do@HD" tvg-logo="https://www.telepoder.online/wp-content/uploads/2024/02/cropped-cropped-Logo-PoderTV2.png" group-title="República Dominicana",Tele Poder TV
+https://cdn.telepoder.online:3229/dash/stream.m3u8
+#EXTINF:-1 tvg-id="TeleProyectoTV.do@HD" tvg-logo="https://imgur.com/LmBxN5x.png" group-title="República Dominicana",Tele Proyecto TV
+https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
+#EXTINF:-1 tvg-id="Telealtura.do@SD" tvg-logo="https://i.imgur.com/Ql2eaP0.png" group-title="República Dominicana",Telealtura
+https://lbgo.bozztv.com/ssh101/ssh101/telealtura/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleBendicion.do@SD" tvg-logo="https://i.imgur.com/nh4sNVI.png" group-title="República Dominicana",TeleBendicion
+https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecanal12.do@SD" tvg-logo="https://i.imgur.com/90cTK8S.png" group-title="República Dominicana",Telecanal 12
+https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Telecanal28.do@SD" tvg-logo="https://i.imgur.com/hEJ6lZ9.png" group-title="República Dominicana",Telecanal 28
+https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Telecentro.do@SD" tvg-logo="https://i.imgur.com/F17zNXh.png" group-title="República Dominicana",Telecentro
+http://190.122.104.210:5080/LiveApp/streams/tcentro.m3u8
+#EXTINF:-1 tvg-id="TeleCibaoHD.do@SD" tvg-logo="https://i.imgur.com/IpInp05.png" group-title="República Dominicana",TeleCibao HD
+https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TelecomercioTV.do@SD" tvg-logo="https://imgur.com/FtV5TCs.jpg" group-title="República Dominicana",Telecomercio TV
+https://streaming.grupomediosdelnorte.com:19360/telecomerciotv/telecomerciotv.m3u8
+#EXTINF:-1 tvg-id="Telecontacto.do@SD" tvg-logo="https://i.imgur.com/TMvV9dF.png" group-title="República Dominicana",Telecontacto
+https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
+#EXTINF:-1 tvg-id="Telefuturo.do@SD" tvg-logo="https://i.imgur.com/QpnctoU.png" group-title="República Dominicana",Telefuturo
+http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8
+#EXTINF:-1 tvg-id="Teleimpacto.do@SD" tvg-logo="https://i.imgur.com/dBEysOV.png" group-title="República Dominicana",Teleimpacto
+https://vpss2003.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="Telemax.do@SD" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="República Dominicana",Telemax
+https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TelemetroTV.do@SD" tvg-logo="https://imgur.com/Ck2NL0t.png" group-title="República Dominicana",Telemetro TV
+https://streamunoapp.com:3366/live/telemetrolive.m3u8
+#EXTINF:-1 tvg-id="Telemicro.do@SD" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="República Dominicana",Telemicro
+http://190.122.104.210:5080/LiveApp/streams/telemicrolocal5.m3u8
+#EXTINF:-1 tvg-id="TelemicroInternacional.do@SD" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="República Dominicana",Telemicro Internacional
+http://200.115.120.1:8000/play/ca085/index.m3u8
+#EXTINF:-1 tvg-id="TelenewsTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3878-294x165-FFFFFF.jpg" group-title="República Dominicana",Telenews TV
+https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8
+#EXTINF:-1 tvg-id="Telenord8.do@SD" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="República Dominicana",Telenord 8
+https://fox.hostlagarto.com:8081/telenord8/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenord10.do@SD" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="República Dominicana",Telenord 10
+https://fox.hostlagarto.com:8081/telenord10/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenord12.do@SD" tvg-logo="https://i.imgur.com/o7EzEsV.png" group-title="República Dominicana",Telenord 12
+https://fox.hostlagarto.com:8081/telenord12/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenovisa43.do@SD" tvg-logo="https://i.imgur.com/iHvf3bR.png" group-title="República Dominicana",Telenovisa 43
+https://fox.hostlagarto.com:8081/telenonisa43/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TeleRadioNorte.do@SD" tvg-logo="https://i.imgur.com/s43eFy0.png" group-title="República Dominicana",TeleRadioNorte
+https://angelistic.live:3785/live/tvoficiallive.m3u8
+#EXTINF:-1 tvg-id="Telesantodomingo.do@SD" tvg-logo="https://i.imgur.com/rI8c5UM.png" group-title="República Dominicana",Telesantodomingo
+https://vdopanel.jlahozconsulting.com:3769/live/santodomingolive.m3u8
+#EXTINF:-1 tvg-id="TELESIGLO.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-294x165-FFFFFF.jpg" group-title="República Dominicana",Telesiglo
+https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Telesistema11.do@SD" tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="República Dominicana",Telesistema 11
+https://cdn3.wind.do/streams/telesistema/telesistema_master.m3u8
+#EXTINF:-1 tvg-id="Teletur.do@SD" tvg-logo="https://i.imgur.com/Ig4gR93.png" group-title="República Dominicana",Teletur
+https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Teleunion.do@SD" tvg-logo="https://i.imgur.com/vTfxkjW.png" group-title="República Dominicana",Teleunion
+http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
+#EXTINF:-1 tvg-id="Telever.do@SD" tvg-logo="https://imgur.com/ejKctXc.png" group-title="República Dominicana",Telever
+https://soportedvb.click:3413/live/televerlive.m3u8
+#EXTINF:-1 tvg-id="TeleviaductoCanal3.do@SD" tvg-logo="https://i.imgur.com/M9A6hqR.png" group-title="República Dominicana",Televiaducto Canal 3
+https://stream.castr.com/5da89a909db964293ad13301/live_d8372fa07fcb11f18271bf033930834b/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="TeleviaductoCanal14.do@SD" tvg-logo="https://i.imgur.com/M9A6hqR.png" group-title="República Dominicana",Televiaducto Canal 14
+https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_b78ea1b07fcc11f1a8c6adcd20e04bb9/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="Televida.do@SD" tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="República Dominicana",Televida
+https://cnn.hostlagarto.com/televida/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisiondelEste.do@SD" tvg-logo="https://i.imgur.com/mmjbcGr.png" group-title="República Dominicana",Television del Este
+https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TenarensesTV.do@SD" tvg-logo="https://i.imgur.com/cPIgs0v.png" group-title="República Dominicana",Tenarenses TV
+https://edge.essastream.com/tenarensestvrd/playlist.m3u8
+#EXTINF:-1 tvg-id="TigueritoTV.do@HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg" group-title="República Dominicana",Tiguerito TV
+https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
+#EXTINF:-1 tvg-id="TNECanal58.do@SD" tvg-logo="https://i.imgur.com/rSIB579.jpeg" group-title="República Dominicana",TNE Canal 58
+https://stream.castr.com/5da89a909db964293ad13301/live_8361cf307fcb11f18638734c8e2b001b/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg" group-title="República Dominicana",Tom And Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-id="TopicalMoonRD.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3900-294x165-FFFFFF.jpg" group-title="República Dominicana",Topical Moon RD
+https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8
+#EXTINF:-1 tvg-id="ToraCanal69.do@HD" tvg-logo="https://latoratv69.com.do/wp-content/themes/bootscore/assets/img/logo-tora-tv.png" group-title="República Dominicana",Tora Canal 69
+https://tv.wracanal10.com:3012/live/latoratvlive.m3u8
+#EXTINF:-1 tvg-id="TourSpotTV.do@HD" tvg-logo="https://imgur.com/khj869k.png" group-title="República Dominicana",Tour Spot TV
+https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
+#EXTINF:-1 tvg-id="TurismoHD.do@HD" tvg-logo="https://gia.tv/streams/pptv/208343.jpg" group-title="República Dominicana",Turismo HD
+https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
+#EXTINF:-1 tvg-id="TurismoRDTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3800-294x165-FFFFFF.jpg" group-title="República Dominicana",Turismo RD TV
+https://streamunoapp.com:3086/live/telemileniolive.m3u8
+#EXTINF:-1 tvg-id="TV10SanJuan.do@SD" tvg-logo="https://i.imgur.com/e2BXUdH.png" group-title="República Dominicana",TV 10 San Juan
+https://59d39900ebfb8.streamlock.net/tv10sanjuan/tv10sanjuan/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCanalSur.do@SD" tvg-logo="" group-title="República Dominicana",TV Canal Sur
+https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="TVCotuiCanal31.do@SD" tvg-logo="https://i.imgur.com/sMF7JDm.png" group-title="República Dominicana",TV Cotui Canal 31
+https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDaja.do@SD" tvg-logo="https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png" group-title="República Dominicana",TV Daja
+https://edge.essastream.com/dajatv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVExitos.do@SD" tvg-logo="https://i.imgur.com/ahz7X7u.png" group-title="República Dominicana",TV Éxitos
+https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
+#EXTINF:-1 tvg-id="TVHigueyDigital.do@SD" tvg-logo="https://i.imgur.com/ptQyOMi.png" group-title="República Dominicana",TV Higuey Digital
+https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8
+#EXTINF:-1 tvg-id="TVHispanic.us@SD" tvg-logo="https://i.imgur.com/eThe0io.png" group-title="República Dominicana",TV Hispanic
+https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
+#EXTINF:-1 tvg-id="TVLuz.do@SD" tvg-logo="https://i.imgur.com/FZUQ2WP.png" group-title="República Dominicana",TV Luz
+https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8
+#EXTINF:-1 tvg-id="TVMontanaCanal10.do@SD" tvg-logo="https://i.imgur.com/DHyRWc0.png" group-title="República Dominicana",TV Montana Canal 10
+https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPlata.do@SD" tvg-logo="https://i.imgur.com/r3urUnn.png" group-title="República Dominicana",TV Plata
+https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8
+#EXTINF:-1 tvg-id="TVQuisqueya.us@SD" tvg-logo="https://i.imgur.com/G7X4LQI.png" group-title="República Dominicana",TV Quisqueya
+https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
+#EXTINF:-1 tvg-id="TVN.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4037-294x165-FFFFFF.jpg" group-title="República Dominicana",TVN
+https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8
+#EXTINF:-1 tvg-id="TVN24.do@SD" tvg-logo="https://i.imgur.com/bu6bQMa.png" group-title="República Dominicana",TVN 24
+https://edge.essastream.com/vozzmedia/index.m3u8
+#EXTINF:-1 tvg-id="TVO.do@SD" tvg-logo="https://i.imgur.com/MhloaFB.png" group-title="República Dominicana",TVO
+https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
+#EXTINF:-1 tvg-id="TVS.do@SD" tvg-logo="https://i.imgur.com/a2YX1oj.jpg" group-title="República Dominicana",TVS
+https://imagenuniversaltv.net:3741/live/tvslive.m3u8
+#EXTINF:-1 tvg-id="UVATV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3918-294x165-FFFFFF.jpg" group-title="República Dominicana",UVA TV
+https://www.uvatvhd.com/hls.php?file=live.m3u8
+#EXTINF:-1 tvg-id="ValleNuevoTV.do@SD" tvg-logo="https://i.imgur.com/RvIkFxp.png" group-title="República Dominicana",Valle Nuevo TV
+https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
+#EXTINF:-1 tvg-id="Vallevision.do@SD" tvg-logo="https://i.imgur.com/lNpgFAU.png" group-title="República Dominicana",Vallevision Canal 10
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1 tvg-id="VegaTeve.do@SD" tvg-logo="https://i.imgur.com/jiyMOZx.png" group-title="República Dominicana",Vega Teve
+https://cloud5.livescast.com:19360/canalvegateve/canalvegateve.m3u8
+#EXTINF:-1 tvg-id="VegavisionCanal18.do@SD" tvg-logo="https://i.imgur.com/352jxnd.png" group-title="República Dominicana",Vegavision Canal 18
+https://fox.hostlagarto.com:8081/canal26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="VillaAltagraciaTV.do@SD" tvg-logo="https://i.imgur.com/uQAeKKa.png" group-title="República Dominicana",Villa Altagracia TV
+https://stream.inliveserver.com:19360/8004/8004.m3u8
+#EXTINF:-1 tvg-id="Vision3000.do@SD" tvg-logo="https://i.imgur.com/mogsnzp.png" group-title="República Dominicana",Vision 3000
+https://ss2.tvrdomi.com:1936/vision3000/vision3000/playlist.m3u8
+#EXTINF:-1 tvg-id="VisionNDV.do@SD" tvg-logo="https://i.imgur.com/4gj5NMa.png" group-title="República Dominicana",Vision NDV
+https://soportedvb.click:3891/live/visionndvlive.m3u8
+#EXTINF:-1 tvg-id="VTVCanal32.do@SD" tvg-logo="https://i.imgur.com/qjm4B0J.png" group-title="República Dominicana",VTV Canal 32
+https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
+#EXTINF:-1 tvg-id="XtraTv.do@HD" tvg-logo="https://xtratvrd.com/logo512.png" group-title="República Dominicana",Xtra TV
+https://edge.essastream.com/xtratv/index.m3u8
+#EXTINF:-1 tvg-id="XtremoChannel.do@SD" tvg-logo="https://i.imgur.com/bvPh0Uq.png" group-title="República Dominicana",Xtremo Channel
+https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
+#EXTINF:-1 tvg-id="Yunavision.do@SD" tvg-logo="https://i.imgur.com/YjceEv5.png" group-title="República Dominicana",Yunavision
+https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8
+#EXTINF:-1 tvg-id="ZASTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4058-294x165-FFFFFF.jpg" group-title="República Dominicana",ZAS TV
+https://cloud5.zastv.net/hls/zastv.m3u8
+#EXTINF:-1 tvg-id="ZincNombreTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3751-294x165-FFFFFF.jpg" group-title="República Dominicana",Zinc Nombre TV
+https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ZonavisionTV.do@SD" tvg-logo="https://imgur.com/B3PrrMH.png" group-title="República Dominicana",Zonavision TV
+https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Suyapa TV" tvg-logo="https://suyapamedios.hn/web/image/website/1/logo?unique=0dbcf8b" group-title="Religion",Suyapa TV
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/14888
+#EXTINF:-1 tvg-id="a07g" tvg-name="A&E" tvg-logo="https://i.imgur.com/mRPjzjy.png" group-title="Entretenimiento",A&E
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/135
+#EXTINF:-1 tvg-id="a0gl" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="Entretenimiento",AMC
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/137
+#EXTINF:-1 tvg-id="a0gk" tvg-name="AXN" tvg-logo="https://i.imgur.com/JKtOhME.png" group-title="Entretenimiento",AXN
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/139
+#EXTINF:-1 tvg-id="a0ff" tvg-name="Cine Latino" tvg-logo="https://i.imgur.com/8At2fCU.png" group-title="Entretenimiento",Cine Latino
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/140
+#EXTINF:-1 tvg-id="a07m" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/InvestigationDiscoveryLogo2020.svg" group-title="Entretenimiento",Investigation Discovery
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/145
+#EXTINF:-1 tvg-id="a0i9" tvg-name="HBO" tvg-logo="https://i.imgur.com/bquesTk.png" group-title="Entretenimiento",HBO
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/146
+#EXTINF:-1 tvg-id="a0ic" tvg-name="HBO Family" tvg-logo="https://i.imgur.com/BOOa7Zf.png" group-title="Entretenimiento",HBO Family
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/147
+#EXTINF:-1 tvg-id="a0id" tvg-name="HBO XTREME" tvg-logo="https://i.imgur.com/vTm8ZkC.png" group-title="Entretenimiento",HBO XTREME
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/149
+#EXTINF:-1 tvg-id="a0ia" tvg-name="HBO2" tvg-logo="https://i.imgur.com/ZyCj5gi.png" group-title="Entretenimiento",HBO2
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/150
+#EXTINF:-1 tvg-id="a09k" tvg-name="SPACE" tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png" group-title="Entretenimiento",SPACE
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/154
+#EXTINF:-1 tvg-id="a07w" tvg-name="Studio Universal" tvg-logo="https://i.imgur.com/hirdS4M.png" group-title="Entretenimiento",Studio Universal
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/157
+#EXTINF:-1 tvg-id="a09s" tvg-name="TNT" tvg-logo="https://i.imgur.com/DUyt64n.png" group-title="Entretenimiento",TNT
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/160
+#EXTINF:-1 tvg-id="a09l" tvg-name="TNT Series" tvg-logo="https://i.imgur.com/UBIzUUG.png" group-title="Entretenimiento",TNT Series
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/161
+#EXTINF:-1 tvg-id="a0fc" tvg-name="Universal" tvg-logo="https://i.imgur.com/GhjnHVI.png" group-title="Entretenimiento",Universal
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/162
+#EXTINF:-1 tvg-id="a0js" tvg-name="Universal Comedy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest/scale-to-width-down/250?cb=20220311032038" group-title="Entretenimiento",Universal Comedy
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/163
+#EXTINF:-1 tvg-id="a0jq" tvg-name="Universal Premiere" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw3fgKVd_Qvy-Q2-PZGYW3NfYcz8e2a6A4vxGxy3cv6Q&s" group-title="Entretenimiento",Universal Premiere
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/164
+#EXTINF:-1 tvg-id="a0h6" tvg-name="Universal Crime" tvg-logo="https://iili.io/JKgZg87.md.png" group-title="Entretenimiento",Universal Crime
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/165
+#EXTINF:-1 tvg-id="a093" tvg-name="Golden" tvg-logo="https://i.imgur.com/0FnRYM4.png" group-title="Entretenimiento",Golden
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/166
+#EXTINF:-1 tvg-id="a0ib" tvg-name="HBO Plus" tvg-logo="https://i.imgur.com/lIc2O4q.png" group-title="Entretenimiento",HBO Plus
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/148
+#EXTINF:-1 tvg-id="a07j" tvg-name="STAR CHANNEL" tvg-logo="https://i.imgur.com/l5NAmEf.png" group-title="Entretenimiento",STAR CHANNEL
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/155
+#EXTINF:-1 tvg-id="a08p" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/Avp5Rpn.png" group-title="Cultura",Animal Planet
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/167
+#EXTINF:-1 tvg-id="a08o" tvg-name="Discovery Channel" tvg-logo="https://www.kindpng.com/picc/m/396-3964365_023-discovery-discovery-channel-logo-2019-hd-png.png" group-title="Cultura",Discovery Channel
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/168
+#EXTINF:-1 tvg-id="a088" tvg-name="Discovery Civilization" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png" group-title="Cultura",Discovery Civilization
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/169
+#EXTINF:-1 tvg-id="a0fo" tvg-name="Discovery Science" tvg-logo="https://www.vhv.rs/dpng/d/132-1320098_discovery-science-la-2011-discovery-science-tv-logo.png" group-title="Cultura",Discovery Science
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/170
+#EXTINF:-1 tvg-id="a07k" tvg-name="Discovery Turbo" tvg-logo="https://www.pngfind.com/pngs/m/74-742126_discovery-turbo-logo-discovery-turbo-hd-png-download.png" group-title="Cultura",Discovery Turbo
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/171
+#EXTINF:-1 tvg-id="a08q" tvg-name="History" tvg-logo="https://www.vhv.rs/dpng/d/164-1640078_tv-network-logos-png-history-channel-logo-transparent.png" group-title="Cultura",History
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/172
+#EXTINF:-1 tvg-id="a0g7" tvg-name="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Cultura",H2
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/173
+#EXTINF:-1 tvg-id="a09m" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/Zvdswk9.png" group-title="Cultura",National Geographic
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/174
+#EXTINF:-1 tvg-id="a07g" tvg-name="Canal 11 HN" tvg-logo="https://i.imgur.com/CkQpoHj.png" group-title="Noticias",Canal 11 HN
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/176
+#EXTINF:-1 tvg-id="a07g" tvg-name="Telesistema HN" tvg-logo="https://i.imgur.com/2bbiXYG.png" group-title="Noticias",Telesistema HN
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/177
+#EXTINF:-1 tvg-id="a07g" tvg-name="Canal 5 HN" tvg-logo="https://i.imgur.com/nW70rPW.png" group-title="Noticias",Canal 5 HN
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/178
+#EXTINF:-1 tvg-id="a0gm" tvg-name="CNN en Español" tvg-logo="https://i.imgur.com/eByfEpv.png" group-title="Noticias",CNN en Español
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/181
+#EXTINF:-1 tvg-id="a07g" tvg-name="Telecadena 7/4 HN" tvg-logo="https://i.imgur.com/BnYXnxG.png" group-title="Noticias",Telecadena 7/4 HN
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/182
+#EXTINF:-1 tvg-id="a0fm" tvg-name="Baby TV" tvg-logo="https://i.imgur.com/Pl8QI3m.png" group-title="Infantiles",Baby TV
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/183
+#EXTINF:-1 tvg-id="a09d" tvg-name="Cartoonito" tvg-logo="https://logos-world.net/wp-content/uploads/2024/09/Cartoonito-Logo.png" group-title="Infantiles",Cartoonito
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/184
+#EXTINF:-1 tvg-id="a07i" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/gTRgITG.png" group-title="Infantiles",Disney Channel
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/186
+#EXTINF:-1 tvg-id="a09e" tvg-name="Disney JR" tvg-logo="https://i.imgur.com/F3pWjN9.png" group-title="Infantiles",Disney JR
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/187
+#EXTINF:-1 tvg-id="a07g" tvg-name="Discovery Kids" tvg-logo="https://i.pinimg.com/originals/5d/16/97/5d1697354b266bfbb505e4c512eb3c89.png" group-title="Infantiles",Discovery Kids
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/189
+#EXTINF:-1 tvg-id="a09c" tvg-name="Nick JR" tvg-logo=" " group-title="Infantiles",Nick JR
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/191
+#EXTINF:-1 tvg-id="a07h" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Infantiles",Nickelodeon
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/192
+#EXTINF:-1 tvg-id="a08t" tvg-name="ESPN" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/12/ESPN-Logo.png" group-title="Deportes",ESPN
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/197
+#EXTINF:-1 tvg-id="a08s" tvg-name="ESPN2" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="Deportes",ESPN2
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/195
+#EXTINF:-1 tvg-id="a0g9" tvg-name="ESPN3" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="Deportes",ESPN3
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/198
+#EXTINF:-1 tvg-id="a0fb" tvg-name="ESPN4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/ESPN_4_logo.svg" group-title="Deportes",ESPN4
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/199
+#EXTINF:-1 tvg-id="a0m8" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/ESPN_5_logo.svg" group-title="Deportes",ESPN 5
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/13454
+#EXTINF:-1 tvg-id="a0mc" tvg-name="ESPN 6" tvg-logo="https://i.imgur.com/i4xYbbV.png" group-title="Deportes",ESPN 6
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/201
+#EXTINF:-1 tvg-id="a0ba" tvg-name="TBN Enlace" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Enlace_TBN_2016.png/revision/latest/scale-to-width-down/1000?cb=20190910231626" group-title="Religion",TBN Enlace
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/202
+#EXTINF:-1 tvg-id="a091" tvg-name="Bein Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="Deportes",Bein Sport
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/200
+#EXTINF:-1 tvg-id="a0gi" tvg-name="Azcorazon" tvg-logo="https://cdn.mitvstatic.com/channels/hn_az-corazon_m.png" group-title="Entretenimiento",Azcorazon
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/204
+#EXTINF:-1 tvg-id="a0h5" tvg-name="Universal Reality" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/f/f5/UniversalReality.png/revision/latest?cb=20240130202326&path-prefix=es" group-title="Entretenimiento",Universal Reality
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/205
+#EXTINF:-1 tvg-id="a08l" tvg-name="E! Entertainment" tvg-logo="https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png" group-title="Entretenimiento",E! Entertainment
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/206
+#EXTINF:-1 tvg-id="a0fa" tvg-name="Discovery Home & Health" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="Entretenimiento",Discovery Home & Health
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/207
+#EXTINF:-1 tvg-id="a0g5" tvg-name="RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RCN_Novelas.png" group-title="Entretenimiento",RCN Novelas
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/208
+#EXTINF:-1 tvg-id="a0hf" tvg-name="Azmundo" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="Entretenimiento",Azmundo
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/210
+#EXTINF:-1 tvg-id="a09i" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="Entretenimiento",Telemundo
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/211
+#EXTINF:-1 tvg-id="a0fx" tvg-name="TLC" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/TLC-Logo.png" group-title="Entretenimiento",TLC
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/212
+#EXTINF:-1 tvg-id="a0k4" tvg-name="Canal de Las Estrellas" tvg-logo="https://i.imgur.com/ybTac1m.png" group-title="Entretenimiento",Canal de Las Estrellas
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/331
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 HN" tvg-logo="https://i.imgur.com/HBD1g8w.png" group-title="Noticias",Canal 6 HN
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/332
+#EXTINF:-1 tvg-id="a0hm" tvg-name="Antena3 Series" tvg-logo="https://fotografias.atresseries.com/clipping/cmsimages02/2018/02/22/20C2BFA8-ACA3-47DA-AAFB-188D456AB2A9/58.jpg" group-title="Entretenimiento",Antena3 Series
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/336
+#EXTINF:-1 tvg-id="" tvg-name="Ebenezer TV" tvg-logo="https://1.bp.blogspot.com/-_0Nrw9NOw8c/XRDXrzt4jWI/AAAAAAAAH3s/bTzQrrVDPKgY-glvRMq3fz1byAiI4VBnACLcBGAs/s1600/Canal%2BEbenezer.png" group-title="Religion",Ebenezer TV
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/337
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="https://www.dafont.com/forum/attach/orig/9/9/994013.png" group-title="Entretenimiento",Distrito Comedia
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/341
+#EXTINF:-1 tvg-id="" tvg-name="HCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logohch2022.png" group-title="Noticias",HCH
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/347
+#EXTINF:-1 tvg-id="a0a8" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg" group-title="Entretenimiento",Univision
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/349
+#EXTINF:-1 tvg-id="a0hi" tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento",Lifetime
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/352
+#EXTINF:-1 tvg-id="a07g" tvg-name="Claro Sports" tvg-logo="https://i.imgur.com/olWRiSo.png" group-title="Deportes",Claro Sports
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/355
+#EXTINF:-1 tvg-id="a0hv" tvg-name="Claro Sports 2" tvg-logo="https://i.imgur.com/jEZBCfZ.png" group-title="Deportes",Claro Sports 2
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1645
+#EXTINF:-1 tvg-id="" tvg-name="3ABN Latino" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/3ABN-Latino-en-directo-Online.png" group-title="Religion",3ABN Latino
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/18
+#EXTINF:-1 tvg-id="a0hn" tvg-name="CNN International" tvg-logo="https://i.imgur.com/eByfEpv.png" group-title="Noticias",CNN International
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/382
+#EXTINF:-1 tvg-id="a0hp" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Infantiles",Tooncast
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/639
+#EXTINF:-1 tvg-id="a0hs" tvg-name="Baby First" tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png" group-title="Infantiles",Baby First
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/702
+#EXTINF:-1 tvg-id="" tvg-name="TDTV" tvg-logo="https://i.imgur.com/lgT4I1T.png" group-title="Deportes",TDTV
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1442
+#EXTINF:-1 tvg-id="" tvg-name="Teleprogreso" tvg-logo="https://i.imgur.com/kVThhPL.png" group-title="Noticias",Teleprogreso
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1443
+#EXTINF:-1 tvg-id="" tvg-name="UNE TV" tvg-logo="https://i.imgur.com/vrzFGz7.png" group-title="Noticias",UNE TV
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1444
+#EXTINF:-1 tvg-id="" tvg-name="TLNovelas MX" tvg-logo="https://i.imgur.com/Et3IJSq.png" group-title="Entretenimiento",TLNovelas MX
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1563
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports HN" tvg-logo="https://i.imgur.com/T6XcvYT.png" group-title="Deportes",Tigo Sports HN
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1648
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports La Liga" tvg-logo="https://pngdownload.io/wp-content/uploads/2023/12/LaLiga-Logo-PNG-Official-Symbol-for-Football-League-Transparent-jpg.webp" group-title="Deportes",Sky Sports La Liga
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1650
+#EXTINF:-1 tvg-id="" tvg-name="DirectTV Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400" group-title="Deportes",DirectTV Sports
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1564
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Bundesliga" tvg-logo="https://logowik.com/content/uploads/images/bundesliga7083.jpg" group-title="Deportes",Sky Sports Bundesliga
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/381
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT MEXICO" tvg-logo="https://logotyp.us/file/fox-sports.svg" group-title="Deportes",FOX SPORT MEXICO
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/333
+#EXTINF:-1 tvg-id="a0hx" tvg-name="EWTN" tvg-logo="https://cdn.mitvstatic.com/channels/pe_ewtn_m.png" group-title="Religion",EWTN
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1657
+#EXTINF:-1 tvg-id="" tvg-name="Teleceiba" tvg-logo="https://www.gifservice.fr/es/gif/multimedia-canales-tv-mundo-honduras-teleceiba-g17754-p380047-flarge.gif" group-title="Noticias",Teleceiba
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1927
+#EXTINF:-1 tvg-id="" tvg-name="Esperanza TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/556da91de4b010ed6e0bddff/1442361594280-58B1XRFMF2CIL5843DQY/image-asset.png" group-title="Religion",Esperanza TV
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1928
+#EXTINF:-1 tvg-id="" tvg-name="CHTV" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/14/9e/04/149e0451-f4d5-4ce7-e511-cf78fba20f38/AppIcon-1x_U007emarketing-0-7-0-85-220.jpeg/1200x600wa.png" group-title="Noticias",CHTV
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/2824
+#EXTINF:-1 tvg-id="a0ig" tvg-name="ZooMoo" tvg-logo="https://i.imgur.com/MnLHdgk.png" group-title="Infantiles",ZooMoo
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/2969
+#EXTINF:-1 tvg-id="a0ie" tvg-name="Unversal Premiere O" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/d/dd/UniversalPremiere.png/revision/latest?cb=20240130200911&path-prefix=es" group-title="Entretenimiento",Unversal Premiere O
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/3148
+#EXTINF:-1 tvg-id="a0it" tvg-name="Antena3" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2017/07/14114934/Antena-3-Internacional.png" group-title="Noticias",Antena3
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/4412
+#EXTINF:-1 tvg-id="a0iu" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="Entretenimiento",TVE
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/4413
+#EXTINF:-1 tvg-id="" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/VTV_HN_logo_2019.png" group-title="Noticias",VTV
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/4420
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/4e6905b/2147483647/strip/true/crop/500x113+0+0/resize/2124x480!/format/webp/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F4e%2F44%2F081843da43db8f02ef86afeeb687%2Flogotvazteca.webp" group-title="Entretenimiento",Azteca 7
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/5311
+#EXTINF:-1 tvg-id="a0jr" tvg-name="Universal Cinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg" group-title="Entretenimiento",Universal Cinema
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/5386
+#EXTINF:-1 tvg-id="a0kz" tvg-name="Guatevision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Guatevision_2003-logo_simplified.png" group-title="Noticias",Guatevision
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/6300
+#EXTINF:-1 tvg-id="" tvg-name="Hope Channel Interamerica" tvg-logo="https://images.hopeplatform.org/resize/L3dfNTAwX19xXzgwL2hvcGUtaW1hZ2VzLzYyNTNmMDUxNWY0NjA3OWU5NjQ4ZTU0Mi9GUlExNjUyMjQ5MjE4NDk1LnN2Zw/w_500__q_80/hope-images/6253f0515f46079e9648e542/FRQ1652249218495.svg" group-title="Religion",Hope Channel Interamerica
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1929
+#EXTINF:-1 tvg-id="a0ly" tvg-name="Adult Swim" tvg-logo="https://m.media-amazon.com/images/I/31EBJJgC2PL.png" group-title="Entretenimiento",Adult Swim
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/11225
+#EXTINF:-1 tvg-id="a0lz" tvg-name="TNT Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Entretenimiento",TNT Novelas
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/11226
+#EXTINF:-1 tvg-id="a0jz" tvg-name="ESPN SUR" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/12/ESPN-Logo.png" group-title="Deportes",ESPN SUR
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/5321
+#EXTINF:-1 tvg-id="a0jy" tvg-name="ESPN2 SUR" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="Deportes",ESPN2 SUR
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/5322
+#EXTINF:-1 tvg-id="a0k1" tvg-name="Azteca Deportes" tvg-logo="data:image/jpeg;base64,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" group-title="Deportes",Azteca Deportes
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/3138
+#EXTINF:-1 tvg-id="" tvg-name="Canal 8 HN" tvg-logo="data:image/jpeg;base64,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" group-title="Noticias",Canal 8 HN
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/12774
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canal_5_Mexico_logo_2014.svg" group-title="Entretenimiento",Canal 5 MX
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/12775
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks" tvg-logo="https://www.dreamworks.com/images/favicon/apple-icon-57x57.png" group-title="Infantiles",DreamWorks
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/13210
+#EXTINF:-1 tvg-id="" tvg-name="DePelicula" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="Entretenimiento",DePelicula
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/13211
+#EXTINF:-1 tvg-id="a0m5" tvg-name="El Gourmet" tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/light/tlusfzwag1_amcnila-2023-04-egrebrand-update-cz-logo-pag-int.webp" group-title="Cultura",El Gourmet
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/13443
+#EXTINF:-1 tvg-id="" tvg-name="France 24 Internacional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRirAW4Pn3_w0btafa2Bb_jNy5bDAhi7_BrDA&s" group-title="Noticias",France 24 Internacional
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/14558
+#EXTINF:-1 tvg-id="" tvg-name="Deportes TVC" tvg-logo="https://www.deportestvc.com/_next/static/media/logo-deportes-white-yellow-stripes.1d402daa.webp" group-title="Deportes",Deportes TVC
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/10408
+#EXTINF:-1 tvg-id="" tvg-name="3ABN Ingles" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAA3lBMVEX///8Aj8sAt/H///3//v8Aj8pu0PcAjMsAiMkAiMcwnM+21urk9Pro9fkAgsgAh8iFut2Rx+Rpr9j///rd7PQAt/Cq1emlzeb2+vucyeUFktAAhci02u8AtPPV7fXy+vzB3u9hq9lNptNts9nM5fC25PfK4PB/tdxms9r3/vsmls3d8/pAntF0stwAsfKq4vbE5fHT5e+Iw9+S2/dXqdNMo9WgzOSD0fJ5ut0AfMLt+/sywPWg3/MtlcnO7flXp9lfx/FLyO520/G85ftExPGU2PiPyOG31O2WwuTB2e1j6G57AAAVfUlEQVR4nO1cDXuiuNqOfcSAQkGgAlIF1NaR4ra21XHbmbZnz8xO5///oTdBJeFL6e7Zs+fdK/c105liCMnN851EhAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBP55aJO/8HcP4v8LgFIl2DoGgJQidxz+8N7f+86P8GZ3UdBWBVj0trHuy1jBWFawryvJ+x2y/u5h/c+BSI/VW5/rGLda0u6PRH8qPp6PQchWBkoFBH1ZJ0RVwU9CwVaKNjFLtg2OLlczRYH9OPxrTD6V2fYOR4ZYjeM9n25X+JgQcapPOl7DgL5fI1UHuvRI+8ul628TX8pRG8A9OQB4ig3k+cRCMUjEvqd/JJwaLgoZD+Ck7SKeE9zx4N0wjPfNtYZO3jGbGxm8mj41rk0R706ouhX+OuDu6VV2G2Yt5qvUDoXLT9OedWy8AKq8hdDnqMJ+C3fX0adP5iQZthQlY9CfLk6S5faiFnGihGcsE1/at0+Ii0k8yh6KHlT3qfq4BsRp+7o+/DTQijep51wzu6rbftar36MmxjFmqxvPOMYWaK01WhwIkVpYlh43Kw3to9LA/rlNFHkvdvI6OCop0HZios47Z4rpPbJurqx6vkDDTPux4lS3UvUa2yDtnkRsBN5qkLM3ms/1G1UFP/1MCmQqetp6kYTLa2NWP1gXEl1D94f7ZPwYBrzu0Ih0sdoO98Yfx0cNl70uWz6sb4PaQA02vAPGSTWtqiIVey1Bli5zT9HOuQ/18DRZl447se97K6NmggD/vjF8D8F+MEpra5esTCphgRendEmUrVq6QoxbFdOSYxug2s1YSa6lX6kvjcgijGx4qnNk4bhCI8pkrY05zO5rJgdXDysFB+guFXMsR7UGBkgUtleYeFHLld+qBsbjmn7t/C3Y+BNkSX7IMZIjq6VvT5KlPbqPEGnGrHqk1suZG/lzQB4N2hWp2mns2WqDvU57x+vqXBHsOq6IPLYqtReQUdTaP0FWqzUM6shq6atTZIHXnyHN2Na81uDsVpV1Eg9sMbXd6gm/Zbl9mTQckrdUpVMgHQnUcFJJ1qKVvwdXGpfGZClc7FEgq5WUei2SBb35dr6pthdt+Hy28GR/hghZ0vm0QbYMvVR4ziskNSckuOWT6ZGMIJujpHsVpg56RTeHH6sGy5OFfRIrHKDgXHTYStw6siR/YxV6LpBFEdRFpXBz1oF1SydJsuMTaTkdPrcBzRRKCS6bLWATkuSWMQ7cQN3ECjfaihgKHkvC6FeFWhxZ2AwvMwy8eczrPvbVbBJFycJK0RJUkFVHQdv6/MvVIm4ppGHw67xpWWFGZQGXzSUwwZIn2u6pgPp6pmdKhUXUylYOV4VaHFl6PsoHNxxyhOuXrO/zYs8RyotWBVl1AO1spGokQCdxBYTW4mQGub8t1UTuDe6xYO8+IbKc9kYS002WGeCo/Do8pVVCXPFQnqx+YTwoiBlbslcrWdRZ5tlqThbA1ejsySaTGH6omkCSbipbUfH6XVayyOcWTNG65a5ixnDGqVIRah0hi8w/PGfdsE9LZJHQKJ+sNSdr8fR29hzY1PRujrcsjA1QQr2WXeA300I8zc1kxjTtqdAVzDKxUxinSkVEdIws0g9TRMwiyjJZLTz/g2SNx8+jZ5eoYc4qNgIZhqQUw5FuZpvyrnLB/F0x14Xl/h6pJY3jrJlclvPjZKGImctjkkUUMRdsNSUL0Bft7OI5QHSM+OvpMg5/L3h6TJwbfw+4reHhyQV3xlx7iayMR2J7t0y0ykXZxmSRoPFwsYIskvX8EbLaN7cvo7MzDUU0TsH1GUw1iIWRf+TmrWVaGBd8jsI+KKDHD3amZ1brtfS8E2r4eni4dD4ukyXt/1L4HsdWY8n68nI7uhjdICcdhhSrx1qXQDyilDPxMJYPBaYkT9b4YPilSbGXJBOIoQYu82nlqtYJyWL2fehWSZbE+va5YKspWW5HeyCSdYXUXTdY732opEtH4HK/gzvOkG+ZjUgplEFBzWaDTfL7PBu6sikI5wmyWP6ucHk4IwtPl8wDvLLaXlOytLeAkDXqAIr25PuPRf9WjzaQ5+Rynjaki7GlGjKs5Ew/CyEB3DNRolZqlcUe0tfiiyuQBQfs5hIftAxjTkE4skyNGU4uNm5K1kvHfRhdkNiBjVHR50cqVYWJqr6kO6cbQ4gPAZRsFhlgoWQc0Jya84fFYiWXSvnFCL7HcnG/V1miIe7DYVEgq2w1Jeu2A18IWb/cATKZ+Mtbah/bDRiDLsbmiXaBNpjoeG9fsVyMT0LmC7fpapyRXVCK9bdcbjjg0J/Gh4hUwso7/wgtp+VrLo5DHyTroePeEbLO3gBUrkqi6GtHbUIW6su4XPNgPJmv0aSLs9lLWA7zLQDMzIXJq/TKSs7EJ2cPUaHqoHOQWb6EsZMrWOTIgjETLeX6MIeGZH3vaDfEwJ+NXhD6obORkK7wpL9KI6KjnN3pra9HyIrlXDlBj68LNhsChQUb+8AlYWWLXv7htfUs7rJp5+smeckCI1sckJP2x8j6/HajEcG6GH1bWLDMDwUr/nAy7XvHIlUI/FL0mSOL5won/VJTcJhe9A9qwd5+lH9Vp4t/uBu6efeSlyw+NJH3pbXmZL3AtzMqWl/IIx7l/FgkCbcU/6hNgriFS0t1NWRJ2xVAUblZC3zIQWzupnzcd5osCetfNznlzUsWZyNJVzvH3Jiszi18pnp4MRpTtqrW5ZRj7g7WxE/Xfp4ni1j35GehxSobKFdwTviX/zGyaEd6wi+LFMlCZpaR4eiDZD3Ayy8pWc9PRCin5e0zEq5Zl6JokyQY10f9QVxYEcPy1OWUhK9B697enAHaMDvWzdnMHFlSDrmn4Gt2T4EsAI05A0JOuzFZ8NDpBMHzWaqIz4GFLK9qZWZYmzK2kaEclSwlb+HJPB55shaYxQKMc5vFpXKuPsCRRRyrzJbl5fxjJJlFyiXJAodJ8/AJmkvWl87bi/X5bAdi5IlexHpR1CUlqvWJYCitp1qyXO/93Zi/StQD7WZDMu8l16CXzR5PuF44f5iranFkyY+Ox+F9GZ+3hmzkceZKSmS1SfdZHYkGW03Juup0Hqybs4tMttoWrZcXoddsayEw5PhEvA+WOzO5vTlc6YXVCVq5KIEF2tysC2QVSpVgrV65gbNKZoksZNnn0l6iiQgCNE533jodDTqjlKyL0eiGeCtQpz4umJrzml0SAHM5Kaa7RdCPw0xeJbzOxFRlG3Nyiz4BUyqddwk8WflEOo2tPKYUUlZ3KKthGww5C/cT9wOJdKdzhcajvSKOSASR2sC5X9j9J9eYLSuSPx2nao87Zgz91eEiW6jA3Z7D0GP5IeZLQCdKNLCVy/JblizSUM4EXfGa17M6BAurM9opIskS/xVYVK0Wg8T3W0x3iGOvkp+2lRRK95AvBWSXkZlJ6yHlA8Rx0pJlJQPvZSTO2Z4gC3GODhv1ZAFcZ2sbGGuNySLu8O0Kni4OskWE64FuLyK2i+S/ynkmYHLlWj2AIvMlGqgly2KrEvhQ/psd2byaccUvYZ8iC1ie3Do8pEqyEGQVaEkx+5zhPEoWNVqdAK72Np5K1y/PVxY1Xel0Nmas6L6y2xVXse5u+5iPlx083AGXdjdpjKx96g3T47tX97PhEvVTZPFbB6Qjakis4iGUk8hwsntO1OADqodfwHrLRIsgpWs/IdLvOOx522hSuX3N0XNlZeegQPhTqTGLEvYeLmi2y4Orap0mi9ND9whZAINM1bl9LCfIgu+ELJIgksg0ky1qup6/UNuVytLRwMA8zxUG2AaP8oIym8eerF4DLWylsVBzsrgy0zGyyKTWFWJ9at0w1UOiiGNetKgynnWugtP1eD+/FHbN3FsxvWZq2PpK59GGquFWgYVaJ8lasruOShaBXZEHnyAL3N8oWd/TVfwcW0QbL95u1V0q14Z0U2nJxYXn05zdH3Ol3cKD2JL0zsDDmMl/BWuciuq9wy6oE0thiCtJt4bHyQL0Xhbsk3sd/k3J6lwB3P5yVsJo9Nx5uFK1YJE6uMJu5zY8no9z27n4bSH5xiTjzmxWqldc4EzIqtitzT6NDi/pVJzV42KOxDpKFhGTr6V3dIqstpuS1Xmx4HZ0UWKLXBkREp+f3wi+PRTU0j6fFGyayWp5A35kYCuZsOwWVpgUSErfLkHl98Qdyh7HN4agFV/qnR/1hnRMoV5IVBpsObpLrVbnBqyr0agsXDlBu8uzFbFg/DAAbvMQ+wxQ0GVCP0zLFNfMZshVRZ4xWxzNlhrr92cRBA4vKf6xCH4/qmlxp9NJstDic+fA1pgEp2Xp4gXthquvgP3rsmjFuA2leBiiXdJmwaqb0yp6ecqV/SpGBYhPH/aJHp8bbnk5XM2caW7vn3QwWcfI0gpcNSALbjoHtuDp2wnR+sZtbYJEL55Kgdy+NNm8ptuLgtWWN+HKjPoKjXHhV+11akOfrfL4sxJZBSun60quznis6sDgFDziabLacPu2t1vEhn8/roqjz9bO/ZGm3q+X5djC5XnBspSskxjz+rGrZ4HDaVT1iofNYg1ln2s13a1MZDF7jcfIgknexp8miyli5444vJfnY2xdjG53owBi3adVCVDxxEDR5eyjJhZk4deaaC7mb4KPkCUpFbtoKsjiarKNyQJ1T9a/bonALB5GFW6RYTcOWOQ3OTHc+1VHUQ4DxrutFDarZBUXBzN4XFVrN4uGJyxyR3SOkoXec++yCVltuNuz1Xmgq25Pn+uFi0Re6R5dSErbHQ/UL2tPWBCuZumRVS6Jw0rNwiR/UgM/foAsLPPb4I6SBW7M99iELDL+g9nqdOiSGKi/keiqSryIzN2m9mNc6e/TztD9ebVsSco+GYeAqZhU8b5TtKHLuVa1IVlSy1/nRnaUrDbKHbBsSBYtbO3w9qVNs5snooxl+boYPd+kkTFcj2vOd6W1NVyxV7uFfWNvdoHtBqk+1bZr5TFudqGWWlpMKUI574Z5S3pcDRHig61GZNGS50MmW53xbpfV3dsoDbsumIiNfsv839F16sW9X7BckvLrJ1bjidgyllzfEXcIVUkW1LbquA5EnRWffplCaU9Xdk5VriKLngrNUExoa9listV5e9CslK7F1dsvOfn699GTw9wQEOo9yrqezoJMVfa775yJ07oM/foerYg1S/MBLe7WYjL3QrXCPWvDrMm2/Ah6rIl1Gjf9IgaALx1G15dg9w0rAC8P39L08OJi9K1+hbDcHS009PqfJpPJp7kTLnIvvGE3OT3/yO7NP46G50sQyQ2ZJnY6X9RdbYaG2zdX39+eL26tWjNV9dg2gsPRHfbzH4O29cKRRZTxZXE4pbtbgvgAVf98tCH4zAvXW+f2Znc0mv4QVBVQUMWUr5dg8U/Tof8U4Ol7p4jP3+8+0MFfN7Y/gb9qVDD+3ClI190HvGDFLvimtxY7aty2Ud9/jRkh4UKOri9B0+jDvk5hr4410lY1NLhs0xwEaT91XQR2xUFuYlnbannLJqzStSTbPbSqRlC/Y+8EaHR1EKvPN40FBcL736P17/d30pFNuzBv1ZBvP7L//+j+fn//+FiTYofTspwA9G30+49y6/N7+mFyqPH2wso+75aVlxugjSxQb1PPePdBnerRJC6GIE1twG3T/6Wp+X7FFrQJ/bIh8ouWfidREKSrbBoJgm2T3LA/Vv3jnl6NSEQNLj13kIqE9pRquQYzugdNc9NfNOrFyW0WWo7RwrWI6Lp090GwLym2v66v6U4wMoC0880gjR7T4ge9n/bStmA2/1N2DRY3t1fuR7/m7wdddekOlqYJ2tZba140NRdgT+brcEfWxrHXCK22W3IFWVtz6kzQYrqM7glZMIiWk1QfeulRJXNm3/df3d+jaaRCYNJOYTaZm4Mtsl+X0QZcczkl1+6X02hxHz+Glz+16XY5GQAY5rK/TsmK1eGiDRMVedHyMRgkifNI3l/XBneqkXFFHrI9L7mbIxSeOixSj13w/tHbU7JiD2AZBq3NojcFOvHYRu6uRLpIntDahtVQRWoX+n0ADyNjg9C2p5rBekFGnGaWrz8cx+wjGzuLAeljtobtANBytsAachMDkhX5xzYcQPNwRSbpeWDOkNfTZBu0xHUI2YPzdEQx2pDPJ+o1yaN/LsEb0D/j2ENaQnoBN/ppS5sFkSzv0Tr9hWz/UezIIro18IKvCH0KVVVNwqWqau/plw/MTPoFVbCa0maLr0QJLB3FpNHdq/YJEkelqkvIii4vL4lgqgmCyCav7NEOQF29Xv6km7sGBpFCBGpAr5mDAPc0CMAcU7Locvc6WFNLr+zJgnXPWmvTS03V4rZ3idQ18sIEOc41LYzPTHtCfhrG+r/+7Y87sog5GjgBUYNoaRhGv5cY87mR7reeJiS1/uqmZCUQE3OBMMLv5GNHNWHhLbs/6ZB3athbahEsoiew0P11mBjO9tIZ0MKuEdLHAAon5JoDWt+MbVimZNFDGZMgcYnhxXuykDZUJ5o5NebGfdsjNksijzafTLXXJ1ZGjcYm3SvmxM0PD/6nyCIGHobktadkgUmjCGdGXc01JSuQiCai6OeKlku6kKjEHvtAj/+4jmZqPYCnLnWWO7LCqUY8pLmywJrY3QVCxiXpiti9rT1J+10TP/LuzEgwYncRkaxNT6NbxydBNCPP8mkfbSJZVu810rYzulJHJQu9X74iZzBBK9r4emlTspZg+//t72F13hGyhkSViBoSsmaJBv0tSnqg6U90g4NHXdBqvVNDdxaHd5MYeUQdooH9KSC2bZauqPbM8Xgc4hUhBWbdJ+SZEK/QddyH1gytunOIHGTHQTJDs6/9FTGHgwiZIWyoGgJaazYOZ4+pZLUxTWtNrK5ijXSDNn0XaUrP0uSNBa8OUr/a4x1ZQFzNf9dmzULy455ui7x26ZmJ68c1MeLBPCGWB7Wt911I0V/RmuTvLqjvHpDZDNYTQqcD42idfg0djOcEngrahpA7iyZ9F+xo/a7NrWC5Nuwegvu1aaP02nYRTtbGwhq//ry71ujq6iYgN3qLIR3Qgho5CIyAdnNvgbb0ABkaWPcqEef7yeMKNKKZKo1njKpg9y8GjaW5b7De+1TKwT6H2RW6yM8lUc3xev8xV/5q70qPXD1s55lLC+C7TxCwhjv0ydxtbltAVmCC3b7XtIjSRvxd0Og46t8HS4vNOa7/JsA/jiAx560/nMH8T4K8Su1jX47QFGnH/9OCIiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIPD34/8A1xbCEvolttEAAAAASUVORK5CYII=" group-title="Religion",3ABN Ingles
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15081
+#EXTINF:-1 tvg-id="" tvg-name="3ABN Internacional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_rB90EJI3zVsWk3co7x7vjf4UCLhJ8tjMqQ&s" group-title="Religion",3ABN Internacional
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15082
+#EXTINF:-1 tvg-id="" tvg-name="3ABN Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThSzehmrpfc2nhpFsPcSB2Jahfg7--KO8DdA&s" group-title="Religion",3ABN Kids
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15083
+#EXTINF:-1 tvg-id="a07y" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Entretenimiento",Cinecanal
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15089
+#EXTINF:-1 tvg-id="a0ii" tvg-name="Multicinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" group-title="Entretenimiento",Multicinema
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15094
+#EXTINF:-1 tvg-id="a0fe" tvg-name="Multipremier" tvg-logo="https://cdn.mitvstatic.com/channels/hn_multipremier_m.png" group-title="Entretenimiento",Multipremier
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15095
+#EXTINF:-1 tvg-id="a08j" tvg-name="SONY" tvg-logo="https://e7.pngegg.com/pngimages/600/954/png-clipart-logo-mobile-world-congress-sony-xperia-xz2-sony-archives-sony-television-text.png" group-title="Entretenimiento",SONY
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15096
+#EXTINF:-1 tvg-id="a094" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Entretenimiento",TCM
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15097
+#EXTINF:-1 tvg-id="a09b" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Infantiles",Cartoon Network
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15098
+#EXTINF:-1 tvg-id="a0ho" tvg-name="Warner" tvg-logo="https://i.imgur.com/Ht7qA6w.png" group-title="Entretenimiento",Warner
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15102
+#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="https://www.google.com/imgres?q=canal%20fox&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fc%2Fc0%2FFox_Broadcasting_Company_logo_%25282019%2529.svg&imgrefurl=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FFox_Broadcasting_Company&docid=FNdwislJXSLxNM&tbnid=VtMNobKH3yo33M&vet=12ahUKEwiLheOysf-UAxU_rokEHVnPIGcQnPAOegQIFRAB..i&w=1000&h=422&hcb=2&ved=2ahUKEwiLheOysf-UAxU_rokEHVnPIGcQnPAOegQIFRAB" group-title="Deportes",Fox
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15108
+#EXTINF:-1 tvg-id="a0g4" tvg-name="FX" tvg-logo="https://i.imgur.com/o7ggMqh.png" group-title="Entretenimiento",FX
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15109
+#EXTINF:-1 tvg-id="a07v" tvg-name="Cinemax" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="Entretenimiento",Cinemax
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15110
+#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TUDN_Logo.svg" group-title="Deportes",TUDN
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15123
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="Entretenimiento",Telemundo Miami
+http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/339

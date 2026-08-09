@@ -134,12 +134,10 @@ https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="CDN.do@SD" tvg-logo="https://i.imgur.com/eQyjIgf.png" group-title="República Dominicana",CDN
 #EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
-https://live.eu-north-1b.cf.dmcdn.net/sec2(rRDRhGupJJRqffYA8F1iW6FKoUeMTm6efLFHGm3KUbPLgcOs2AdJOYOKH6D50cXDQpzIsH-u9MDz_QrwIF1Yj4fXtqy9iVvANSM_l_ABuTWaKmNCIpVqp9x6z5kYLVE4SbY-H_UhIE4fE2b4v_Z4Sg)/dm/3/x9lincs/s/live-1080.m3u8?startdate=2026-06-12T19%3A21%3A09%2B0000
+http://200.125.170.121:8000/play/a09j/index.m3u8
 #EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://i.imgur.com/eQyjIgf.png" group-title="República Dominicana",CDN Deportes
 #EXTVLCOPT:network-caching=5000
-#EXTVLCOPT:http-referrer=https://geo.dailymotion.com/
-https://live.eu-north-1b.cf.dmcdn.net/sec2(zy40f9-0WsBRk1npRzm_04p65nKWkZLpzTpUKrMh-GuT3easCv1ch6sI4EVt1peu83UHqLpjkjcF6UYP8ZuhGyzaGXWQoX3hkwtsv7wf_ckWjtCw-MDTiGmY0BXhfjpn)/dm/3/xar1qcu/s/live-720.m3u8
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
 #EXTINF:-1 tvg-id="CenovisionHD.do@HD" tvg-logo="https://imgur.com/ShPaOvn.jpg" group-title="República Dominicana",Cenovision HD
 #EXTVLCOPT:network-caching=5000
 https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8

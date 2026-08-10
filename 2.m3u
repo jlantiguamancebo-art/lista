@@ -3,8 +3,6 @@
 http://177.10.184.193:8000/play/a06a/index.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="España",RTVE La 1 Internacional (América)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
-#EXTINF:-1 tvg-id="TVEInternacionalEuropa.es" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="España",RTVE La 1 Internacional (Europa)
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8
 #EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="España",RTVE 24 Horas
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-logo="https://i.imgur.com/lznnA4v.png" group-title="España",Canal Sur (Andalucía)
@@ -88,7 +86,7 @@ https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8
 #EXTINF:-1 tvg-id="CascaraTV.do@SD" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="República Dominicana",Cascara TV
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="CDN.do@SD" tvg-logo="https://i.imgur.com/eQyjIgf.png" group-title="República Dominicana",CDN
-http://200.125.170.121:8000/play/a09j/index.m3u8
+http://187.245.231.226:8000/play/a0ss/index.m3u8
 #EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://i.imgur.com/eQyjIgf.png" group-title="República Dominicana",CDN Deportes
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
 #EXTINF:-1 tvg-id="CenovisionHD.do@HD" tvg-logo="https://imgur.com/ShPaOvn.jpg" group-title="República Dominicana",Cenovision HD
@@ -507,247 +505,523 @@ https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
 https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8
 #EXTINF:-1 tvg-id="ZASTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4058-294x165-FFFFFF.jpg" group-title="República Dominicana",ZAS TV
 https://cloud5.zastv.net/hls/zastv.m3u8
-#EXTINF:-1 tvg-id="ZincNombreTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3751-294x165-FFFFFF.jpg" group-title="República Dominicana",Zinc Nombre TV
-https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ZonavisionTV.do@SD" tvg-logo="https://imgur.com/B3PrrMH.png" group-title="República Dominicana",Zonavision TV
-https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Suyapa TV" tvg-logo="https://suyapamedios.hn/web/image/website/1/logo?unique=0dbcf8b" group-title="Religion",Suyapa TV
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/14888
-#EXTINF:-1 tvg-id="a07g" tvg-name="A&E" tvg-logo="https://i.imgur.com/mRPjzjy.png" group-title="Entretenimiento",A&E
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/135
-#EXTINF:-1 tvg-id="a0gl" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="Entretenimiento",AMC
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/137
-#EXTINF:-1 tvg-id="a0gk" tvg-name="AXN" tvg-logo="https://i.imgur.com/JKtOhME.png" group-title="Entretenimiento",AXN
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/139
-#EXTINF:-1 tvg-id="a0ff" tvg-name="Cine Latino" tvg-logo="https://i.imgur.com/8At2fCU.png" group-title="Entretenimiento",Cine Latino
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/140
-#EXTINF:-1 tvg-id="a07m" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/InvestigationDiscoveryLogo2020.svg" group-title="Entretenimiento",Investigation Discovery
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/145
-#EXTINF:-1 tvg-id="a0i9" tvg-name="HBO" tvg-logo="https://i.imgur.com/bquesTk.png" group-title="Entretenimiento",HBO
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/146
-#EXTINF:-1 tvg-id="a0ic" tvg-name="HBO Family" tvg-logo="https://i.imgur.com/BOOa7Zf.png" group-title="Entretenimiento",HBO Family
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/147
-#EXTINF:-1 tvg-id="a0id" tvg-name="HBO XTREME" tvg-logo="https://i.imgur.com/vTm8ZkC.png" group-title="Entretenimiento",HBO XTREME
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/149
-#EXTINF:-1 tvg-id="a0ia" tvg-name="HBO2" tvg-logo="https://i.imgur.com/ZyCj5gi.png" group-title="Entretenimiento",HBO2
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/150
-#EXTINF:-1 tvg-id="a09k" tvg-name="SPACE" tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png" group-title="Entretenimiento",SPACE
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/154
-#EXTINF:-1 tvg-id="a07w" tvg-name="Studio Universal" tvg-logo="https://i.imgur.com/hirdS4M.png" group-title="Entretenimiento",Studio Universal
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/157
-#EXTINF:-1 tvg-id="a09s" tvg-name="TNT" tvg-logo="https://i.imgur.com/DUyt64n.png" group-title="Entretenimiento",TNT
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/160
-#EXTINF:-1 tvg-id="a09l" tvg-name="TNT Series" tvg-logo="https://i.imgur.com/UBIzUUG.png" group-title="Entretenimiento",TNT Series
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/161
-#EXTINF:-1 tvg-id="a0fc" tvg-name="Universal" tvg-logo="https://i.imgur.com/GhjnHVI.png" group-title="Entretenimiento",Universal
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/162
-#EXTINF:-1 tvg-id="a0js" tvg-name="Universal Comedy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest/scale-to-width-down/250?cb=20220311032038" group-title="Entretenimiento",Universal Comedy
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/163
-#EXTINF:-1 tvg-id="a0jq" tvg-name="Universal Premiere" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw3fgKVd_Qvy-Q2-PZGYW3NfYcz8e2a6A4vxGxy3cv6Q&s" group-title="Entretenimiento",Universal Premiere
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/164
-#EXTINF:-1 tvg-id="a0h6" tvg-name="Universal Crime" tvg-logo="https://iili.io/JKgZg87.md.png" group-title="Entretenimiento",Universal Crime
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/165
-#EXTINF:-1 tvg-id="a093" tvg-name="Golden" tvg-logo="https://i.imgur.com/0FnRYM4.png" group-title="Entretenimiento",Golden
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/166
-#EXTINF:-1 tvg-id="a0ib" tvg-name="HBO Plus" tvg-logo="https://i.imgur.com/lIc2O4q.png" group-title="Entretenimiento",HBO Plus
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/148
-#EXTINF:-1 tvg-id="a07j" tvg-name="STAR CHANNEL" tvg-logo="https://i.imgur.com/l5NAmEf.png" group-title="Entretenimiento",STAR CHANNEL
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/155
-#EXTINF:-1 tvg-id="a08p" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/Avp5Rpn.png" group-title="Cultura",Animal Planet
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/167
-#EXTINF:-1 tvg-id="a08o" tvg-name="Discovery Channel" tvg-logo="https://www.kindpng.com/picc/m/396-3964365_023-discovery-discovery-channel-logo-2019-hd-png.png" group-title="Cultura",Discovery Channel
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/168
-#EXTINF:-1 tvg-id="a088" tvg-name="Discovery Civilization" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png" group-title="Cultura",Discovery Civilization
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/169
-#EXTINF:-1 tvg-id="a0fo" tvg-name="Discovery Science" tvg-logo="https://www.vhv.rs/dpng/d/132-1320098_discovery-science-la-2011-discovery-science-tv-logo.png" group-title="Cultura",Discovery Science
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/170
-#EXTINF:-1 tvg-id="a07k" tvg-name="Discovery Turbo" tvg-logo="https://www.pngfind.com/pngs/m/74-742126_discovery-turbo-logo-discovery-turbo-hd-png-download.png" group-title="Cultura",Discovery Turbo
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/171
-#EXTINF:-1 tvg-id="a08q" tvg-name="History" tvg-logo="https://www.vhv.rs/dpng/d/164-1640078_tv-network-logos-png-history-channel-logo-transparent.png" group-title="Cultura",History
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/172
-#EXTINF:-1 tvg-id="a0g7" tvg-name="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="Cultura",H2
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/173
-#EXTINF:-1 tvg-id="a09m" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/Zvdswk9.png" group-title="Cultura",National Geographic
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/174
-#EXTINF:-1 tvg-id="a07g" tvg-name="Canal 11 HN" tvg-logo="https://i.imgur.com/CkQpoHj.png" group-title="Noticias",Canal 11 HN
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/176
-#EXTINF:-1 tvg-id="a07g" tvg-name="Telesistema HN" tvg-logo="https://i.imgur.com/2bbiXYG.png" group-title="Noticias",Telesistema HN
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/177
-#EXTINF:-1 tvg-id="a07g" tvg-name="Canal 5 HN" tvg-logo="https://i.imgur.com/nW70rPW.png" group-title="Noticias",Canal 5 HN
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/178
-#EXTINF:-1 tvg-id="a0gm" tvg-name="CNN en Español" tvg-logo="https://i.imgur.com/eByfEpv.png" group-title="Noticias",CNN en Español
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/181
-#EXTINF:-1 tvg-id="a07g" tvg-name="Telecadena 7/4 HN" tvg-logo="https://i.imgur.com/BnYXnxG.png" group-title="Noticias",Telecadena 7/4 HN
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/182
-#EXTINF:-1 tvg-id="a0fm" tvg-name="Baby TV" tvg-logo="https://i.imgur.com/Pl8QI3m.png" group-title="Infantiles",Baby TV
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/183
-#EXTINF:-1 tvg-id="a09d" tvg-name="Cartoonito" tvg-logo="https://logos-world.net/wp-content/uploads/2024/09/Cartoonito-Logo.png" group-title="Infantiles",Cartoonito
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/184
-#EXTINF:-1 tvg-id="a07i" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/gTRgITG.png" group-title="Infantiles",Disney Channel
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/186
-#EXTINF:-1 tvg-id="a09e" tvg-name="Disney JR" tvg-logo="https://i.imgur.com/F3pWjN9.png" group-title="Infantiles",Disney JR
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/187
-#EXTINF:-1 tvg-id="a07g" tvg-name="Discovery Kids" tvg-logo="https://i.pinimg.com/originals/5d/16/97/5d1697354b266bfbb505e4c512eb3c89.png" group-title="Infantiles",Discovery Kids
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/189
-#EXTINF:-1 tvg-id="a09c" tvg-name="Nick JR" tvg-logo=" " group-title="Infantiles",Nick JR
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/191
-#EXTINF:-1 tvg-id="a07h" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Infantiles",Nickelodeon
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/192
-#EXTINF:-1 tvg-id="a08t" tvg-name="ESPN" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/12/ESPN-Logo.png" group-title="Deportes",ESPN
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/197
-#EXTINF:-1 tvg-id="a08s" tvg-name="ESPN2" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="Deportes",ESPN2
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/195
-#EXTINF:-1 tvg-id="a0g9" tvg-name="ESPN3" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="Deportes",ESPN3
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/198
-#EXTINF:-1 tvg-id="a0fb" tvg-name="ESPN4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/ESPN_4_logo.svg" group-title="Deportes",ESPN4
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/199
-#EXTINF:-1 tvg-id="a0m8" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/ESPN_5_logo.svg" group-title="Deportes",ESPN 5
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/13454
-#EXTINF:-1 tvg-id="a0mc" tvg-name="ESPN 6" tvg-logo="https://i.imgur.com/i4xYbbV.png" group-title="Deportes",ESPN 6
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/201
-#EXTINF:-1 tvg-id="a0ba" tvg-name="TBN Enlace" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Enlace_TBN_2016.png/revision/latest/scale-to-width-down/1000?cb=20190910231626" group-title="Religion",TBN Enlace
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/202
-#EXTINF:-1 tvg-id="a091" tvg-name="Bein Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="Deportes",Bein Sport
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/200
-#EXTINF:-1 tvg-id="a0gi" tvg-name="Azcorazon" tvg-logo="https://cdn.mitvstatic.com/channels/hn_az-corazon_m.png" group-title="Entretenimiento",Azcorazon
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/204
-#EXTINF:-1 tvg-id="a0h5" tvg-name="Universal Reality" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/f/f5/UniversalReality.png/revision/latest?cb=20240130202326&path-prefix=es" group-title="Entretenimiento",Universal Reality
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/205
-#EXTINF:-1 tvg-id="a08l" tvg-name="E! Entertainment" tvg-logo="https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png" group-title="Entretenimiento",E! Entertainment
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/206
-#EXTINF:-1 tvg-id="a0fa" tvg-name="Discovery Home & Health" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="Entretenimiento",Discovery Home & Health
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/207
-#EXTINF:-1 tvg-id="a0g5" tvg-name="RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RCN_Novelas.png" group-title="Entretenimiento",RCN Novelas
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/208
-#EXTINF:-1 tvg-id="a0hf" tvg-name="Azmundo" tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" group-title="Entretenimiento",Azmundo
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/210
-#EXTINF:-1 tvg-id="a09i" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="Entretenimiento",Telemundo
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/211
-#EXTINF:-1 tvg-id="a0fx" tvg-name="TLC" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/TLC-Logo.png" group-title="Entretenimiento",TLC
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/212
-#EXTINF:-1 tvg-id="a0k4" tvg-name="Canal de Las Estrellas" tvg-logo="https://i.imgur.com/ybTac1m.png" group-title="Entretenimiento",Canal de Las Estrellas
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/331
-#EXTINF:-1 tvg-id="" tvg-name="Canal 6 HN" tvg-logo="https://i.imgur.com/HBD1g8w.png" group-title="Noticias",Canal 6 HN
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/332
-#EXTINF:-1 tvg-id="a0hm" tvg-name="Antena3 Series" tvg-logo="https://fotografias.atresseries.com/clipping/cmsimages02/2018/02/22/20C2BFA8-ACA3-47DA-AAFB-188D456AB2A9/58.jpg" group-title="Entretenimiento",Antena3 Series
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/336
-#EXTINF:-1 tvg-id="" tvg-name="Ebenezer TV" tvg-logo="https://1.bp.blogspot.com/-_0Nrw9NOw8c/XRDXrzt4jWI/AAAAAAAAH3s/bTzQrrVDPKgY-glvRMq3fz1byAiI4VBnACLcBGAs/s1600/Canal%2BEbenezer.png" group-title="Religion",Ebenezer TV
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/337
-#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="https://www.dafont.com/forum/attach/orig/9/9/994013.png" group-title="Entretenimiento",Distrito Comedia
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/341
-#EXTINF:-1 tvg-id="" tvg-name="HCH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logohch2022.png" group-title="Noticias",HCH
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/347
-#EXTINF:-1 tvg-id="a0a8" tvg-name="Univision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg" group-title="Entretenimiento",Univision
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/349
-#EXTINF:-1 tvg-id="a0hi" tvg-name="Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento",Lifetime
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/352
-#EXTINF:-1 tvg-id="a07g" tvg-name="Claro Sports" tvg-logo="https://i.imgur.com/olWRiSo.png" group-title="Deportes",Claro Sports
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/355
-#EXTINF:-1 tvg-id="a0hv" tvg-name="Claro Sports 2" tvg-logo="https://i.imgur.com/jEZBCfZ.png" group-title="Deportes",Claro Sports 2
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1645
-#EXTINF:-1 tvg-id="" tvg-name="3ABN Latino" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/3ABN-Latino-en-directo-Online.png" group-title="Religion",3ABN Latino
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/18
-#EXTINF:-1 tvg-id="a0hn" tvg-name="CNN International" tvg-logo="https://i.imgur.com/eByfEpv.png" group-title="Noticias",CNN International
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/382
-#EXTINF:-1 tvg-id="a0hp" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="Infantiles",Tooncast
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/639
-#EXTINF:-1 tvg-id="a0hs" tvg-name="Baby First" tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png" group-title="Infantiles",Baby First
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/702
-#EXTINF:-1 tvg-id="" tvg-name="TDTV" tvg-logo="https://i.imgur.com/lgT4I1T.png" group-title="Deportes",TDTV
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1442
-#EXTINF:-1 tvg-id="" tvg-name="Teleprogreso" tvg-logo="https://i.imgur.com/kVThhPL.png" group-title="Noticias",Teleprogreso
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1443
-#EXTINF:-1 tvg-id="" tvg-name="UNE TV" tvg-logo="https://i.imgur.com/vrzFGz7.png" group-title="Noticias",UNE TV
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1444
-#EXTINF:-1 tvg-id="" tvg-name="TLNovelas MX" tvg-logo="https://i.imgur.com/Et3IJSq.png" group-title="Entretenimiento",TLNovelas MX
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1563
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports HN" tvg-logo="https://i.imgur.com/T6XcvYT.png" group-title="Deportes",Tigo Sports HN
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1648
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports La Liga" tvg-logo="https://pngdownload.io/wp-content/uploads/2023/12/LaLiga-Logo-PNG-Official-Symbol-for-Football-League-Transparent-jpg.webp" group-title="Deportes",Sky Sports La Liga
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1650
-#EXTINF:-1 tvg-id="" tvg-name="DirectTV Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/DSports.png/revision/latest?cb=20221114123400" group-title="Deportes",DirectTV Sports
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1564
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Bundesliga" tvg-logo="https://logowik.com/content/uploads/images/bundesliga7083.jpg" group-title="Deportes",Sky Sports Bundesliga
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/381
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT MEXICO" tvg-logo="https://logotyp.us/file/fox-sports.svg" group-title="Deportes",FOX SPORT MEXICO
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/333
-#EXTINF:-1 tvg-id="a0hx" tvg-name="EWTN" tvg-logo="https://cdn.mitvstatic.com/channels/pe_ewtn_m.png" group-title="Religion",EWTN
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1657
-#EXTINF:-1 tvg-id="" tvg-name="Teleceiba" tvg-logo="https://www.gifservice.fr/es/gif/multimedia-canales-tv-mundo-honduras-teleceiba-g17754-p380047-flarge.gif" group-title="Noticias",Teleceiba
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1927
-#EXTINF:-1 tvg-id="" tvg-name="Esperanza TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/556da91de4b010ed6e0bddff/1442361594280-58B1XRFMF2CIL5843DQY/image-asset.png" group-title="Religion",Esperanza TV
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1928
-#EXTINF:-1 tvg-id="" tvg-name="CHTV" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/14/9e/04/149e0451-f4d5-4ce7-e511-cf78fba20f38/AppIcon-1x_U007emarketing-0-7-0-85-220.jpeg/1200x600wa.png" group-title="Noticias",CHTV
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/2824
-#EXTINF:-1 tvg-id="a0ig" tvg-name="ZooMoo" tvg-logo="https://i.imgur.com/MnLHdgk.png" group-title="Infantiles",ZooMoo
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/2969
-#EXTINF:-1 tvg-id="a0ie" tvg-name="Unversal Premiere O" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/d/dd/UniversalPremiere.png/revision/latest?cb=20240130200911&path-prefix=es" group-title="Entretenimiento",Unversal Premiere O
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/3148
-#EXTINF:-1 tvg-id="a0it" tvg-name="Antena3" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2017/07/14114934/Antena-3-Internacional.png" group-title="Noticias",Antena3
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/4412
-#EXTINF:-1 tvg-id="a0iu" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="Entretenimiento",TVE
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/4413
-#EXTINF:-1 tvg-id="" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/VTV_HN_logo_2019.png" group-title="Noticias",VTV
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/4420
-#EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/4e6905b/2147483647/strip/true/crop/500x113+0+0/resize/2124x480!/format/webp/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F4e%2F44%2F081843da43db8f02ef86afeeb687%2Flogotvazteca.webp" group-title="Entretenimiento",Azteca 7
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/5311
-#EXTINF:-1 tvg-id="a0jr" tvg-name="Universal Cinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Universal_Cinema.svg" group-title="Entretenimiento",Universal Cinema
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/5386
-#EXTINF:-1 tvg-id="a0kz" tvg-name="Guatevision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Guatevision_2003-logo_simplified.png" group-title="Noticias",Guatevision
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/6300
-#EXTINF:-1 tvg-id="" tvg-name="Hope Channel Interamerica" tvg-logo="https://images.hopeplatform.org/resize/L3dfNTAwX19xXzgwL2hvcGUtaW1hZ2VzLzYyNTNmMDUxNWY0NjA3OWU5NjQ4ZTU0Mi9GUlExNjUyMjQ5MjE4NDk1LnN2Zw/w_500__q_80/hope-images/6253f0515f46079e9648e542/FRQ1652249218495.svg" group-title="Religion",Hope Channel Interamerica
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/1929
-#EXTINF:-1 tvg-id="a0ly" tvg-name="Adult Swim" tvg-logo="https://m.media-amazon.com/images/I/31EBJJgC2PL.png" group-title="Entretenimiento",Adult Swim
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/11225
-#EXTINF:-1 tvg-id="a0lz" tvg-name="TNT Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Entretenimiento",TNT Novelas
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/11226
-#EXTINF:-1 tvg-id="a0jz" tvg-name="ESPN SUR" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/12/ESPN-Logo.png" group-title="Deportes",ESPN SUR
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/5321
-#EXTINF:-1 tvg-id="a0jy" tvg-name="ESPN2 SUR" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="Deportes",ESPN2 SUR
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/5322
-#EXTINF:-1 tvg-id="a0k1" tvg-name="Azteca Deportes" tvg-logo="data:image/jpeg;base64,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" group-title="Deportes",Azteca Deportes
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/3138
-#EXTINF:-1 tvg-id="" tvg-name="Canal 8 HN" tvg-logo="data:image/jpeg;base64,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" group-title="Noticias",Canal 8 HN
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/12774
-#EXTINF:-1 tvg-id="" tvg-name="Canal 5 MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canal_5_Mexico_logo_2014.svg" group-title="Entretenimiento",Canal 5 MX
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/12775
-#EXTINF:-1 tvg-id="" tvg-name="DreamWorks" tvg-logo="https://www.dreamworks.com/images/favicon/apple-icon-57x57.png" group-title="Infantiles",DreamWorks
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/13210
-#EXTINF:-1 tvg-id="" tvg-name="DePelicula" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="Entretenimiento",DePelicula
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/13211
-#EXTINF:-1 tvg-id="a0m5" tvg-name="El Gourmet" tvg-logo="https://amcla.s3.amazonaws.com/channel_logo/light/tlusfzwag1_amcnila-2023-04-egrebrand-update-cz-logo-pag-int.webp" group-title="Cultura",El Gourmet
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/13443
-#EXTINF:-1 tvg-id="" tvg-name="France 24 Internacional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRirAW4Pn3_w0btafa2Bb_jNy5bDAhi7_BrDA&s" group-title="Noticias",France 24 Internacional
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/14558
-#EXTINF:-1 tvg-id="" tvg-name="Deportes TVC" tvg-logo="https://www.deportestvc.com/_next/static/media/logo-deportes-white-yellow-stripes.1d402daa.webp" group-title="Deportes",Deportes TVC
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/10408
-#EXTINF:-1 tvg-id="" tvg-name="3ABN Ingles" tvg-logo="data:image/png;base64,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" group-title="Religion",3ABN Ingles
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15081
-#EXTINF:-1 tvg-id="" tvg-name="3ABN Internacional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_rB90EJI3zVsWk3co7x7vjf4UCLhJ8tjMqQ&s" group-title="Religion",3ABN Internacional
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15082
-#EXTINF:-1 tvg-id="" tvg-name="3ABN Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThSzehmrpfc2nhpFsPcSB2Jahfg7--KO8DdA&s" group-title="Religion",3ABN Kids
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15083
-#EXTINF:-1 tvg-id="a07y" tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Entretenimiento",Cinecanal
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15089
-#EXTINF:-1 tvg-id="a0ii" tvg-name="Multicinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MC_logo_2022.png" group-title="Entretenimiento",Multicinema
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15094
-#EXTINF:-1 tvg-id="a0fe" tvg-name="Multipremier" tvg-logo="https://cdn.mitvstatic.com/channels/hn_multipremier_m.png" group-title="Entretenimiento",Multipremier
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15095
-#EXTINF:-1 tvg-id="a08j" tvg-name="SONY" tvg-logo="https://e7.pngegg.com/pngimages/600/954/png-clipart-logo-mobile-world-congress-sony-xperia-xz2-sony-archives-sony-television-text.png" group-title="Entretenimiento",SONY
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15096
-#EXTINF:-1 tvg-id="a094" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Entretenimiento",TCM
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15097
-#EXTINF:-1 tvg-id="a09b" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Infantiles",Cartoon Network
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15098
-#EXTINF:-1 tvg-id="a0ho" tvg-name="Warner" tvg-logo="https://i.imgur.com/Ht7qA6w.png" group-title="Entretenimiento",Warner
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15102
-#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="https://www.google.com/imgres?q=canal%20fox&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fc%2Fc0%2FFox_Broadcasting_Company_logo_%25282019%2529.svg&imgrefurl=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FFox_Broadcasting_Company&docid=FNdwislJXSLxNM&tbnid=VtMNobKH3yo33M&vet=12ahUKEwiLheOysf-UAxU_rokEHVnPIGcQnPAOegQIFRAB..i&w=1000&h=422&hcb=2&ved=2ahUKEwiLheOysf-UAxU_rokEHVnPIGcQnPAOegQIFRAB" group-title="Deportes",Fox
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15108
-#EXTINF:-1 tvg-id="a0g4" tvg-name="FX" tvg-logo="https://i.imgur.com/o7ggMqh.png" group-title="Entretenimiento",FX
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15109
-#EXTINF:-1 tvg-id="a07v" tvg-name="Cinemax" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="Entretenimiento",Cinemax
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15110
-#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TUDN_Logo.svg" group-title="Deportes",TUDN
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/15123
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="Entretenimiento",Telemundo Miami
-http://iptv.tecnohn.com:25461/Carlos_Roberto_Vasquez/tecnored21/339
+#EXTINF:-1 tvg-id="" tvg-name="[US] AMC EN ESPAÑOL HD [sᴛᴠ+]" tvg-logo="https://logo.m3uassets.com/amcenespanol.png" group-title="Entretenimiento",[US] AMC EN ESPAÑOL HD [sᴛᴠ+]
+http://polarbear.mov/live/Sandra123/Sandra123/623312.m3u8
+#EXTINF:-1 tvg-id="discoveryenespañol.us" tvg-name="USA Discovery Español" tvg-logo="https://d3hjzzsa8cr26l.cloudfront.net/2f509bab-1252-11e8-a56d-535a4e504290.jpg" group-title="Entretenimiento",USA Discovery Español
+http://polarbear.mov/live/Sandra123/Sandra123/3262.m3u8
+#EXTINF:-1 tvg-id="discoveryenespañol.us" tvg-name="USA Discovery Español" tvg-logo="https://logo.m3uassets.com/discoveryespanol.png" group-title="Entretenimiento",USA Discovery Español
+http://polarbear.mov/live/Sandra123/Sandra123/474.m3u8
+#EXTINF:-1 tvg-id="10365" tvg-name="USA El Rey Rebel" tvg-logo="https://logo.m3uassets.com/rebeltv.png" group-title="Entretenimiento",USA El Rey Rebel
+http://polarbear.mov/live/Sandra123/Sandra123/636625.m3u8
+#EXTINF:-1 tvg-id="galavision.us" tvg-name="USA Galavision" tvg-logo="https://logo.m3uassets.com/galavision.png" group-title="Entretenimiento",USA Galavision
+http://polarbear.mov/live/Sandra123/Sandra123/3166.m3u8
+#EXTINF:-1 tvg-id="galavisionpacific.us" tvg-name="USA GALAVISION WEST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWQhN37n7qjdcdzDEl4XbQbjgzspxdnARIaw&s" group-title="Entretenimiento",USA GALAVISION WEST
+http://polarbear.mov/live/Sandra123/Sandra123/3268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA HITN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfcSXC8C9if6pGFFrT9qplTUm9rIqP898NzA&s" group-title="Entretenimiento",USA HITN
+http://polarbear.mov/live/Sandra123/Sandra123/636619.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" 40 y 20" tvg-logo="http://p-img.movetv.com/images/0913e3f00cc331067a9387ad60d920f3bfaca064" group-title="Entretenimiento", 40 y 20
+http://polarbear.mov/live/Sandra123/Sandra123/830222.m3u8
+#EXTINF:-1 tvg-id="a3series.us" tvg-name=" A3 Series" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="Entretenimiento", A3 Series
+http://polarbear.mov/live/Sandra123/Sandra123/3258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Al Ritmo del Jaripeo" tvg-logo="http://p-img.movetv.com/1280x721/8a847d8d9e3a98a3d447091bdc1254fa.png" group-title="Entretenimiento", Al Ritmo del Jaripeo
+http://polarbear.mov/live/Sandra123/Sandra123/830217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" AMC en español" tvg-logo="https://logo.m3uassets.com/amcenespanol.png" group-title="Entretenimiento", AMC en español
+http://polarbear.mov/live/Sandra123/Sandra123/707033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" AMERICATEVE" tvg-logo="https://image.xumo.com/v1/channels/channel/99951140/168x168.webp?type=color_onBlack" group-title="Entretenimiento", AMERICATEVE
+http://polarbear.mov/live/Sandra123/Sandra123/830244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Amor Real" tvg-logo="http://p-img.movetv.com/1280x720/e68b3c63a23f04292c22f9c701ffc0cd.png" group-title="Entretenimiento", Amor Real
+http://polarbear.mov/live/Sandra123/Sandra123/830229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Angelique" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200004HD_20260421T142111SQUARE.png" group-title="Entretenimiento", Angelique
+http://polarbear.mov/live/Sandra123/Sandra123/830200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Anger Management en espanol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a663e04f-8322-45f6-a64d-bafe754d4e09/AngrMngmnt_logo_dark_1500x1000_-_Chris_Connors.png" group-title="Entretenimiento", Anger Management en espanol
+http://polarbear.mov/live/Sandra123/Sandra123/830175.m3u8
+#EXTINF:-1 tvg-id="antena3internacional.us" tvg-name=" Antena 3" tvg-logo="https://www.getsatellite.com/channels/antena3.png" group-title="España", Antena 3
+http://polarbear.mov/live/Sandra123/Sandra123/3254.m3u8
+#EXTINF:-1 tvg-id="antena3internacional.us" tvg-name=" Antena 3 Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Antena3_2017.svg/1280px-Antena3_2017.svg.png" group-title="España", Antena 3 Internacional
+http://polarbear.mov/live/Sandra123/Sandra123/3253.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Aqui Y Ahora" tvg-logo="https://64.media.tumblr.com/4ef59dea72aa9fab0e9f90272f419181/f27eb80cea7d2730-ef/s500x750/cb7e3f6c323e9246c38a86ae79838609951d99fc.png" group-title="Entretenimiento", Aqui Y Ahora
+http://polarbear.mov/live/Sandra123/Sandra123/707040.m3u8
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name=" Atres series" tvg-logo="https://logo.m3uassets.com/a3satreseries1.png" group-title="Entretenimiento", Atres series
+http://polarbear.mov/live/Sandra123/Sandra123/3251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Autopista al Cielo" tvg-logo="https://provider-static.plex.tv/epg/cms/production/68950c80-d981-457f-89f9-d51fc2bcab02/Plex_FilmRise_AutopistaAlCielo_Color_Logo.png" group-title="Entretenimiento", Autopista al Cielo
+http://polarbear.mov/live/Sandra123/Sandra123/830174.m3u8
+#EXTINF:-1 tvg-id="azclic.us" tvg-name=" AZ Clic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png" group-title="Entretenimiento", AZ Clic
+http://polarbear.mov/live/Sandra123/Sandra123/3249.m3u8
+#EXTINF:-1 tvg-id="azcorazón.us" tvg-name=" AZ Corazon" tvg-logo="https://logo.m3uassets.com/azcorazon2.png" group-title="Entretenimiento", AZ Corazon
+http://polarbear.mov/live/Sandra123/Sandra123/3248.m3u8
+#EXTINF:-1 tvg-id="aztecainternacionallatino.us" tvg-name=" Azteca Internacional" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png" group-title="Entretenimiento", Azteca Internacional
+http://polarbear.mov/live/Sandra123/Sandra123/830252.m3u8
+#EXTINF:-1 tvg-id="bandamax.us" tvg-name=" Bandamax" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/BDMAX-logo.png" group-title="Entretenimiento", Bandamax
+http://polarbear.mov/live/Sandra123/Sandra123/3245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Bodas+" tvg-logo="https://logo.m3uassets.com/dashlatinx.png" group-title="Entretenimiento", Bodas+
+http://polarbear.mov/live/Sandra123/Sandra123/707024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Buen Viaje" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d468b64b-c6a3-427f-a5c0-331bb6478407/channel_logo_1500x1000_light.png.png" group-title="Entretenimiento", Buen Viaje
+http://polarbear.mov/live/Sandra123/Sandra123/830173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Butaca TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ebdc98b6-adde-4e50-b1e9-ab7b3bfecd23/Butaca_Tv_pack_1500X1000_RDX.png" group-title="Entretenimiento", Butaca TV
+http://polarbear.mov/live/Sandra123/Sandra123/830172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" C4 en Alerta" tvg-logo="https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png" group-title="Entretenimiento", C4 en Alerta
+http://polarbear.mov/live/Sandra123/Sandra123/830171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Canal 22 Internacional" tvg-logo="https://logo.m3uassets.com/canal22internacional.png" group-title="Entretenimiento", Canal 22 Internacional
+http://polarbear.mov/live/Sandra123/Sandra123/707057.m3u8
+#EXTINF:-1 tvg-id="canalonce.us" tvg-name=" Canal Once" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png" group-title="Entretenimiento", Canal Once
+http://polarbear.mov/live/Sandra123/Sandra123/3239.m3u8
+#EXTINF:-1 tvg-id="canalvixus.mx" tvg-name=" Canal ViX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200005Y2_20260421T142129SQUARE.png" group-title="Entretenimiento", Canal ViX
+http://polarbear.mov/live/Sandra123/Sandra123/830262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Canela.TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIssIG9umc4C0UN6jaK6vxqbsezIS5MI06AA&s" group-title="Entretenimiento", Canela.TV
+http://polarbear.mov/live/Sandra123/Sandra123/707048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Canela.TV Clasicos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b35a0b8-05da-4dcb-ab8d-4155a92274eb/CM-Plex-dark_logo-CanelaTV-clasicos_-_Natalia_Rodriguez.png" group-title="Entretenimiento", Canela.TV Clasicos
+http://polarbear.mov/live/Sandra123/Sandra123/830248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Canela.TV Hollywood y Mas" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3cadef2-bd63-425b-a7d4-e48752f83c1d/CM-Plex-dark_logo-CanelaTV-hollywood_y_mas_-_Mariana_Gonzalez.png" group-title="Entretenimiento", Canela.TV Hollywood y Mas
+http://polarbear.mov/live/Sandra123/Sandra123/830206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Canela.TV Narco vs Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1a0bf145-a80f-4dd5-8134-ecb3975c389f/CM-Plex-dark_logo-CanelaTV-narco_drama_-_Natalia_Rodriguez.png" group-title="Entretenimiento", Canela.TV Narco vs Drama
+http://polarbear.mov/live/Sandra123/Sandra123/830205.m3u8
+#EXTINF:-1 tvg-id="caracoltvinternacional.us" tvg-name=" Caracol Tv" tvg-logo="https://logo.m3uassets.com/caracoltv3.png" group-title="Entretenimiento", Caracol Tv
+http://polarbear.mov/live/Sandra123/Sandra123/3238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Caso Cerrado" tvg-logo="https://provider-static.plex.tv/5/epg/channels/logos/gracenote/5eb0e12c2b5ed3288faa8f00c79c4d6b.png" group-title="Entretenimiento", Caso Cerrado
+http://polarbear.mov/live/Sandra123/Sandra123/830261.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" CBS en español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/CBS_Corporation_logo.svg" group-title="Entretenimiento", CBS en español
+http://polarbear.mov/live/Sandra123/Sandra123/707038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Centroamerica TV" tvg-logo="https://logo.m3uassets.com/centroamericatv.png" group-title="Entretenimiento", Centroamerica TV
+http://polarbear.mov/live/Sandra123/Sandra123/707059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" CG MMA En Español" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600005ST_20260421T141742SQUARE.png" group-title="Entretenimiento", CG MMA En Español
+http://polarbear.mov/live/Sandra123/Sandra123/830211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Cheaters en Espanol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0328822-b149-4524-ad89-1c87c2543268/FilmRise_CheatersEnEspanol_Logo_ColorRDX.png" group-title="Entretenimiento", Cheaters en Espanol
+http://polarbear.mov/live/Sandra123/Sandra123/830169.m3u8
+#EXTINF:-1 tvg-id="clantv.us" tvg-name=" CLAN" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/a/ad/Clan_TVE_-1.png" group-title="Entretenimiento", CLAN
+http://polarbear.mov/live/Sandra123/Sandra123/3236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Clic" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5524a542-5952-4090-9e2e-780e1a3adc22/clic_logo_light_-_James_Stowe_Color_rdx.png" group-title="Entretenimiento", Clic
+http://polarbear.mov/live/Sandra123/Sandra123/830168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Combate Global MMA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600006R8_20260421T143045SQUARE.png" group-title="Entretenimiento", Combate Global MMA
+http://polarbear.mov/live/Sandra123/Sandra123/830210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Comedy Central en español" tvg-logo="https://logo.m3uassets.com/comedycentralenespanol.png" group-title="Entretenimiento", Comedy Central en español
+http://polarbear.mov/live/Sandra123/Sandra123/707028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Como Dice el Dicho" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700004ME_20260421T142145SQUARE.png" group-title="Entretenimiento", Como Dice el Dicho
+http://polarbear.mov/live/Sandra123/Sandra123/830234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Construcciones Asombrosas" tvg-logo="https://media.licdn.com/dms/image/v2/C4D0BAQGN9_LalhaP3A/company-logo_200_200/company-logo_200_200/0/1630550828826?e=2147483647&v=beta&t=hdOUoKG8YnnmB_9sDXImwxnm83koNkMipGB4E_MdtTM" group-title="Entretenimiento", Construcciones Asombrosas
+http://polarbear.mov/live/Sandra123/Sandra123/707018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Cops en Espanol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png" group-title="Entretenimiento", Cops en Espanol
+http://polarbear.mov/live/Sandra123/Sandra123/830178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Corazon" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08be4d01-35de-46c7-b600-546316cbaf4a/corazon_logo_light_-_James_Stowe.png" group-title="Entretenimiento", Corazon
+http://polarbear.mov/live/Sandra123/Sandra123/830167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Crimen" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Univision2019.svg/revision/latest?cb=20210317233059" group-title="Entretenimiento", Crimen
+http://polarbear.mov/live/Sandra123/Sandra123/707013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Crímenes imperfectos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeKnrrMLjlxFRFoBp6ICJk6apJzbhVRBF47Q&s" group-title="Entretenimiento", Crímenes imperfectos
+http://polarbear.mov/live/Sandra123/Sandra123/707012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" CSI en Español" tvg-logo="https://logo.m3uassets.com/csienespanol.png" group-title="Entretenimiento", CSI en Español
+http://polarbear.mov/live/Sandra123/Sandra123/707037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" CSI Miami en español" tvg-logo="https://logo.m3uassets.com/csienespanol.png" group-title="Entretenimiento", CSI Miami en español
+http://polarbear.mov/live/Sandra123/Sandra123/707036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" CSI NY en español" tvg-logo="https://logo.m3uassets.com/csienespanol.png" group-title="Entretenimiento", CSI NY en español
+http://polarbear.mov/live/Sandra123/Sandra123/707035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Curiosity Animales" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200001IY_20240910T003736SQUARE.png" group-title="Entretenimiento", Curiosity Animales
+http://polarbear.mov/live/Sandra123/Sandra123/830187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Curiosity Explora" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US22000020U_20241217T202304SQUARE.png" group-title="Entretenimiento", Curiosity Explora
+http://polarbear.mov/live/Sandra123/Sandra123/830186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Curiosity Motores" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200003ZN_20240910T003743SQUARE.png" group-title="Entretenimiento", Curiosity Motores
+http://polarbear.mov/live/Sandra123/Sandra123/830184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Ecuavisa Internacional" tvg-logo="https://logo.m3uassets.com/ecuavisa.png" group-title="Entretenimiento", Ecuavisa Internacional
+http://polarbear.mov/live/Sandra123/Sandra123/707058.m3u8
+#EXTINF:-1 tvg-id="elgourmet.us" tvg-name=" El Gourmet" tvg-logo="https://cdn.mitvstatic.com/channels/2c15cb09-f111-4b08-b86e-421cbf221fe1_m.jpg" group-title="Entretenimiento", El Gourmet
+http://polarbear.mov/live/Sandra123/Sandra123/3228.m3u8
+#EXTINF:-1 tvg-id="eltreceinternacional.us" tvg-name=" El Trece Internacional" tvg-logo="https://logo.m3uassets.com/eltreceinternacionaleurope.png" group-title="España", El Trece Internacional
+http://polarbear.mov/live/Sandra123/Sandra123/3227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ElectricNOW en Espanol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2ba8f950-5d83-4adb-8fd5-e0bf4426de43/ENow_ES_Logo_-_Dark_Backgrounds_1500x1000RDX.png" group-title="Entretenimiento", ElectricNOW en Espanol
+http://polarbear.mov/live/Sandra123/Sandra123/830166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Estrella Games" tvg-logo="https://logo.m3uassets.com/estrellagames.png" group-title="Entretenimiento", Estrella Games
+http://polarbear.mov/live/Sandra123/Sandra123/707025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" EstrellaTV" tvg-logo="https://logo.m3uassets.com/estrellatv.png" group-title="Entretenimiento", EstrellaTV
+http://polarbear.mov/live/Sandra123/Sandra123/707027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Expedientes Sobrenaturales" tvg-logo="https://logo.m3uassets.com/sobrenatural.png" group-title="Entretenimiento", Expedientes Sobrenaturales
+http://polarbear.mov/live/Sandra123/Sandra123/707014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Foodies" tvg-logo="https://logo.m3uassets.com/foodies.png" group-title="Entretenimiento", Foodies
+http://polarbear.mov/live/Sandra123/Sandra123/707021.m3u8
+#EXTINF:-1 tvg-id="forotv.us" tvg-name=" FOROtv" tvg-logo="https://logo.m3uassets.com/forotv.png" group-title="Entretenimiento", FOROtv
+http://polarbear.mov/live/Sandra123/Sandra123/3223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" FreeTV Accion" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e9130d6-b68b-4d8e-889f-7eef2ad2c0c4/FreeTVAccion_Circle_1500x1000_-_Ralph_Campillo__1_Color.png" group-title="Entretenimiento", FreeTV Accion
+http://polarbear.mov/live/Sandra123/Sandra123/830196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" FreeTV Banda" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a6106bee-f101-428a-a703-38bd10c7b467/FreeTV_Banda__1_.png" group-title="Entretenimiento", FreeTV Banda
+http://polarbear.mov/live/Sandra123/Sandra123/830195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" FreeTV Estelar" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b96e6421-c1fa-4773-8a6d-3e980fcd1084/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo__1_.png" group-title="Entretenimiento", FreeTV Estelar
+http://polarbear.mov/live/Sandra123/Sandra123/830202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" FreeTV Familia" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6eaccf07-a855-4636-ae58-bb9405a021f7/FreeTVFamilia_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Entretenimiento", FreeTV Familia
+http://polarbear.mov/live/Sandra123/Sandra123/830193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" FreeTV Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b1c2a69a-6ca6-4c92-b090-53de85f49c8f/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Entretenimiento", FreeTV Hits
+http://polarbear.mov/live/Sandra123/Sandra123/830192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" FreeTV Horror" tvg-logo="https://provider-static.plex.tv/epg/cms/production/420ddff5-f7d5-4ac5-8a43-722d3c940ed0/FreeTVHorror_Circle_1500x1000_-_Ralph_Campillo_WHITE_ATTRIBUTIONRDX__1_.png" group-title="Entretenimiento", FreeTV Horror
+http://polarbear.mov/live/Sandra123/Sandra123/830191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" FreeTV Live" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c76bfce2-95b6-4ce7-b817-2eb3a3de13bf/FreeTV_Live.png" group-title="Entretenimiento", FreeTV Live
+http://polarbear.mov/live/Sandra123/Sandra123/830190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" FreeTV Sureno" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cc2b79be-49b6-49b0-95dc-be39ab298aca/FreeTVSureno_Circle_1500x1000_-_Ralph_Campillo__1_.png" group-title="Entretenimiento", FreeTV Sureno
+http://polarbear.mov/live/Sandra123/Sandra123/830188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Galanes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700002DU_20260421T142154SQUARE.png" group-title="Entretenimiento", Galanes
+http://polarbear.mov/live/Sandra123/Sandra123/830224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Gata Salvaje" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6690839-646f-43fc-bd75-b508f908d1ee/Plex_GataSalvaje_750x500_ChannelLogo_Light_RDX.png" group-title="Entretenimiento", Gata Salvaje
+http://polarbear.mov/live/Sandra123/Sandra123/830177.m3u8
+#EXTINF:-1 tvg-id="goltv.us" tvg-name=" GOL TV" tvg-logo="https://logo.m3uassets.com/goltvlatinamerica.png" group-title="Entretenimiento", GOL TV
+http://polarbear.mov/live/Sandra123/Sandra123/3218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Hallmark en español" tvg-logo="https://logo.m3uassets.com/hallmark.png" group-title="Entretenimiento", Hallmark en español
+http://polarbear.mov/live/Sandra123/Sandra123/707045.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Historia" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600019IC_20260421T141952SQUARE.png" group-title="Entretenimiento", Historia
+http://polarbear.mov/live/Sandra123/Sandra123/830182.m3u8
+#EXTINF:-1 tvg-id="historyenespanol.us" tvg-name=" History en ESPANOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/History_en_Espa%C3%B1ol_Logo.svg" group-title="Entretenimiento", History en ESPANOL
+http://polarbear.mov/live/Sandra123/Sandra123/267603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Hogar de HGTV" tvg-logo="https://logo.m3uassets.com/hogarhgtv.png" group-title="Entretenimiento", Hogar de HGTV
+http://polarbear.mov/live/Sandra123/Sandra123/707054.m3u8
+#EXTINF:-1 tvg-id="¡holatv.us" tvg-name=" HOLA! TV" tvg-logo="https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg" group-title="Entretenimiento", HOLA! TV
+http://polarbear.mov/live/Sandra123/Sandra123/3216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Ideas En 5 Minutos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dfe80db0-76d2-4437-bae4-470236b57cfb/1500x1000_dark_-_Irina_Larionova.png" group-title="Entretenimiento", Ideas En 5 Minutos
+http://polarbear.mov/live/Sandra123/Sandra123/830164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Investiga" tvg-logo="https://logo.m3uassets.com/investigation.png" group-title="Entretenimiento", Investiga
+http://polarbear.mov/live/Sandra123/Sandra123/707010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Iron Chef en espanol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7e7e0544-7004-46ac-bea2-b21a2a7ab166/Plex_xumoTile_FilmRise_IronChefEnEspanol_logo_color_white_text.png" group-title="Entretenimiento", Iron Chef en espanol
+http://polarbear.mov/live/Sandra123/Sandra123/830163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" La Rosa de Guadalupe" tvg-logo="http://p-img.movetv.com/1280x720/99dd1671839bc702aa066a24c46dfdb6.png" group-title="Entretenimiento", La Rosa de Guadalupe
+http://polarbear.mov/live/Sandra123/Sandra123/830230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" La Sexta" tvg-logo="https://logo.m3uassets.com/lasexta1080p.png" group-title="España", La Sexta
+http://polarbear.mov/live/Sandra123/Sandra123/3212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Las 3 Marías" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000172A_20260421T142201SQUARE.png" group-title="Entretenimiento", Las 3 Marías
+http://polarbear.mov/live/Sandra123/Sandra123/830203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Latino Vibes" tvg-logo="https://image.xumo.com/v1/channels/channel/99951287/168x168.webp?type=color_onBlack" group-title="Entretenimiento", Latino Vibes
+http://polarbear.mov/live/Sandra123/Sandra123/830213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" LATV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b9889f36-663f-4b11-b7ee-b63e877f6f3c/Latination-Logo-Dark-Backgrounds-1500-1000.png" group-title="Entretenimiento", LATV
+http://polarbear.mov/live/Sandra123/Sandra123/830204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Lucha Plus" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e8b87f4f-ebc1-4996-b732-b70118521f61/Plex_Channel_Logo_Color_-_Juan_Miguel_Bassalik_WHT_TEXT.png" group-title="Entretenimiento", Lucha Plus
+http://polarbear.mov/live/Sandra123/Sandra123/830216.m3u8
+#EXTINF:-1 tvg-id="maschic.us" tvg-name=" Mas Chic" tvg-logo="https://amcla.s3.amazonaws.com/assets/channel_logo/light/7xly9atcpv_MC_logo.png" group-title="Entretenimiento", Mas Chic
+http://polarbear.mov/live/Sandra123/Sandra123/3211.m3u8
+#EXTINF:-1 tvg-id="megatv.us" tvg-name=" Mega Tv" tvg-logo="https://logo.m3uassets.com/megatv2.png" group-title="España", Mega Tv
+http://polarbear.mov/live/Sandra123/Sandra123/3210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Mi Casa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fba2f51d-9bc8-418d-ae07-14e84f6e7fc8/channel_logo_1500x1000_light.png.png" group-title="Entretenimiento", Mi Casa
+http://polarbear.mov/live/Sandra123/Sandra123/830162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Misterios sin resolver" tvg-logo="data:image/png;base64,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" group-title="Entretenimiento", Misterios sin resolver
+http://polarbear.mov/live/Sandra123/Sandra123/707011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Moovimex" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8cc525b5848c561da7e2d47b934adf0c/rokuFeed/assets/949ad8bc33d5535ea1c104214bef0c15.jpg" group-title="Entretenimiento", Moovimex
+http://polarbear.mov/live/Sandra123/Sandra123/830221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Mundo geek" tvg-logo="https://logo.m3uassets.com/mundogeek.png" group-title="Entretenimiento", Mundo geek
+http://polarbear.mov/live/Sandra123/Sandra123/707017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Más adrenalina" tvg-logo="https://iconape.com/wp-content/files/xx/285625/png/285625.png" group-title="Entretenimiento", Más adrenalina
+http://polarbear.mov/live/Sandra123/Sandra123/707039.m3u8
+#EXTINF:-1 tvg-id="natgeomundo.us" tvg-name=" Nat Geo Mundo" tvg-logo="https://p1.hiclipart.com/preview/323/20/6/tv-channel-icons-pack-nat-geo-mundo-color-png-icon.jpg" group-title="Entretenimiento", Nat Geo Mundo
+http://polarbear.mov/live/Sandra123/Sandra123/3207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Naturaleza" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b8f2b67e-a131-4b50-9864-dc0b13c3c6ed/channel_logo_1500x1000_light.png.png" group-title="Entretenimiento", Naturaleza
+http://polarbear.mov/live/Sandra123/Sandra123/830183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Naturaleza Salvaje" tvg-logo="https://provider-static.plex.tv/epg/cms/production/80f7a8a5-199f-43a8-a4e7-c678df5efd7f/Plex_NatSalv_Logo_Light.png" group-title="Entretenimiento", Naturaleza Salvaje
+http://polarbear.mov/live/Sandra123/Sandra123/830201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Nosotros los Guapos" tvg-logo="http://p-img.movetv.com/images/34691586cb919252bb86b33de237fd8d0091cdf2" group-title="Entretenimiento", Nosotros los Guapos
+http://polarbear.mov/live/Sandra123/Sandra123/830223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Novelas de Siempre" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4104a44f-21ec-4ee6-8eca-7d151cfbd85d/Novelas_de_Siempre_Channel-Icon_ColorRDX.png" group-title="Entretenimiento", Novelas de Siempre
+http://polarbear.mov/live/Sandra123/Sandra123/830197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Novelas Turcas" tvg-logo="https://logo.m3uassets.com/tlnovelaslatinamerica.png" group-title="Entretenimiento", Novelas Turcas
+http://polarbear.mov/live/Sandra123/Sandra123/707042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Novelisima" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c02431c6-190a-426a-a652-38502fec17d8/Novelisima_logo_lightbakg_1500x1000_-_Ali_Clausen.png" group-title="Entretenimiento", Novelisima
+http://polarbear.mov/live/Sandra123/Sandra123/830161.m3u8
+#EXTINF:-1 tvg-id="nuestratele.us" tvg-name=" Nuestra Tele" tvg-logo="https://latinheat.com/wp-content/uploads/2022/09/FEATURED-1200-X-675-16-1024x576.png" group-title="Entretenimiento", Nuestra Tele
+http://polarbear.mov/live/Sandra123/Sandra123/3202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Nuestra Visión" tvg-logo="https://logo.m3uassets.com/rcnnuestratele.png" group-title="Entretenimiento", Nuestra Visión
+http://polarbear.mov/live/Sandra123/Sandra123/707052.m3u8
+#EXTINF:-1 tvg-id="pasiones.us" tvg-name=" Pasiones" tvg-logo="https://logo.m3uassets.com/pasioneslat.png" group-title="Entretenimiento", Pasiones
+http://polarbear.mov/live/Sandra123/Sandra123/3199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" PeliMex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fc750061-c748-4016-83e0-9f56a40a493c/Pelimex_red_logo_RDXC2.png" group-title="Entretenimiento", PeliMex
+http://polarbear.mov/live/Sandra123/Sandra123/830220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Pequenos Gigantes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700003F3_20260421T142217SQUARE.png" group-title="Entretenimiento", Pequenos Gigantes
+http://polarbear.mov/live/Sandra123/Sandra123/830160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Pitufo TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/352d158b-9349-41a8-a273-af1eea090ce6/pitufotv_logo_dark_-_Jordan_Warkol.png" group-title="Entretenimiento", Pitufo TV
+http://polarbear.mov/live/Sandra123/Sandra123/830159.m3u8
+#EXTINF:-1 tvg-id="racingamerica.us" tvg-name=" Racing America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png" group-title="Entretenimiento", Racing America
+http://polarbear.mov/live/Sandra123/Sandra123/830247.m3u8
+#EXTINF:-1 tvg-id="cinevaultwesterns.us" tvg-name=" RCN Mas" tvg-logo="https://velloflix.com/wp-content/uploads/2025/09/rcnmas.jpg" group-title="Entretenimiento", RCN Mas
+http://polarbear.mov/live/Sandra123/Sandra123/707065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Rebelde" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700018II_20260421T142224SQUARE.png" group-title="Entretenimiento", Rebelde
+http://polarbear.mov/live/Sandra123/Sandra123/830227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Revry Latinx" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4a423ae5-506e-4a10-b148-1f5dc2787db4/RevryLatinX_Logo_Plex_1500x1000_dark-backgrounds_-_Joshua_Pettway-Hinton.png" group-title="Entretenimiento", Revry Latinx
+http://polarbear.mov/live/Sandra123/Sandra123/830158.m3u8
+#EXTINF:-1 tvg-id="rtpinternacional.us" tvg-name=" RTP Internacional" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" group-title="Entretenimiento", RTP Internacional
+http://polarbear.mov/live/Sandra123/Sandra123/3195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Runtime Espanol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/158f2ae8-032e-4f0e-8143-b9939c2fd5a2/Runtime_USH_Light_Logo_-_JP_Garcia.png" group-title="Entretenimiento", Runtime Espanol
+http://polarbear.mov/live/Sandra123/Sandra123/830156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Saborear TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b0e8cad-4177-4427-90c2-dad12ed8e5c5/Saboreartv_1500x1000-_For_light_backgrounds.png" group-title="Entretenimiento", Saborear TV
+http://polarbear.mov/live/Sandra123/Sandra123/830155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Sala de Emergencias Historias Inéditas" tvg-logo="https://logo.m3uassets.com/prontosocorrohistoriasdeemergencia.png" group-title="Entretenimiento", Sala de Emergencias Historias Inéditas
+http://polarbear.mov/live/Sandra123/Sandra123/707015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Somos Novelas" tvg-logo="https://logo.m3uassets.com/tringnovelas.png" group-title="Entretenimiento", Somos Novelas
+http://polarbear.mov/live/Sandra123/Sandra123/707051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Sony One Escape Perfecto" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3a7f2ae8da19530ba33c0c3502becd32/rokuFeed/assets/9aed2b616f4d57b6819cb58ab2a688d5.jpg" group-title="Entretenimiento", Sony One Escape Perfecto
+http://polarbear.mov/live/Sandra123/Sandra123/707041.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Spark TV Luz y Amor" tvg-logo="https://provider-static.plex.tv/epg/cms/production/332040a1-861c-4db8-b4fa-56cdcf686cb4/Plex_SparkTV_key-art_Spanish-RDX.png" group-title="Entretenimiento", Spark TV Luz y Amor
+http://polarbear.mov/live/Sandra123/Sandra123/830154.m3u8
+#EXTINF:-1 tvg-id="teledeporte.us" tvg-name=" TeleCentro" tvg-logo="https://logo.m3uassets.com/telecentro.png" group-title="Entretenimiento", TeleCentro
+http://polarbear.mov/live/Sandra123/Sandra123/3192.m3u8
+#EXTINF:-1 tvg-id="telefeinternacional.us" tvg-name=" Telefe" tvg-logo="https://logo.m3uassets.com/telefeint.png" group-title="Entretenimiento", Telefe
+http://polarbear.mov/live/Sandra123/Sandra123/3191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Teleonce America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/af7d82cf-f17f-40b5-b086-ed6a61c17d2e/logo_Teleonce_AmericaRDX_COLOR.png" group-title="Entretenimiento", Teleonce America
+http://polarbear.mov/live/Sandra123/Sandra123/830245.m3u8
+#EXTINF:-1 tvg-id="teleritmo.us" tvg-name=" Teleritmo" tvg-logo="https://www.ethnicchannels.com/images/channeldetail/teleritmo/teleritmo-logo.png" group-title="Entretenimiento", Teleritmo
+http://polarbear.mov/live/Sandra123/Sandra123/3188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" The Walking Dead en español" tvg-logo="https://logo.m3uassets.com/thewalkingdead.png" group-title="Entretenimiento", The Walking Dead en español
+http://polarbear.mov/live/Sandra123/Sandra123/707034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Todo Crimen" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1861c959-0e05-4dd7-83c2-91966163cc95/TODO_CRIMEN_white__1_.png" group-title="Entretenimiento", Todo Crimen
+http://polarbear.mov/live/Sandra123/Sandra123/830179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Todo Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d4daa26d-847b-4c35-a59e-436a273448ce/TodoDrama_WHITERDX.png" group-title="Entretenimiento", Todo Drama
+http://polarbear.mov/live/Sandra123/Sandra123/830153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Todo Novelas, mas Pasiones" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f768af86-c0ca-40fa-b79a-bdfe22b54ab3/TN_MP_LOGO_TRANSP_1500x1000_Attribution_White.png", Todo Novelas group-title="Entretenimiento", mas Pasiones
+http://polarbear.mov/live/Sandra123/Sandra123/830235.m3u8
+#EXTINF:-1 tvg-id="mtvtr3s.us" tvg-name=" TR3S" tvg-logo="https://logo.m3uassets.com/latr3.png" group-title="Entretenimiento", TR3S
+http://polarbear.mov/live/Sandra123/Sandra123/3208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TRACE Latina" tvg-logo="https://provider-static.plex.tv/epg/cms/production/04b0a12e-b393-4456-9927-a48b793b623a/trace_latina_light_-_Nathan_BECKER.png" group-title="Entretenimiento", TRACE Latina
+http://polarbear.mov/live/Sandra123/Sandra123/830208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TuDiscovery" tvg-logo="https://logo.m3uassets.com/discovery.png" group-title="Entretenimiento", TuDiscovery
+http://polarbear.mov/live/Sandra123/Sandra123/707016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/3840px-TVE.svg.png" group-title="Entretenimiento", TVE
+http://polarbear.mov/live/Sandra123/Sandra123/707005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Vecinos" tvg-logo="http://p-img.movetv.com/1280x720/cf6f265df8aeeadc23385a166444257a.png" group-title="Entretenimiento", Vecinos
+http://polarbear.mov/live/Sandra123/Sandra123/830225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" VePlus" tvg-logo="https://logo.m3uassets.com/veplus.png" group-title="Entretenimiento", VePlus
+http://polarbear.mov/live/Sandra123/Sandra123/707004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Vevo Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20260303T094222SQUARE.png" group-title="Entretenimiento", Vevo Latino
+http://polarbear.mov/live/Sandra123/Sandra123/830209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Vevo Regional Mexicano" tvg-logo="https://e7.pngegg.com/pngimages/510/93/png-clipart-vevo-logo-music-video-youtube-logo-text-trademark.png" group-title="Entretenimiento", Vevo Regional Mexicano
+http://polarbear.mov/live/Sandra123/Sandra123/707007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Vevo Íconos Latinos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbku6wRr8cxE-MuED6Do92aPQ7ouoUQXs_pg&s" group-title="Entretenimiento", Vevo Íconos Latinos
+http://polarbear.mov/live/Sandra123/Sandra123/707006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Vidas Extremas" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BAA7B0C1-76FD-4DDD-87EA-7034BD93028F/3-1x1.png/900" group-title="Entretenimiento", Vidas Extremas
+http://polarbear.mov/live/Sandra123/Sandra123/707019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Videorola" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/VR-2024.png/revision/latest?cb=20240910031904" group-title="Entretenimiento", Videorola
+http://polarbear.mov/live/Sandra123/Sandra123/707003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ViX Grandes Parejas" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100012EJ_20260421T142342SQUARE.png" group-title="Entretenimiento", ViX Grandes Parejas
+http://polarbear.mov/live/Sandra123/Sandra123/830240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ViX JaJaJa" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100010OS_20260421T142346SQUARE.png" group-title="Entretenimiento", ViX JaJaJa
+http://polarbear.mov/live/Sandra123/Sandra123/830238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ViX Novelas de romance" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB44000099N_20260421T141646SQUARE.png" group-title="Entretenimiento", ViX Novelas de romance
+http://polarbear.mov/live/Sandra123/Sandra123/830242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ViX Villanos de Novela" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100011WI_20260421T142351SQUARE.png" group-title="Entretenimiento", ViX Villanos de Novela
+http://polarbear.mov/live/Sandra123/Sandra123/830241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Vme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/V-me_logo.svg/1280px-V-me_logo.svg.png" group-title="Entretenimiento", Vme
+http://polarbear.mov/live/Sandra123/Sandra123/707002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Wapa America" tvg-logo="https://logo.m3uassets.com/wapaamerica.png" group-title="Entretenimiento", Wapa America
+http://polarbear.mov/live/Sandra123/Sandra123/3172.m3u8
+#EXTINF:-1 tvg-id="a&e.us" tvg-name=" WAPA+" tvg-logo="https://ipuntotv.com/IMAGES/Wapa-mas-logo-nuevo.jpg" group-title="Entretenimiento", WAPA+
+http://polarbear.mov/live/Sandra123/Sandra123/3173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Zona Investigacion" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f653ff7d-39d9-4da4-a3d3-dc0fc71b6dd4/Zone_Investigacion_-_1500X1000_PNG_w_transparent_background_Logo_for_dark___white_backgrounds_-_JuanMa_Velasquez.png" group-title="Entretenimiento", Zona Investigacion
+http://polarbear.mov/live/Sandra123/Sandra123/830181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ZooMoo" tvg-logo="https://logo.m3uassets.com/zoomoo.png" group-title="Entretenimiento", ZooMoo
+http://polarbear.mov/live/Sandra123/Sandra123/707001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ¿Qué Culpa Tiene Fatmagül" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US270000298_20260421T142000SQUARE.png" group-title="Entretenimiento", ¿Qué Culpa Tiene Fatmagül
+http://polarbear.mov/live/Sandra123/Sandra123/830198.m3u8
+#EXTINF:-1 tvg-id="multimediostelevision.us" tvg-name="USA Multimedios Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="Entretenimiento",USA Multimedios Television
+http://polarbear.mov/live/Sandra123/Sandra123/3170.m3u8
+#EXTINF:-1 tvg-id="tr3s.us" tvg-name="USA TR3S" tvg-logo="https://logo.m3uassets.com/tr3s.png" group-title="Entretenimiento",USA TR3S
+http://polarbear.mov/live/Sandra123/Sandra123/3169.m3u8
+#EXTINF:-1 tvg-id="universo.us" tvg-name="USA Universo" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2019/4/25/Universo-logos-templateUniverso-Logo-White-450x228.png" group-title="Entretenimiento",USA Universo
+http://polarbear.mov/live/Sandra123/Sandra123/3168.m3u8
+#EXTINF:-1 tvg-id="universo.us" tvg-name="USA Universo West" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2019/4/25/Universo-logos-templateUniverso-Logo-White-450x228.png" group-title="Entretenimiento",USA Universo West
+http://polarbear.mov/live/Sandra123/Sandra123/3167.m3u8
+#EXTINF:-1 tvg-id="daystar.us" tvg-name="Daystar Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_%282008%E2%80%93present%29_unmodified_logo.svg/3840px-Daystar_%282008%E2%80%93present%29_unmodified_logo.svg.png" group-title="Entretenimiento",Daystar Espanol
+http://polarbear.mov/live/Sandra123/Sandra123/636628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Enlace" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/USA_Network_2025_logo.svg" group-title="Entretenimiento",Enlace
+http://polarbear.mov/live/Sandra123/Sandra123/636624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cops en Español FHD ▪ᴘʟᴇx▪" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png" group-title="Entretenimiento",Cops en Español FHD ▪ᴘʟᴇx▪
+http://polarbear.mov/live/Sandra123/Sandra123/622419.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ElectricNOW en Español FHD ▪ᴘʟᴇx▪" tvg-logo="https://s12.gifyu.com/images/SrD2p.png" group-title="Entretenimiento",ElectricNOW en Español FHD ▪ᴘʟᴇx▪
+http://polarbear.mov/live/Sandra123/Sandra123/622384.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Español FHD ▪ᴘʟᴇx▪" tvg-logo="https://provider-static.plex.tv/epg/cms/production/158f2ae8-032e-4f0e-8143-b9939c2fd5a2/Runtime_USH_Light_Logo_-_JP_Garcia.png" group-title="Entretenimiento",Runtime Español FHD ▪ᴘʟᴇx▪
+http://polarbear.mov/live/Sandra123/Sandra123/622127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE Latina FHD ▪ᴘʟᴇx▪" tvg-logo="https://provider-static.plex.tv/epg/cms/production/04b0a12e-b393-4456-9927-a48b793b623a/trace_latina_light_-_Nathan_BECKER.png" group-title="Entretenimiento",TRACE Latina FHD ▪ᴘʟᴇx▪
+http://polarbear.mov/live/Sandra123/Sandra123/622032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astros vs Padres Español @ Aug 9 20:00 PM :Peacock Event 10" tvg-logo="https://logo.m3uassets.com/nbcpeacock.png" group-title="Deportes",Astros vs Padres Español @ Aug 9 20:00 PM :Peacock Event 10
+http://polarbear.mov/live/Sandra123/Sandra123/698661.m3u8
+#EXTINF:-1 tvg-id="beinsportsxtraespanol.us" tvg-name="beIN Sports XTRA En Español" tvg-logo="https://logo.m3uassets.com/beinsportsxtraenespanol.png" group-title="Deportes",beIN Sports XTRA En Español
+http://polarbear.mov/live/Sandra123/Sandra123/710440.m3u8
+#EXTINF:-1 tvg-id="ESPNPlus.6" tvg-name="Eredivisie: En Español PEC Zwolle vs Ajax @ Aug 9 8:29 AM :ESPN+ 06" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="Deportes",Eredivisie: En Español PEC Zwolle vs Ajax @ Aug 9 8:29 AM :ESPN+ 06
+http://polarbear.mov/live/Sandra123/Sandra123/635531.m3u8
+#EXTINF:-1 tvg-id="foxsports.us" tvg-name="Fox Sports en Espanol" tvg-logo="https://logo.m3uassets.com/foxsportstennessee.png" group-title="Deportes",Fox Sports en Espanol
+http://polarbear.mov/live/Sandra123/Sandra123/710552.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="Softball 01 :High School Softball: PGF 18U Platinum National Championship @ Jul 25 8:00 PM" tvg-logo="https://goaugie.com/images/2017/4/19/softballncaa.jpg" group-title="Deportes",Softball 01 :High School Softball: PGF 18U Platinum National Championship @ Jul 25 8:00 PM
+http://polarbear.mov/live/Sandra123/Sandra123/3096.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Softball 02 :High School Softball: PGF 16U Platinum National Championship @ Jul 25 10:00 PM" tvg-logo="https://goaugie.com/images/2017/4/19/softballncaa.jpg" group-title="Deportes",Softball 02 :High School Softball: PGF 16U Platinum National Championship @ Jul 25 10:00 PM
+http://polarbear.mov/live/Sandra123/Sandra123/3095.m3u8
+#EXTINF:-1 tvg-id="beinsportsenespanol.us" tvg-name="USA Bein Sports en Espanol" tvg-logo="https://logo.m3uassets.com/beinsportsenespanol.png" group-title="Deportes",USA Bein Sports en Espanol
+http://polarbear.mov/live/Sandra123/Sandra123/942.m3u8
+#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="USA ESPN Deportes" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="Deportes",USA ESPN Deportes
+http://polarbear.mov/live/Sandra123/Sandra123/3165.m3u8
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="USA Fox Deportes" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FOX-Deportes-1040x585.jpg" group-title="Deportes",USA Fox Deportes
+http://polarbear.mov/live/Sandra123/Sandra123/3164.m3u8
+#EXTINF:-1 tvg-id="beinsportenespanol.us" tvg-name=" BEIN Sports en Español" tvg-logo="https://logo.m3uassets.com/beinsportsenespaol.png" group-title="Deportes", BEIN Sports en Español
+http://polarbear.mov/live/Sandra123/Sandra123/3242.m3u8
+#EXTINF:-1 tvg-id="beinsportsxtraespanol.us" tvg-name=" beIN Sports Xtra en Espanol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/367f55e2-df38-4fc5-b6cf-c102fd938601/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png" group-title="Deportes", beIN Sports Xtra en Espanol
+http://polarbear.mov/live/Sandra123/Sandra123/830260.m3u8
+#EXTINF:-1 tvg-id="canelatvdeportes.mx" tvg-name=" Canela.TV Deportes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f345c0b8-c5b8-49a4-82f2-28fa7fcfe7e8/CM-Plex-dark_logo-CanelaTV-deportes_-_Natalia_Rodriguez.png" group-title="Deportes", Canela.TV Deportes
+http://polarbear.mov/live/Sandra123/Sandra123/830259.m3u8
+#EXTINF:-1 tvg-id="foxsportsnetppv.us" tvg-name=" Fox Deportes" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/10/Fox-Deportes-Logo.png" group-title="Deportes", Fox Deportes
+http://polarbear.mov/live/Sandra123/Sandra123/3221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ITV Deportes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png" group-title="Deportes", ITV Deportes
+http://polarbear.mov/live/Sandra123/Sandra123/830214.m3u8
+#EXTINF:-1 tvg-id="noticiastelemundoahora.us" tvg-name=" Telemundo Deportes Ahora" tvg-logo="https://image.xumo.com/v1/channels/channel/99951459/168x168.webp?type=color_onBlack" group-title="Deportes", Telemundo Deportes Ahora
+http://polarbear.mov/live/Sandra123/Sandra123/830263.m3u8
+#EXTINF:-1 tvg-id="tudn.us" tvg-name=" TUDN X1" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X1
+http://polarbear.mov/live/Sandra123/Sandra123/3186.m3u8
+#EXTINF:-1 tvg-id="tudn.us" tvg-name=" TUDN X10" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X10
+http://polarbear.mov/live/Sandra123/Sandra123/3185.m3u8
+#EXTINF:-1 tvg-id="tudn.us" tvg-name=" TUDN X2" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X2
+http://polarbear.mov/live/Sandra123/Sandra123/3184.m3u8
+#EXTINF:-1 tvg-id="tudn.us" tvg-name=" TUDN X3" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X3
+http://polarbear.mov/live/Sandra123/Sandra123/3183.m3u8
+#EXTINF:-1 tvg-id="tudn.us" tvg-name=" TUDN X4" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X4
+http://polarbear.mov/live/Sandra123/Sandra123/3182.m3u8
+#EXTINF:-1 tvg-id="tudn.us" tvg-name=" TUDN X5" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X5
+http://polarbear.mov/live/Sandra123/Sandra123/3181.m3u8
+#EXTINF:-1 tvg-id="TUDNX6" tvg-name=" TUDN X6" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X6
+http://polarbear.mov/live/Sandra123/Sandra123/3180.m3u8
+#EXTINF:-1 tvg-id="tudn.us" tvg-name=" TUDN X7" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X7
+http://polarbear.mov/live/Sandra123/Sandra123/3179.m3u8
+#EXTINF:-1 tvg-id="tudn.us" tvg-name=" TUDN X8" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X8
+http://polarbear.mov/live/Sandra123/Sandra123/3178.m3u8
+#EXTINF:-1 tvg-id="tudn.us" tvg-name=" TUDN X9" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X9
+http://polarbear.mov/live/Sandra123/Sandra123/3177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ViX Deportes 21" tvg-logo="http://p-img.movetv.com/cms/images/fe9d44799eef7096aaed963416f323dc7ceae1d3.png" group-title="Deportes", ViX Deportes 21
+http://polarbear.mov/live/Sandra123/Sandra123/830258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ViX Deportes 22" tvg-logo="http://p-img.movetv.com/cms/images/8dd3eec3104c6805e76d73747471cd18ee373b92.png" group-title="Deportes", ViX Deportes 22
+http://polarbear.mov/live/Sandra123/Sandra123/830257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" ViX Deportes 23" tvg-logo="http://p-img.movetv.com/cms/images/e66be32852219c6a053dbf7a4168813a2369474e.png" group-title="Deportes", ViX Deportes 23
+http://polarbear.mov/live/Sandra123/Sandra123/830256.m3u8
+#EXTINF:-1 tvg-id="zonafutbol.us" tvg-name=" ZONA Tudn Futbol" tvg-logo="https://logo.m3uassets.com/zonafutbol.png" group-title="Deportes", ZONA Tudn Futbol
+http://polarbear.mov/live/Sandra123/Sandra123/3171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAR: TELE SUR SPANISH" tvg-logo="https://asiagrandiptv.us/logo//TELESURSPANISH.png" group-title="Noticias",CAR: TELE SUR SPANISH
+http://polarbear.mov/live/Sandra123/Sandra123/280166.m3u8
+#EXTINF:-1 tvg-id="cnnenespañol.us" tvg-name="USA CNN Espanol" tvg-logo="https://logo.m3uassets.com/cnnenespanol.png" group-title="Noticias",USA CNN Espanol
+http://polarbear.mov/live/Sandra123/Sandra123/3263.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA Estrella News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/estrella-news-vod.png" group-title="Noticias",USA Estrella News
+http://polarbear.mov/live/Sandra123/Sandra123/623307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" adn Noticias" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a7ef3da6761e5b768557b00ab1ab85e4/rokuFeed/assets/9b932cd789f35309a15d82fd85d87148.jpg" group-title="Noticias", adn Noticias
+http://polarbear.mov/live/Sandra123/Sandra123/830243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" CNN Noticias" tvg-logo="https://images.pluto.tv/channels/673248f9030a2c0008033af8/featuredImage_1777908720377.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" group-title="Noticias", CNN Noticias
+http://polarbear.mov/live/Sandra123/Sandra123/707008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Estrella News" tvg-logo="https://logo.m3uassets.com/estrellanews.png" group-title="Noticias", Estrella News
+http://polarbear.mov/live/Sandra123/Sandra123/707026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Meganoticias" tvg-logo="https://logowik.com/content/uploads/images/meganoticias7444.logowik.com.webp" group-title="España", Meganoticias
+http://polarbear.mov/live/Sandra123/Sandra123/707053.m3u8
+#EXTINF:-1 tvg-id="noticiastelemundoahora.us" tvg-name=" Noticias Telemundo AHORA" tvg-logo="https://provider-static.plex.tv/a/epg/channels/logos/gracenote/a88b95413ac88f1f1147ea1d00692653.png" group-title="Noticias", Noticias Telemundo AHORA
+http://polarbear.mov/live/Sandra123/Sandra123/830265.m3u8
+#EXTINF:-1 tvg-id="ntn24.us" tvg-name=" NTN24" tvg-logo="https://logo.m3uassets.com/ntn24.png" group-title="Noticias", NTN24
+http://polarbear.mov/live/Sandra123/Sandra123/3203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" RCN Noticias" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9150537f-f9e4-4f21-b5e2-bc57b7a5ea35/RCN_NOTICIAS_WHITE_-_JuanMa_VelasquezRDX.png" group-title="Noticias", RCN Noticias
+http://polarbear.mov/live/Sandra123/Sandra123/830250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Spectrum Noticias" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzl-DLmv2YLRooqsDeWoE7UcDe9XXqjeUHQ&s" group-title="Noticias", Spectrum Noticias
+http://polarbear.mov/live/Sandra123/Sandra123/707046.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Telemundo Noticias California" tvg-logo="https://image.xumo.com/v1/channels/channel/99951225/168x168.webp?type=color_onBlack" group-title="Noticias", Telemundo Noticias California
+http://polarbear.mov/live/Sandra123/Sandra123/830255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Telemundo Noticias California" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvb2jZYNNBzI3rttB3je2gUS9Wl5ODLiiCeg&s" group-title="Noticias", Telemundo Noticias California
+http://polarbear.mov/live/Sandra123/Sandra123/707032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Telemundo Noticias Florida" tvg-logo="https://image.xumo.com/v1/channels/channel/99951227/168x168.webp?type=color_onBlack" group-title="Noticias", Telemundo Noticias Florida
+http://polarbear.mov/live/Sandra123/Sandra123/830254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Telemundo Noticias Noreste" tvg-logo="https://image.xumo.com/v1/channels/channel/99951228/168x168.webp?type=color_onBlack" group-title="Noticias", Telemundo Noticias Noreste
+http://polarbear.mov/live/Sandra123/Sandra123/830249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Telemundo Noticias Texas" tvg-logo="https://image.xumo.com/v1/channels/channel/99951226/168x168.webp?type=color_onBlack" group-title="Noticias", Telemundo Noticias Texas
+http://polarbear.mov/live/Sandra123/Sandra123/830251.m3u8
+#EXTINF:-1 tvg-id="mnmxus.us" tvg-name="USA Univision Noticias" tvg-logo="https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Bd5dGQpgq11xtNELGWUhAiM0r7Y=/960x0/arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/VW4KDLVCKII6JFOT2S7WAIOUGA.jpg" group-title="Noticias",USA Univision Noticias
+http://polarbear.mov/live/Sandra123/Sandra123/3390.m3u8
+#EXTINF:-1 tvg-id="4uv.us" tvg-name="USA Cine de Horror" tvg-logo="https://worldscreen.com/wp-content/uploads/2025/10/Cine-De-Horror-1025.jpg" group-title="Cine y Series",USA Cine de Horror
+http://polarbear.mov/live/Sandra123/Sandra123/707063.m3u8
+#EXTINF:-1 tvg-id="latinocinema.us" tvg-name="USA Cine Latino" tvg-logo="https://logo.m3uassets.com/cine.png" group-title="Cine y Series",USA Cine Latino
+http://polarbear.mov/live/Sandra123/Sandra123/3161.m3u8
+#EXTINF:-1 tvg-id="cinemaxenespañol.us" tvg-name="USA Cinemax Latino" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="Cine y Series",USA Cinemax Latino
+http://polarbear.mov/live/Sandra123/Sandra123/3160.m3u8
+#EXTINF:-1 tvg-id="cinemaxenespañol.us" tvg-name="USA Cinemax Latino" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="Cine y Series",USA Cinemax Latino
+http://polarbear.mov/live/Sandra123/Sandra123/808.m3u8
+#EXTINF:-1 tvg-id="latinocinema.us" tvg-name="USA Cinemax Latino UHD" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="Cine y Series",USA Cinemax Latino UHD
+http://polarbear.mov/live/Sandra123/Sandra123/268851.m3u8
+#EXTINF:-1 tvg-id="hbolatino.us" tvg-name="USA HBO Latino" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" group-title="Cine y Series",USA HBO Latino
+http://polarbear.mov/live/Sandra123/Sandra123/3158.m3u8
+#EXTINF:-1 tvg-id="hbolatino.us" tvg-name="USA HBO Latino East" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="Cine y Series",USA HBO Latino East
+http://polarbear.mov/live/Sandra123/Sandra123/741.m3u8
+#EXTINF:-1 tvg-id="hbolatino.us" tvg-name="USA HBO Latino East UHD" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="Cine y Series",USA HBO Latino East UHD
+http://polarbear.mov/live/Sandra123/Sandra123/268959.m3u8
+#EXTINF:-1 tvg-id="hbolatino()west.us" tvg-name="USA HBO Latino West" tvg-logo="https://logo.m3uassets.com/hbowest.png" group-title="Cine y Series",USA HBO Latino West
+http://polarbear.mov/live/Sandra123/Sandra123/290172.m3u8
+#EXTINF:-1 tvg-id="hbowest.us" tvg-name="USA HBO Latino West" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" group-title="Cine y Series",USA HBO Latino West
+http://polarbear.mov/live/Sandra123/Sandra123/3157.m3u8
+#EXTINF:-1 tvg-id="hbolatino()west.us" tvg-name="USA HBO Latino West UHD" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" group-title="Cine y Series",USA HBO Latino West UHD
+http://polarbear.mov/live/Sandra123/Sandra123/813694.m3u8
+#EXTINF:-1 tvg-id="a3cine.us" tvg-name=" A3Cine" tvg-logo="https://mma.prnewswire.com/media/629670/Atrescine_Logo.jpg" group-title="Cine y Series", A3Cine
+http://polarbear.mov/live/Sandra123/Sandra123/3257.m3u8
+#EXTINF:-1 tvg-id="latinocinema.us" tvg-name=" AZ Cinema" tvg-logo="https://americancable.ec/wp-content/uploads/2021/09/40-logo-azcinema.png" group-title="Cine y Series", AZ Cinema
+http://polarbear.mov/live/Sandra123/Sandra123/3250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Cine Club" tvg-logo="http://p-img.movetv.com/cms/images/875441ad3df2f9d4a680e6db6b08b8e8ac8e7699.png" group-title="Cine y Series", Cine Club
+http://polarbear.mov/live/Sandra123/Sandra123/830233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Cine Clásico" tvg-logo="https://logo.m3uassets.com/cinelat.png" group-title="Cine y Series", Cine Clásico
+http://polarbear.mov/live/Sandra123/Sandra123/707067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Cine de Oro" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700005KL_20260421T142142SQUARE.png" group-title="Cine y Series", Cine de Oro
+http://polarbear.mov/live/Sandra123/Sandra123/830237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Cine Estelar" tvg-logo="https://logo.m3uassets.com/plutotvcineestelar.png" group-title="Cine y Series", Cine Estelar
+http://polarbear.mov/live/Sandra123/Sandra123/707072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Cine EstrellaTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/09f86900-5fce-4b68-944a-a52733ca2ec2/cine-logo_color_-_Erick_Ramirez1500x1000.png" group-title="Cine y Series", Cine EstrellaTV
+http://polarbear.mov/live/Sandra123/Sandra123/830228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Cine Mexicano" tvg-logo="https://logo.m3uassets.com/tempcs1315cinemexicano.png" group-title="Cine y Series", Cine Mexicano
+http://polarbear.mov/live/Sandra123/Sandra123/707071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Cine Nostalgia" tvg-logo="https://logo.m3uassets.com/cinenostalgia.png" group-title="Cine y Series", Cine Nostalgia
+http://polarbear.mov/live/Sandra123/Sandra123/707070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Cine Retro" tvg-logo="https://logo.m3uassets.com/plutotvcineretro.png" group-title="Cine y Series", Cine Retro
+http://polarbear.mov/live/Sandra123/Sandra123/707069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Cine Romantico" tvg-logo="https://mma.prnewswire.com/media/1321479/UP_Entertainment_Cine_Romantico_Logo.jpg" group-title="Cine y Series", Cine Romantico
+http://polarbear.mov/live/Sandra123/Sandra123/707064.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Cine Vault" tvg-logo="https://logo.m3uassets.com/cinelatino.png" group-title="Cine y Series", Cine Vault
+http://polarbear.mov/live/Sandra123/Sandra123/707062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Cine Vault Classics" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYfObIZurdmgdtQSeLWZGvB47XOC7RmbWwg&s" group-title="Cine y Series", Cine Vault Classics
+http://polarbear.mov/live/Sandra123/Sandra123/707061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Cine Vault Westerns" tvg-logo="https://logo.m3uassets.com/cinevaultwesterns.png" group-title="Cine y Series", Cine Vault Westerns
+http://polarbear.mov/live/Sandra123/Sandra123/707060.m3u8
+#EXTINF:-1 tvg-id="cinemadinamita.us" tvg-name=" Cinema Dinamita" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/1588706493698-9FZI0PVBWD50JVE24B0K/network_cinemadinamita.png" group-title="Cine y Series", Cinema Dinamita
+http://polarbear.mov/live/Sandra123/Sandra123/3237.m3u8
+#EXTINF:-1 tvg-id="cinevault.us" tvg-name=" CINEVAULT" tvg-logo="https://logo.m3uassets.com/cinelatino.png" group-title="Cine y Series", CINEVAULT
+http://polarbear.mov/live/Sandra123/Sandra123/707066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" DP De Pelicula" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/PELIC-logo.png" group-title="Cine y Series", DP De Pelicula
+http://polarbear.mov/live/Sandra123/Sandra123/3229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" DP De Pelicula Clasico" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/PCLAS-logo.png" group-title="Cine y Series", DP De Pelicula Clasico
+http://polarbear.mov/live/Sandra123/Sandra123/3230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" FILMEX" tvg-logo="https://image.xumo.com/v1/channels/channel/99951120/168x168.webp?type=color_onBlack" group-title="Cine y Series", FILMEX
+http://polarbear.mov/live/Sandra123/Sandra123/830232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" FILMEX CLASICO" tvg-logo="https://image.xumo.com/v1/channels/channel/99981121/168x168.webp?type=color_onBlack" group-title="Cine y Series", FILMEX CLASICO
+http://polarbear.mov/live/Sandra123/Sandra123/830231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" FilmRise Crimenes Verdaderos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9cb510b3-1a62-4a68-9957-58425d97e272/FilmRise_CrimenesVerdaderos_1500x1000_Light_Logo.png" group-title="Cine y Series", FilmRise Crimenes Verdaderos
+http://polarbear.mov/live/Sandra123/Sandra123/830180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Grjngo vs Peliculas Del Oeste" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76964e60-8756-4551-8748-dbd7852bd0bd/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png" group-title="Cine y Series", Grjngo vs Peliculas Del Oeste
+http://polarbear.mov/live/Sandra123/Sandra123/830176.m3u8
+#EXTINF:-1 tvg-id="hbo.us" tvg-name=" HBO Latino" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/HBOLATINAMERICA.jpg" group-title="Cine y Series", HBO Latino
+http://polarbear.mov/live/Sandra123/Sandra123/3217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Sony Cine" tvg-logo="https://logo.m3uassets.com/cinesony.png" group-title="Cine y Series", Sony Cine
+http://polarbear.mov/live/Sandra123/Sandra123/707050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Todo Cine" tvg-logo="https://provider-static.plex.tv/epg/cms/production/afe5cd54-0d6d-4b60-a4df-91a8d7ac7960/TodoCine_-_White_Fernando_Fraderdx.png" group-title="Cine y Series", Todo Cine
+http://polarbear.mov/live/Sandra123/Sandra123/830236.m3u8
+#EXTINF:-1 tvg-id="starzencoreespañol.us" tvg-name="USA Starz Encore Español" tvg-logo="https://logo.m3uassets.com/starzencoreespanol.png" group-title="Cine y Series",USA Starz Encore Español
+http://polarbear.mov/live/Sandra123/Sandra123/762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine en Español HD ▪ᴘʟᴇx▪" tvg-logo="https://provider-static.plex.tv/epg/cms/production/18be52bf-43c6-4ac0-b3bf-ed51b252cb89/Cine_en_espanol_logo_1500x1000px_WHT.png" group-title="Cine y Series",Cine en Español HD ▪ᴘʟᴇx▪
+http://polarbear.mov/live/Sandra123/Sandra123/622434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FILMRISE: Cheaters en Español HD ▪ᴘʟᴇx▪" tvg-logo="https://s12.gifyu.com/images/SrYC6.webp" group-title="Cine y Series",FILMRISE: Cheaters en Español HD ▪ᴘʟᴇx▪
+http://polarbear.mov/live/Sandra123/Sandra123/622346.m3u8
+#EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name=" Discovery Familia" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/DSFAM-logo.png" group-title="Infantil", Discovery Familia
+http://polarbear.mov/live/Sandra123/Sandra123/3231.m3u8
+#EXTINF:-1 tvg-id="stingrayromancelatino.us" tvg-name="[US] STINGRAY ROMANCE LATINO FHD [sᴛᴠ+]" tvg-logo="https://logo.m3uassets.com/stingrayromance.png" group-title="Música",[US] STINGRAY ROMANCE LATINO FHD [sᴛᴠ+]
+http://polarbear.mov/live/Sandra123/Sandra123/623171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[US] STINGRAY TODAY'S LATIN POP FHD [sᴛᴠ+]" tvg-logo="https://logo.m3uassets.com/stingraytoday'slatinpop.png" group-title="Música",[US] STINGRAY TODAY'S LATIN POP FHD [sᴛᴠ+]
+http://polarbear.mov/live/Sandra123/Sandra123/623168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[US] XITE NUEVO LATINO FHD [sᴛᴠ+]" tvg-logo="https://s9.gifyu.com/images/Sai7l.png" group-title="Música",[US] XITE NUEVO LATINO FHD [sᴛᴠ+]
+http://polarbear.mov/live/Sandra123/Sandra123/623187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[US] XITE SIEMPRE LATINO FHD [sᴛᴠ+]" tvg-logo="https://s9.gifyu.com/images/Sai76.png" group-title="Música",[US] XITE SIEMPRE LATINO FHD [sᴛᴠ+]
+http://polarbear.mov/live/Sandra123/Sandra123/623183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" MTV en español" tvg-logo="https://logo.m3uassets.com/mtvenespanol.png" group-title="Música", MTV en español
+http://polarbear.mov/live/Sandra123/Sandra123/707030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Stingray Romance Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20260421T141914SQUARE.png" group-title="Música", Stingray Romance Latino
+http://polarbear.mov/live/Sandra123/Sandra123/830207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" Stingray Today's Latin Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500009Y3_20260421T141859SQUARE.png" group-title="Música", Stingray Today's Latin Pop
+http://polarbear.mov/live/Sandra123/Sandra123/830219.m3u8
+#EXTINF:-1 tvg-id="telehit.us" tvg-name=" Telehit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" group-title="Música", Telehit
+http://polarbear.mov/live/Sandra123/Sandra123/3190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" XITE Nuevo Latino" tvg-logo="https://provider-static.plex.tv/epg/cms/production/25aac646-3806-4e44-b1aa-cd8e3407f3c3/xitenuevolatino_logo_light_-_Arlette_FiranRDX.png" group-title="Música", XITE Nuevo Latino
+http://polarbear.mov/live/Sandra123/Sandra123/830218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" XITE Siempre Latino" tvg-logo="https://provider-static.plex.tv/epg/cms/production/35a1d7e4-caa3-477a-b813-90d23a756a16/xitesiemprelatino_logo_light_-_Arlette_FiranRDX.png" group-title="Música", XITE Siempre Latino
+http://polarbear.mov/live/Sandra123/Sandra123/830215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA Music Choice Video | Pop Latino" tvg-logo="https://logo.m3uassets.com/musicchoicelightclassical.png" group-title="Música",USA Music Choice Video | Pop Latino
+http://polarbear.mov/live/Sandra123/Sandra123/1127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Street Food Latin America" tvg-logo="" group-title="24/7",24/7 Street Food Latin America
+http://polarbear.mov/live/Sandra123/Sandra123/90700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Spanish Princess" tvg-logo="" group-title="24/7",24/7 The Spanish Princess
+http://polarbear.mov/live/Sandra123/Sandra123/291493.m3u8

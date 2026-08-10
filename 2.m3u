@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ColorVision.do" group-title="República Dominicana",00 - Color Vision Dailymotion TEST
+https://live.eu-north-1a.cf.dmcdn.net/sec2(Y4XArlY8wOvoON_K4oU6BMk_YqQuYkXRgXRG-X7bYzOd4bxK0HNp7RmJfRdCXqFwGwMURA6g9DIu2Um2owHyPm1lDSR-ZpwUnAsOY9RadNymXg7UuFv2qUamyXjlENX5)/dm/3/x7gy059/d/live-720.m3u8?startdate=2026-05-28T01%3A25%3A09%2B0000
 #EXTINF:-1 tvg-id="TeleAntillas.do@SD" tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="República Dominicana",02 - Tele Antillas
 http://45.171.108.253:8888/TELEANTILLAS/index.m3u8
 #EXTINF:-1 tvg-id="Canal4RD.do@SD" tvg-logo="https://i.imgur.com/3AqCAji.png" group-title="República Dominicana",04 - Canal 4 RD

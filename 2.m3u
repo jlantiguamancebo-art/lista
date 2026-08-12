@@ -513,7 +513,7 @@ https://cdn1.etbon.eus/etb2on/index.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/623312.m3u8
 #EXTINF:-1 tvg-id="Discovery.es" tvg-name="USA Discovery Español" tvg-logo="https://d3hjzzsa8cr26l.cloudfront.net/2f509bab-1252-11e8-a56d-535a4e504290.jpg" group-title="Entretenimiento",USA Discovery Español
 http://polarbear.mov/live/Sandra123/Sandra123/3262.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTheater.dr" tvg-name="USA Discovery Español" tvg-logo="https://d3hjzzsa8cr26l.cloudfront.net/2f509bab-1252-11e8-a56d-535a4e504290.jpg" group-title="Entretenimiento",USA Discovery Theater
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="USA Discovery Español" tvg-logo="https://d3hjzzsa8cr26l.cloudfront.net/2f509bab-1252-11e8-a56d-535a4e504290.jpg" group-title="Entretenimiento",USA Discovery Theater
 http://skybeyondplus.mine.nu:25461/live/joshtowers/275apB9vbzgt/34751.m3u8
 #EXTINF:-1 tvg-id="Discovery.es" tvg-name="USA Discovery Español" tvg-logo="https://logo.m3uassets.com/discoveryespanol.png" group-title="Entretenimiento",USA Discovery Español
 http://polarbear.mov/live/Sandra123/Sandra123/474.m3u8

@@ -1,9 +1,9 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-do.xml,https://iptv-epg.org/files/epg-us.xml,https://iptv-epg.org/files/epg-es.xml,https://iptv-epg.org/files/epg-mx.xml"
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-do.xml,https://iptv-epg.org/files/epg-mx.xml,https://iptv-epg.org/files/epg-es.xml,https://iptv-epg.org/files/epg-us.xml"
 #EXTINF:-1 tvg-id="TeleAntillas.dr" tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="República Dominicana",02 - Tele Antillas
 http://45.171.108.253:8888/TELEANTILLAS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3AqCAji.png" group-title="República Dominicana",04 - Canal 4 RD
 https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="República Dominicana",05 - Telemicro 
+#EXTINF:-1 tvg-id="Telemicro.dr" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="República Dominicana",05 - Telemicro 
 http://200.115.120.1:8000/play/ca085/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gK0M1jB.png" group-title="República Dominicana",06 - Canal del Sol
 https://stream.canaldelsol.com/sol26/live_1080.m3u8
@@ -76,7 +76,7 @@ https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
 https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uU01KHz.png" group-title="República Dominicana",Adoram TV
 https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3770-294x165-FFFFFF.jpg" group-title="República Dominicana",Aguila TV
+#EXTINF:-1 tvg-id="Aguila.sxm" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3770-294x165-FFFFFF.jpg" group-title="República Dominicana",Aguila TV
 https://fox.hostlagarto.com:8081/aguilatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dyJyuXc.png" group-title="República Dominicana",Ahora TV
 https://stream.haislin.com/ahoratv/index.m3u8
@@ -464,7 +464,7 @@ https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
 https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4037-294x165-FFFFFF.jpg" group-title="República Dominicana",TVN
 https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bu6bQMa.png" group-title="República Dominicana",TVN 24
+#EXTINF:-1 tvg-id="TVN24.us" tvg-logo="https://i.imgur.com/bu6bQMa.png" group-title="República Dominicana",TVN 24
 https://edge.essastream.com/vozzmedia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MhloaFB.png" group-title="República Dominicana",TVO
 https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
@@ -492,43 +492,43 @@ https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
 https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4058-294x165-FFFFFF.jpg" group-title="República Dominicana",ZAS TV
 https://cloud5.zastv.net/hls/zastv.m3u8
-#EXTINF:-1 tvg-id="Antena3Internacional.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png" group-title="España",Antena 3 Internacional
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png" group-title="España",Antena 3 Internacional
 http://177.10.184.193:8000/play/a06a/index.m3u8
-#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="España",RTVE La 1 Internacional (América)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="España",RTVE La 1 Internacional (América)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="España",RTVE 24 Horas
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-logo="https://i.imgur.com/lznnA4v.png" group-title="España",Canal Sur (Andalucía)
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
-#EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-logo="https://i.imgur.com/dvkzH8n.png" group-title="España",TV Galicia Internacional
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dvkzH8n.png" group-title="España",TV Galicia Internacional
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
-#EXTINF:-1 tvg-id="ETB1On.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_ETB1_On_2026.svg" group-title="España",ETB 1 On (País Vasco)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_ETB1_On_2026.svg" group-title="España",ETB 1 On (País Vasco)
 https://cdn1.etbon.eus/etb1on/index.m3u8
-#EXTINF:-1 tvg-id="ETB2On.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_ETB2_On_2026.svg" group-title="España",ETB 2 On (País Vasco)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_ETB2_On_2026.svg" group-title="España",ETB 2 On (País Vasco)
 https://cdn1.etbon.eus/etb2on/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] AMC EN ESPAÑOL HD [sᴛᴠ+]" tvg-logo="https://logo.m3uassets.com/amcenespanol.png" group-title="Entretenimiento",[US] AMC EN ESPAÑOL HD [sᴛᴠ+]
 http://polarbear.mov/live/Sandra123/Sandra123/623312.m3u8
-#EXTINF:-1 tvg-id="discoveryenespañol.us" tvg-name="USA Discovery Español" tvg-logo="https://d3hjzzsa8cr26l.cloudfront.net/2f509bab-1252-11e8-a56d-535a4e504290.jpg" group-title="Entretenimiento",USA Discovery Español
+#EXTINF:-1 tvg-id="" tvg-name="USA Discovery Español" tvg-logo="https://d3hjzzsa8cr26l.cloudfront.net/2f509bab-1252-11e8-a56d-535a4e504290.jpg" group-title="Entretenimiento",USA Discovery Español
 http://polarbear.mov/live/Sandra123/Sandra123/3262.m3u8
-#EXTINF:-1 tvg-id="discoveryenespañol.us" tvg-name="USA Discovery Español" tvg-logo="https://logo.m3uassets.com/discoveryespanol.png" group-title="Entretenimiento",USA Discovery Español
+#EXTINF:-1 tvg-id="" tvg-name="USA Discovery Español" tvg-logo="https://logo.m3uassets.com/discoveryespanol.png" group-title="Entretenimiento",USA Discovery Español
 http://polarbear.mov/live/Sandra123/Sandra123/474.m3u8
-#EXTINF:-1 tvg-id="10365" tvg-name="USA El Rey Rebel" tvg-logo="https://logo.m3uassets.com/rebeltv.png" group-title="Entretenimiento",USA El Rey Rebel
+#EXTINF:-1 tvg-id="" tvg-name="USA El Rey Rebel" tvg-logo="https://logo.m3uassets.com/rebeltv.png" group-title="Entretenimiento",USA El Rey Rebel
 http://polarbear.mov/live/Sandra123/Sandra123/636625.m3u8
-#EXTINF:-1 tvg-id="galavision.us" tvg-name="USA Galavision" tvg-logo="https://logo.m3uassets.com/galavision.png" group-title="Entretenimiento",USA Galavision
+#EXTINF:-1 tvg-id="" tvg-name="USA Galavision" tvg-logo="https://logo.m3uassets.com/galavision.png" group-title="Entretenimiento",USA Galavision
 http://polarbear.mov/live/Sandra123/Sandra123/3166.m3u8
-#EXTINF:-1 tvg-id="galavisionpacific.us" tvg-name="USA GALAVISION WEST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWQhN37n7qjdcdzDEl4XbQbjgzspxdnARIaw&s" group-title="Entretenimiento",USA GALAVISION WEST
+#EXTINF:-1 tvg-id="" tvg-name="USA GALAVISION WEST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWQhN37n7qjdcdzDEl4XbQbjgzspxdnARIaw&s" group-title="Entretenimiento",USA GALAVISION WEST
 http://polarbear.mov/live/Sandra123/Sandra123/3268.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="USA HITN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfcSXC8C9if6pGFFrT9qplTUm9rIqP898NzA&s" group-title="Entretenimiento",USA HITN
 http://polarbear.mov/live/Sandra123/Sandra123/636619.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" 40 y 20" tvg-logo="http://p-img.movetv.com/images/0913e3f00cc331067a9387ad60d920f3bfaca064" group-title="Entretenimiento", 40 y 20
 http://polarbear.mov/live/Sandra123/Sandra123/830222.m3u8
-#EXTINF:-1 tvg-id="a3series.us" tvg-name=" A3 Series" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="Entretenimiento", A3 Series
+#EXTINF:-1 tvg-id="" tvg-name=" A3 Series" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="Entretenimiento", A3 Series
 http://polarbear.mov/live/Sandra123/Sandra123/3258.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Al Ritmo del Jaripeo" tvg-logo="http://p-img.movetv.com/1280x721/8a847d8d9e3a98a3d447091bdc1254fa.png" group-title="Entretenimiento", Al Ritmo del Jaripeo
 http://polarbear.mov/live/Sandra123/Sandra123/830217.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" AMC en español" tvg-logo="https://logo.m3uassets.com/amcenespanol.png" group-title="Entretenimiento", AMC en español
 http://polarbear.mov/live/Sandra123/Sandra123/707033.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" AMERICATEVE" tvg-logo="https://image.xumo.com/v1/channels/channel/99951140/168x168.webp?type=color_onBlack" group-title="Entretenimiento", AMERICATEVE
+#EXTINF:-1 tvg-id="AMERICATEVE.us" tvg-name=" AMERICATEVE" tvg-logo="https://image.xumo.com/v1/channels/channel/99951140/168x168.webp?type=color_onBlack" group-title="Entretenimiento", AMERICATEVE
 http://polarbear.mov/live/Sandra123/Sandra123/830244.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Amor Real" tvg-logo="http://p-img.movetv.com/1280x720/e68b3c63a23f04292c22f9c701ffc0cd.png" group-title="Entretenimiento", Amor Real
 http://polarbear.mov/live/Sandra123/Sandra123/830229.m3u8
@@ -536,27 +536,27 @@ http://polarbear.mov/live/Sandra123/Sandra123/830229.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/830200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Anger Management en espanol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a663e04f-8322-45f6-a64d-bafe754d4e09/AngrMngmnt_logo_dark_1500x1000_-_Chris_Connors.png" group-title="Entretenimiento", Anger Management en espanol
 http://polarbear.mov/live/Sandra123/Sandra123/830175.m3u8
-#EXTINF:-1 tvg-id="antena3internacional.us" tvg-name=" Antena 3" tvg-logo="https://www.getsatellite.com/channels/antena3.png" group-title="España", Antena 3
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name=" Antena 3" tvg-logo="https://www.getsatellite.com/channels/antena3.png" group-title="España", Antena 3
 http://polarbear.mov/live/Sandra123/Sandra123/3254.m3u8
-#EXTINF:-1 tvg-id="antena3internacional.us" tvg-name=" Antena 3 Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Antena3_2017.svg/1280px-Antena3_2017.svg.png" group-title="España", Antena 3 Internacional
+#EXTINF:-1 tvg-id="" tvg-name=" Antena 3 Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Antena3_2017.svg/1280px-Antena3_2017.svg.png" group-title="España", Antena 3 Internacional
 http://polarbear.mov/live/Sandra123/Sandra123/3253.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Aqui Y Ahora" tvg-logo="https://64.media.tumblr.com/4ef59dea72aa9fab0e9f90272f419181/f27eb80cea7d2730-ef/s500x750/cb7e3f6c323e9246c38a86ae79838609951d99fc.png" group-title="Entretenimiento", Aqui Y Ahora
 http://polarbear.mov/live/Sandra123/Sandra123/707040.m3u8
-#EXTINF:-1 tvg-id="atreseries.es" tvg-name=" Atres series" tvg-logo="https://logo.m3uassets.com/a3satreseries1.png" group-title="Entretenimiento", Atres series
+#EXTINF:-1 tvg-id="ATRESseries.us" tvg-name=" Atres series" tvg-logo="https://logo.m3uassets.com/a3satreseries1.png" group-title="Entretenimiento", Atres series
 http://polarbear.mov/live/Sandra123/Sandra123/3251.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Autopista al Cielo" tvg-logo="https://provider-static.plex.tv/epg/cms/production/68950c80-d981-457f-89f9-d51fc2bcab02/Plex_FilmRise_AutopistaAlCielo_Color_Logo.png" group-title="Entretenimiento", Autopista al Cielo
 http://polarbear.mov/live/Sandra123/Sandra123/830174.m3u8
-#EXTINF:-1 tvg-id="azclic.us" tvg-name=" AZ Clic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png" group-title="Entretenimiento", AZ Clic
+#EXTINF:-1 tvg-id="" tvg-name=" AZ Clic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png" group-title="Entretenimiento", AZ Clic
 http://polarbear.mov/live/Sandra123/Sandra123/3249.m3u8
-#EXTINF:-1 tvg-id="azcorazón.us" tvg-name=" AZ Corazon" tvg-logo="https://logo.m3uassets.com/azcorazon2.png" group-title="Entretenimiento", AZ Corazon
+#EXTINF:-1 tvg-id="AzCorazón.mx" tvg-name=" AZ Corazon" tvg-logo="https://logo.m3uassets.com/azcorazon2.png" group-title="Entretenimiento", AZ Corazon
 http://polarbear.mov/live/Sandra123/Sandra123/3248.m3u8
-#EXTINF:-1 tvg-id="aztecainternacionallatino.us" tvg-name=" Azteca Internacional" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png" group-title="Entretenimiento", Azteca Internacional
+#EXTINF:-1 tvg-id="AztecaInternacional.us" tvg-name=" Azteca Internacional" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png" group-title="Entretenimiento", Azteca Internacional
 http://polarbear.mov/live/Sandra123/Sandra123/830252.m3u8
-#EXTINF:-1 tvg-id="bandamax.us" tvg-name=" Bandamax" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/BDMAX-logo.png" group-title="Entretenimiento", Bandamax
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name=" Bandamax" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/BDMAX-logo.png" group-title="Entretenimiento", Bandamax
 http://polarbear.mov/live/Sandra123/Sandra123/3245.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Bodas+" tvg-logo="https://logo.m3uassets.com/dashlatinx.png" group-title="Entretenimiento", Bodas+
 http://polarbear.mov/live/Sandra123/Sandra123/707024.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Buen Viaje" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d468b64b-c6a3-427f-a5c0-331bb6478407/channel_logo_1500x1000_light.png.png" group-title="Entretenimiento", Buen Viaje
+#EXTINF:-1 tvg-id="BuenViaje.es" tvg-name=" Buen Viaje" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d468b64b-c6a3-427f-a5c0-331bb6478407/channel_logo_1500x1000_light.png.png" group-title="Entretenimiento", Buen Viaje
 http://polarbear.mov/live/Sandra123/Sandra123/830173.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Butaca TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ebdc98b6-adde-4e50-b1e9-ab7b3bfecd23/Butaca_Tv_pack_1500X1000_RDX.png" group-title="Entretenimiento", Butaca TV
 http://polarbear.mov/live/Sandra123/Sandra123/830172.m3u8
@@ -564,9 +564,9 @@ http://polarbear.mov/live/Sandra123/Sandra123/830172.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/830171.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Canal 22 Internacional" tvg-logo="https://logo.m3uassets.com/canal22internacional.png" group-title="Entretenimiento", Canal 22 Internacional
 http://polarbear.mov/live/Sandra123/Sandra123/707057.m3u8
-#EXTINF:-1 tvg-id="canalonce.us" tvg-name=" Canal Once" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png" group-title="Entretenimiento", Canal Once
+#EXTINF:-1 tvg-id="" tvg-name=" Canal Once" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png" group-title="Entretenimiento", Canal Once
 http://polarbear.mov/live/Sandra123/Sandra123/3239.m3u8
-#EXTINF:-1 tvg-id="canalvixus.mx" tvg-name=" Canal ViX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200005Y2_20260421T142129SQUARE.png" group-title="Entretenimiento", Canal ViX
+#EXTINF:-1 tvg-id="" tvg-name=" Canal ViX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200005Y2_20260421T142129SQUARE.png" group-title="Entretenimiento", Canal ViX
 http://polarbear.mov/live/Sandra123/Sandra123/830262.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Canela.TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIssIG9umc4C0UN6jaK6vxqbsezIS5MI06AA&s" group-title="Entretenimiento", Canela.TV
 http://polarbear.mov/live/Sandra123/Sandra123/707048.m3u8
@@ -576,11 +576,11 @@ http://polarbear.mov/live/Sandra123/Sandra123/830248.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/830206.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Canela.TV Narco vs Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1a0bf145-a80f-4dd5-8134-ecb3975c389f/CM-Plex-dark_logo-CanelaTV-narco_drama_-_Natalia_Rodriguez.png" group-title="Entretenimiento", Canela.TV Narco vs Drama
 http://polarbear.mov/live/Sandra123/Sandra123/830205.m3u8
-#EXTINF:-1 tvg-id="caracoltvinternacional.us" tvg-name=" Caracol Tv" tvg-logo="https://logo.m3uassets.com/caracoltv3.png" group-title="Entretenimiento", Caracol Tv
+#EXTINF:-1 tvg-id="" tvg-name=" Caracol Tv" tvg-logo="https://logo.m3uassets.com/caracoltv3.png" group-title="Entretenimiento", Caracol Tv
 http://polarbear.mov/live/Sandra123/Sandra123/3238.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Caso Cerrado" tvg-logo="https://provider-static.plex.tv/5/epg/channels/logos/gracenote/5eb0e12c2b5ed3288faa8f00c79c4d6b.png" group-title="Entretenimiento", Caso Cerrado
 http://polarbear.mov/live/Sandra123/Sandra123/830261.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" CBS en español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/CBS_Corporation_logo.svg" group-title="Entretenimiento", CBS en español
+#EXTINF:-1 tvg-id="CBSenespañol.pluto" tvg-name=" CBS en español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/CBS_Corporation_logo.svg" group-title="Entretenimiento", CBS en español
 http://polarbear.mov/live/Sandra123/Sandra123/707038.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Centroamerica TV" tvg-logo="https://logo.m3uassets.com/centroamericatv.png" group-title="Entretenimiento", Centroamerica TV
 http://polarbear.mov/live/Sandra123/Sandra123/707059.m3u8
@@ -588,31 +588,31 @@ http://polarbear.mov/live/Sandra123/Sandra123/707059.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/830211.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Cheaters en Espanol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0328822-b149-4524-ad89-1c87c2543268/FilmRise_CheatersEnEspanol_Logo_ColorRDX.png" group-title="Entretenimiento", Cheaters en Espanol
 http://polarbear.mov/live/Sandra123/Sandra123/830169.m3u8
-#EXTINF:-1 tvg-id="clantv.us" tvg-name=" CLAN" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/a/ad/Clan_TVE_-1.png" group-title="Entretenimiento", CLAN
+#EXTINF:-1 tvg-id="" tvg-name=" CLAN" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/a/ad/Clan_TVE_-1.png" group-title="Entretenimiento", CLAN
 http://polarbear.mov/live/Sandra123/Sandra123/3236.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Clic" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5524a542-5952-4090-9e2e-780e1a3adc22/clic_logo_light_-_James_Stowe_Color_rdx.png" group-title="Entretenimiento", Clic
+#EXTINF:-1 tvg-id="Clic.us" tvg-name=" Clic" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5524a542-5952-4090-9e2e-780e1a3adc22/clic_logo_light_-_James_Stowe_Color_rdx.png" group-title="Entretenimiento", Clic
 http://polarbear.mov/live/Sandra123/Sandra123/830168.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Combate Global MMA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600006R8_20260421T143045SQUARE.png" group-title="Entretenimiento", Combate Global MMA
 http://polarbear.mov/live/Sandra123/Sandra123/830210.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Comedy Central en español" tvg-logo="https://logo.m3uassets.com/comedycentralenespanol.png" group-title="Entretenimiento", Comedy Central en español
+#EXTINF:-1 tvg-id="ComedyCentralenespañol.pluto" tvg-name=" Comedy Central en español" tvg-logo="https://logo.m3uassets.com/comedycentralenespanol.png" group-title="Entretenimiento", Comedy Central en español
 http://polarbear.mov/live/Sandra123/Sandra123/707028.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Como Dice el Dicho" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700004ME_20260421T142145SQUARE.png" group-title="Entretenimiento", Como Dice el Dicho
 http://polarbear.mov/live/Sandra123/Sandra123/830234.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Construcciones Asombrosas" tvg-logo="https://media.licdn.com/dms/image/v2/C4D0BAQGN9_LalhaP3A/company-logo_200_200/company-logo_200_200/0/1630550828826?e=2147483647&v=beta&t=hdOUoKG8YnnmB_9sDXImwxnm83koNkMipGB4E_MdtTM" group-title="Entretenimiento", Construcciones Asombrosas
+#EXTINF:-1 tvg-id="ConstruccionesAsombrosas.pluto" tvg-name=" Construcciones Asombrosas" tvg-logo="https://media.licdn.com/dms/image/v2/C4D0BAQGN9_LalhaP3A/company-logo_200_200/company-logo_200_200/0/1630550828826?e=2147483647&v=beta&t=hdOUoKG8YnnmB_9sDXImwxnm83koNkMipGB4E_MdtTM" group-title="Entretenimiento", Construcciones Asombrosas
 http://polarbear.mov/live/Sandra123/Sandra123/707018.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Cops en Espanol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png" group-title="Entretenimiento", Cops en Espanol
 http://polarbear.mov/live/Sandra123/Sandra123/830178.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Corazon" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08be4d01-35de-46c7-b600-546316cbaf4a/corazon_logo_light_-_James_Stowe.png" group-title="Entretenimiento", Corazon
+#EXTINF:-1 tvg-id="Corazon.us" tvg-name=" Corazon" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08be4d01-35de-46c7-b600-546316cbaf4a/corazon_logo_light_-_James_Stowe.png" group-title="Entretenimiento", Corazon
 http://polarbear.mov/live/Sandra123/Sandra123/830167.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Crimen" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Univision2019.svg/revision/latest?cb=20210317233059" group-title="Entretenimiento", Crimen
+#EXTINF:-1 tvg-id="Crimen.pluto" tvg-name=" Crimen" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Univision2019.svg/revision/latest?cb=20210317233059" group-title="Entretenimiento", Crimen
 http://polarbear.mov/live/Sandra123/Sandra123/707013.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Crímenes imperfectos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeKnrrMLjlxFRFoBp6ICJk6apJzbhVRBF47Q&s" group-title="Entretenimiento", Crímenes imperfectos
+#EXTINF:-1 tvg-id="Crímenesimperfectos.pluto" tvg-name=" Crímenes imperfectos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeKnrrMLjlxFRFoBp6ICJk6apJzbhVRBF47Q&s" group-title="Entretenimiento", Crímenes imperfectos
 http://polarbear.mov/live/Sandra123/Sandra123/707012.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" CSI en Español" tvg-logo="https://logo.m3uassets.com/csienespanol.png" group-title="Entretenimiento", CSI en Español
+#EXTINF:-1 tvg-id="CSIenEspañol.pluto" tvg-name=" CSI en Español" tvg-logo="https://logo.m3uassets.com/csienespanol.png" group-title="Entretenimiento", CSI en Español
 http://polarbear.mov/live/Sandra123/Sandra123/707037.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" CSI Miami en español" tvg-logo="https://logo.m3uassets.com/csienespanol.png" group-title="Entretenimiento", CSI Miami en español
+#EXTINF:-1 tvg-id="CSI:Miamienespañol.pluto" tvg-name=" CSI Miami en español" tvg-logo="https://logo.m3uassets.com/csienespanol.png" group-title="Entretenimiento", CSI Miami en español
 http://polarbear.mov/live/Sandra123/Sandra123/707036.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" CSI NY en español" tvg-logo="https://logo.m3uassets.com/csienespanol.png" group-title="Entretenimiento", CSI NY en español
+#EXTINF:-1 tvg-id="CSI:NYenespañol.pluto" tvg-name=" CSI NY en español" tvg-logo="https://logo.m3uassets.com/csienespanol.png" group-title="Entretenimiento", CSI NY en español
 http://polarbear.mov/live/Sandra123/Sandra123/707035.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Curiosity Animales" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200001IY_20240910T003736SQUARE.png" group-title="Entretenimiento", Curiosity Animales
 http://polarbear.mov/live/Sandra123/Sandra123/830187.m3u8
@@ -620,11 +620,11 @@ http://polarbear.mov/live/Sandra123/Sandra123/830187.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/830186.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Curiosity Motores" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200003ZN_20240910T003743SQUARE.png" group-title="Entretenimiento", Curiosity Motores
 http://polarbear.mov/live/Sandra123/Sandra123/830184.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Ecuavisa Internacional" tvg-logo="https://logo.m3uassets.com/ecuavisa.png" group-title="Entretenimiento", Ecuavisa Internacional
+#EXTINF:-1 tvg-id="EcuavisaInternacional.us" tvg-name=" Ecuavisa Internacional" tvg-logo="https://logo.m3uassets.com/ecuavisa.png" group-title="Entretenimiento", Ecuavisa Internacional
 http://polarbear.mov/live/Sandra123/Sandra123/707058.m3u8
-#EXTINF:-1 tvg-id="elgourmet.us" tvg-name=" El Gourmet" tvg-logo="https://cdn.mitvstatic.com/channels/2c15cb09-f111-4b08-b86e-421cbf221fe1_m.jpg" group-title="Entretenimiento", El Gourmet
+#EXTINF:-1 tvg-id="Elgourmet.dr" tvg-name=" El Gourmet" tvg-logo="https://cdn.mitvstatic.com/channels/2c15cb09-f111-4b08-b86e-421cbf221fe1_m.jpg" group-title="Entretenimiento", El Gourmet
 http://polarbear.mov/live/Sandra123/Sandra123/3228.m3u8
-#EXTINF:-1 tvg-id="eltreceinternacional.us" tvg-name=" El Trece Internacional" tvg-logo="https://logo.m3uassets.com/eltreceinternacionaleurope.png" group-title="España", El Trece Internacional
+#EXTINF:-1 tvg-id="ElTreceInternacional.es" tvg-name=" El Trece Internacional" tvg-logo="https://logo.m3uassets.com/eltreceinternacionaleurope.png" group-title="España", El Trece Internacional
 http://polarbear.mov/live/Sandra123/Sandra123/3227.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" ElectricNOW en Espanol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2ba8f950-5d83-4adb-8fd5-e0bf4426de43/ENow_ES_Logo_-_Dark_Backgrounds_1500x1000RDX.png" group-title="Entretenimiento", ElectricNOW en Espanol
 http://polarbear.mov/live/Sandra123/Sandra123/830166.m3u8
@@ -636,7 +636,7 @@ http://polarbear.mov/live/Sandra123/Sandra123/707027.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/707014.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Foodies" tvg-logo="https://logo.m3uassets.com/foodies.png" group-title="Entretenimiento", Foodies
 http://polarbear.mov/live/Sandra123/Sandra123/707021.m3u8
-#EXTINF:-1 tvg-id="forotv.us" tvg-name=" FOROtv" tvg-logo="https://logo.m3uassets.com/forotv.png" group-title="Entretenimiento", FOROtv
+#EXTINF:-1 tvg-id="FOROtv.mx" tvg-name=" FOROtv" tvg-logo="https://logo.m3uassets.com/forotv.png" group-title="Entretenimiento", FOROtv
 http://polarbear.mov/live/Sandra123/Sandra123/3223.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" FreeTV Accion" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e9130d6-b68b-4d8e-889f-7eef2ad2c0c4/FreeTVAccion_Circle_1500x1000_-_Ralph_Campillo__1_Color.png" group-title="Entretenimiento", FreeTV Accion
 http://polarbear.mov/live/Sandra123/Sandra123/830196.m3u8
@@ -658,27 +658,27 @@ http://polarbear.mov/live/Sandra123/Sandra123/830188.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/830224.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Gata Salvaje" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6690839-646f-43fc-bd75-b508f908d1ee/Plex_GataSalvaje_750x500_ChannelLogo_Light_RDX.png" group-title="Entretenimiento", Gata Salvaje
 http://polarbear.mov/live/Sandra123/Sandra123/830177.m3u8
-#EXTINF:-1 tvg-id="goltv.us" tvg-name=" GOL TV" tvg-logo="https://logo.m3uassets.com/goltvlatinamerica.png" group-title="Entretenimiento", GOL TV
+#EXTINF:-1 tvg-id="GOL.es" tvg-name=" GOL TV" tvg-logo="https://logo.m3uassets.com/goltvlatinamerica.png" group-title="Entretenimiento", GOL TV
 http://polarbear.mov/live/Sandra123/Sandra123/3218.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Hallmark en español" tvg-logo="https://logo.m3uassets.com/hallmark.png" group-title="Entretenimiento", Hallmark en español
 http://polarbear.mov/live/Sandra123/Sandra123/707045.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Historia" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600019IC_20260421T141952SQUARE.png" group-title="Entretenimiento", Historia
+#EXTINF:-1 tvg-id="Historia.es" tvg-name=" Historia" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600019IC_20260421T141952SQUARE.png" group-title="Entretenimiento", Historia
 http://polarbear.mov/live/Sandra123/Sandra123/830182.m3u8
-#EXTINF:-1 tvg-id="historyenespanol.us" tvg-name=" History en ESPANOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/History_en_Espa%C3%B1ol_Logo.svg" group-title="Entretenimiento", History en ESPANOL
+#EXTINF:-1 tvg-id="HistoryenEspanol.us" tvg-name=" History en ESPANOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/History_en_Espa%C3%B1ol_Logo.svg" group-title="Entretenimiento", History en ESPANOL
 http://polarbear.mov/live/Sandra123/Sandra123/267603.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Hogar de HGTV" tvg-logo="https://logo.m3uassets.com/hogarhgtv.png" group-title="Entretenimiento", Hogar de HGTV
+#EXTINF:-1 tvg-id="HogarDeHGTV.us" tvg-name=" Hogar de HGTV" tvg-logo="https://logo.m3uassets.com/hogarhgtv.png" group-title="Entretenimiento", Hogar de HGTV
 http://polarbear.mov/live/Sandra123/Sandra123/707054.m3u8
-#EXTINF:-1 tvg-id="¡holatv.us" tvg-name=" HOLA! TV" tvg-logo="https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg" group-title="Entretenimiento", HOLA! TV
+#EXTINF:-1 tvg-id="" tvg-name=" HOLA! TV" tvg-logo="https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg" group-title="Entretenimiento", HOLA! TV
 http://polarbear.mov/live/Sandra123/Sandra123/3216.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Ideas En 5 Minutos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dfe80db0-76d2-4437-bae4-470236b57cfb/1500x1000_dark_-_Irina_Larionova.png" group-title="Entretenimiento", Ideas En 5 Minutos
 http://polarbear.mov/live/Sandra123/Sandra123/830164.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Investiga" tvg-logo="https://logo.m3uassets.com/investigation.png" group-title="Entretenimiento", Investiga
+#EXTINF:-1 tvg-id="Investiga.pluto" tvg-name=" Investiga" tvg-logo="https://logo.m3uassets.com/investigation.png" group-title="Entretenimiento", Investiga
 http://polarbear.mov/live/Sandra123/Sandra123/707010.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Iron Chef en espanol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7e7e0544-7004-46ac-bea2-b21a2a7ab166/Plex_xumoTile_FilmRise_IronChefEnEspanol_logo_color_white_text.png" group-title="Entretenimiento", Iron Chef en espanol
 http://polarbear.mov/live/Sandra123/Sandra123/830163.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" La Rosa de Guadalupe" tvg-logo="http://p-img.movetv.com/1280x720/99dd1671839bc702aa066a24c46dfdb6.png" group-title="Entretenimiento", La Rosa de Guadalupe
 http://polarbear.mov/live/Sandra123/Sandra123/830230.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" La Sexta" tvg-logo="https://logo.m3uassets.com/lasexta1080p.png" group-title="España", La Sexta
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name=" La Sexta" tvg-logo="https://logo.m3uassets.com/lasexta1080p.png" group-title="España", La Sexta
 http://polarbear.mov/live/Sandra123/Sandra123/3212.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Las 3 Marías" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000172A_20260421T142201SQUARE.png" group-title="Entretenimiento", Las 3 Marías
 http://polarbear.mov/live/Sandra123/Sandra123/830203.m3u8
@@ -688,9 +688,9 @@ http://polarbear.mov/live/Sandra123/Sandra123/830213.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/830204.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Lucha Plus" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e8b87f4f-ebc1-4996-b732-b70118521f61/Plex_Channel_Logo_Color_-_Juan_Miguel_Bassalik_WHT_TEXT.png" group-title="Entretenimiento", Lucha Plus
 http://polarbear.mov/live/Sandra123/Sandra123/830216.m3u8
-#EXTINF:-1 tvg-id="maschic.us" tvg-name=" Mas Chic" tvg-logo="https://amcla.s3.amazonaws.com/assets/channel_logo/light/7xly9atcpv_MC_logo.png" group-title="Entretenimiento", Mas Chic
+#EXTINF:-1 tvg-id="MasChic.dr" tvg-name=" Mas Chic" tvg-logo="https://amcla.s3.amazonaws.com/assets/channel_logo/light/7xly9atcpv_MC_logo.png" group-title="Entretenimiento", Mas Chic
 http://polarbear.mov/live/Sandra123/Sandra123/3211.m3u8
-#EXTINF:-1 tvg-id="megatv.us" tvg-name=" Mega Tv" tvg-logo="https://logo.m3uassets.com/megatv2.png" group-title="España", Mega Tv
+#EXTINF:-1 tvg-id="Mega.es" tvg-name=" Mega Tv" tvg-logo="https://logo.m3uassets.com/megatv2.png" group-title="España", Mega Tv
 http://polarbear.mov/live/Sandra123/Sandra123/3210.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Mi Casa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fba2f51d-9bc8-418d-ae07-14e84f6e7fc8/channel_logo_1500x1000_light.png.png" group-title="Entretenimiento", Mi Casa
 http://polarbear.mov/live/Sandra123/Sandra123/830162.m3u8
@@ -700,9 +700,9 @@ http://polarbear.mov/live/Sandra123/Sandra123/707011.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/830221.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Mundo geek" tvg-logo="https://logo.m3uassets.com/mundogeek.png" group-title="Entretenimiento", Mundo geek
 http://polarbear.mov/live/Sandra123/Sandra123/707017.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Más adrenalina" tvg-logo="https://iconape.com/wp-content/files/xx/285625/png/285625.png" group-title="Entretenimiento", Más adrenalina
+#EXTINF:-1 tvg-id="Másadrenalina.pluto" tvg-name=" Más adrenalina" tvg-logo="https://iconape.com/wp-content/files/xx/285625/png/285625.png" group-title="Entretenimiento", Más adrenalina
 http://polarbear.mov/live/Sandra123/Sandra123/707039.m3u8
-#EXTINF:-1 tvg-id="natgeomundo.us" tvg-name=" Nat Geo Mundo" tvg-logo="https://p1.hiclipart.com/preview/323/20/6/tv-channel-icons-pack-nat-geo-mundo-color-png-icon.jpg" group-title="Entretenimiento", Nat Geo Mundo
+#EXTINF:-1 tvg-id="NatGeoMundo.us" tvg-name=" Nat Geo Mundo" tvg-logo="https://p1.hiclipart.com/preview/323/20/6/tv-channel-icons-pack-nat-geo-mundo-color-png-icon.jpg" group-title="Entretenimiento", Nat Geo Mundo
 http://polarbear.mov/live/Sandra123/Sandra123/3207.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Naturaleza" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b8f2b67e-a131-4b50-9864-dc0b13c3c6ed/channel_logo_1500x1000_light.png.png" group-title="Entretenimiento", Naturaleza
 http://polarbear.mov/live/Sandra123/Sandra123/830183.m3u8
@@ -716,11 +716,11 @@ http://polarbear.mov/live/Sandra123/Sandra123/830197.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/707042.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Novelisima" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c02431c6-190a-426a-a652-38502fec17d8/Novelisima_logo_lightbakg_1500x1000_-_Ali_Clausen.png" group-title="Entretenimiento", Novelisima
 http://polarbear.mov/live/Sandra123/Sandra123/830161.m3u8
-#EXTINF:-1 tvg-id="nuestratele.us" tvg-name=" Nuestra Tele" tvg-logo="https://latinheat.com/wp-content/uploads/2022/09/FEATURED-1200-X-675-16-1024x576.png" group-title="Entretenimiento", Nuestra Tele
+#EXTINF:-1 tvg-id="" tvg-name=" Nuestra Tele" tvg-logo="https://latinheat.com/wp-content/uploads/2022/09/FEATURED-1200-X-675-16-1024x576.png" group-title="Entretenimiento", Nuestra Tele
 http://polarbear.mov/live/Sandra123/Sandra123/3202.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Nuestra Visión" tvg-logo="https://logo.m3uassets.com/rcnnuestratele.png" group-title="Entretenimiento", Nuestra Visión
 http://polarbear.mov/live/Sandra123/Sandra123/707052.m3u8
-#EXTINF:-1 tvg-id="pasiones.us" tvg-name=" Pasiones" tvg-logo="https://logo.m3uassets.com/pasioneslat.png" group-title="Entretenimiento", Pasiones
+#EXTINF:-1 tvg-id="Pasiones.us" tvg-name=" Pasiones" tvg-logo="https://logo.m3uassets.com/pasioneslat.png" group-title="Entretenimiento", Pasiones
 http://polarbear.mov/live/Sandra123/Sandra123/3199.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" PeliMex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fc750061-c748-4016-83e0-9f56a40a493c/Pelimex_red_logo_RDXC2.png" group-title="Entretenimiento", PeliMex
 http://polarbear.mov/live/Sandra123/Sandra123/830220.m3u8
@@ -728,37 +728,37 @@ http://polarbear.mov/live/Sandra123/Sandra123/830220.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/830160.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Pitufo TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/352d158b-9349-41a8-a273-af1eea090ce6/pitufotv_logo_dark_-_Jordan_Warkol.png" group-title="Entretenimiento", Pitufo TV
 http://polarbear.mov/live/Sandra123/Sandra123/830159.m3u8
-#EXTINF:-1 tvg-id="racingamerica.us" tvg-name=" Racing America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png" group-title="Entretenimiento", Racing America
+#EXTINF:-1 tvg-id="RacingAmerica.us" tvg-name=" Racing America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png" group-title="Entretenimiento", Racing America
 http://polarbear.mov/live/Sandra123/Sandra123/830247.m3u8
-#EXTINF:-1 tvg-id="cinevaultwesterns.us" tvg-name=" RCN Mas" tvg-logo="https://velloflix.com/wp-content/uploads/2025/09/rcnmas.jpg" group-title="Entretenimiento", RCN Mas
+#EXTINF:-1 tvg-id="RCNMas.us" tvg-name=" RCN Mas" tvg-logo="https://velloflix.com/wp-content/uploads/2025/09/rcnmas.jpg" group-title="Entretenimiento", RCN Mas
 http://polarbear.mov/live/Sandra123/Sandra123/707065.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Rebelde" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700018II_20260421T142224SQUARE.png" group-title="Entretenimiento", Rebelde
 http://polarbear.mov/live/Sandra123/Sandra123/830227.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Revry Latinx" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4a423ae5-506e-4a10-b148-1f5dc2787db4/RevryLatinX_Logo_Plex_1500x1000_dark-backgrounds_-_Joshua_Pettway-Hinton.png" group-title="Entretenimiento", Revry Latinx
 http://polarbear.mov/live/Sandra123/Sandra123/830158.m3u8
-#EXTINF:-1 tvg-id="rtpinternacional.us" tvg-name=" RTP Internacional" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" group-title="Entretenimiento", RTP Internacional
+#EXTINF:-1 tvg-id="" tvg-name=" RTP Internacional" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" group-title="Entretenimiento", RTP Internacional
 http://polarbear.mov/live/Sandra123/Sandra123/3195.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Runtime Espanol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/158f2ae8-032e-4f0e-8143-b9939c2fd5a2/Runtime_USH_Light_Logo_-_JP_Garcia.png" group-title="Entretenimiento", Runtime Espanol
 http://polarbear.mov/live/Sandra123/Sandra123/830156.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Saborear TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b0e8cad-4177-4427-90c2-dad12ed8e5c5/Saboreartv_1500x1000-_For_light_backgrounds.png" group-title="Entretenimiento", Saborear TV
 http://polarbear.mov/live/Sandra123/Sandra123/830155.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Sala de Emergencias Historias Inéditas" tvg-logo="https://logo.m3uassets.com/prontosocorrohistoriasdeemergencia.png" group-title="Entretenimiento", Sala de Emergencias Historias Inéditas
+#EXTINF:-1 tvg-id="SaladeEmergencias:HistoriasInéditas.pluto" tvg-name=" Sala de Emergencias Historias Inéditas" tvg-logo="https://logo.m3uassets.com/prontosocorrohistoriasdeemergencia.png" group-title="Entretenimiento", Sala de Emergencias Historias Inéditas
 http://polarbear.mov/live/Sandra123/Sandra123/707015.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Somos Novelas" tvg-logo="https://logo.m3uassets.com/tringnovelas.png" group-title="Entretenimiento", Somos Novelas
+#EXTINF:-1 tvg-id="SomosNovelas.us" tvg-name=" Somos Novelas" tvg-logo="https://logo.m3uassets.com/tringnovelas.png" group-title="Entretenimiento", Somos Novelas
 http://polarbear.mov/live/Sandra123/Sandra123/707051.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Sony One Escape Perfecto" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3a7f2ae8da19530ba33c0c3502becd32/rokuFeed/assets/9aed2b616f4d57b6819cb58ab2a688d5.jpg" group-title="Entretenimiento", Sony One Escape Perfecto
 http://polarbear.mov/live/Sandra123/Sandra123/707041.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Spark TV Luz y Amor" tvg-logo="https://provider-static.plex.tv/epg/cms/production/332040a1-861c-4db8-b4fa-56cdcf686cb4/Plex_SparkTV_key-art_Spanish-RDX.png" group-title="Entretenimiento", Spark TV Luz y Amor
 http://polarbear.mov/live/Sandra123/Sandra123/830154.m3u8
-#EXTINF:-1 tvg-id="teledeporte.us" tvg-name=" TeleCentro" tvg-logo="https://logo.m3uassets.com/telecentro.png" group-title="Entretenimiento", TeleCentro
+#EXTINF:-1 tvg-id="Telecentro.dr" tvg-name=" TeleCentro" tvg-logo="https://logo.m3uassets.com/telecentro.png" group-title="Entretenimiento", TeleCentro
 http://polarbear.mov/live/Sandra123/Sandra123/3192.m3u8
-#EXTINF:-1 tvg-id="telefeinternacional.us" tvg-name=" Telefe" tvg-logo="https://logo.m3uassets.com/telefeint.png" group-title="Entretenimiento", Telefe
+#EXTINF:-1 tvg-id="TeleFE.us" tvg-name=" Telefe" tvg-logo="https://logo.m3uassets.com/telefeint.png" group-title="Entretenimiento", Telefe
 http://polarbear.mov/live/Sandra123/Sandra123/3191.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Teleonce America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/af7d82cf-f17f-40b5-b086-ed6a61c17d2e/logo_Teleonce_AmericaRDX_COLOR.png" group-title="Entretenimiento", Teleonce America
 http://polarbear.mov/live/Sandra123/Sandra123/830245.m3u8
-#EXTINF:-1 tvg-id="teleritmo.us" tvg-name=" Teleritmo" tvg-logo="https://www.ethnicchannels.com/images/channeldetail/teleritmo/teleritmo-logo.png" group-title="Entretenimiento", Teleritmo
+#EXTINF:-1 tvg-id="TeleRitmo.us" tvg-name=" Teleritmo" tvg-logo="https://www.ethnicchannels.com/images/channeldetail/teleritmo/teleritmo-logo.png" group-title="Entretenimiento", Teleritmo
 http://polarbear.mov/live/Sandra123/Sandra123/3188.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" The Walking Dead en español" tvg-logo="https://logo.m3uassets.com/thewalkingdead.png" group-title="Entretenimiento", The Walking Dead en español
+#EXTINF:-1 tvg-id="TheWalkingDeadenespañol.pluto" tvg-name=" The Walking Dead en español" tvg-logo="https://logo.m3uassets.com/thewalkingdead.png" group-title="Entretenimiento", The Walking Dead en español
 http://polarbear.mov/live/Sandra123/Sandra123/707034.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Todo Crimen" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1861c959-0e05-4dd7-83c2-91966163cc95/TODO_CRIMEN_white__1_.png" group-title="Entretenimiento", Todo Crimen
 http://polarbear.mov/live/Sandra123/Sandra123/830179.m3u8
@@ -766,27 +766,27 @@ http://polarbear.mov/live/Sandra123/Sandra123/830179.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/830153.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Todo Novelas, mas Pasiones" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f768af86-c0ca-40fa-b79a-bdfe22b54ab3/TN_MP_LOGO_TRANSP_1500x1000_Attribution_White.png", Todo Novelas group-title="Entretenimiento", mas Pasiones
 http://polarbear.mov/live/Sandra123/Sandra123/830235.m3u8
-#EXTINF:-1 tvg-id="mtvtr3s.us" tvg-name=" TR3S" tvg-logo="https://logo.m3uassets.com/latr3.png" group-title="Entretenimiento", TR3S
+#EXTINF:-1 tvg-id="TR3S.us" tvg-name=" TR3S" tvg-logo="https://logo.m3uassets.com/latr3.png" group-title="Entretenimiento", TR3S
 http://polarbear.mov/live/Sandra123/Sandra123/3208.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TRACE Latina" tvg-logo="https://provider-static.plex.tv/epg/cms/production/04b0a12e-b393-4456-9927-a48b793b623a/trace_latina_light_-_Nathan_BECKER.png" group-title="Entretenimiento", TRACE Latina
 http://polarbear.mov/live/Sandra123/Sandra123/830208.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TuDiscovery" tvg-logo="https://logo.m3uassets.com/discovery.png" group-title="Entretenimiento", TuDiscovery
 http://polarbear.mov/live/Sandra123/Sandra123/707016.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/3840px-TVE.svg.png" group-title="Entretenimiento", TVE
+#EXTINF:-1 tvg-id="TVE.mx" tvg-name=" TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/3840px-TVE.svg.png" group-title="Entretenimiento", TVE
 http://polarbear.mov/live/Sandra123/Sandra123/707005.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Vecinos" tvg-logo="http://p-img.movetv.com/1280x720/cf6f265df8aeeadc23385a166444257a.png" group-title="Entretenimiento", Vecinos
 http://polarbear.mov/live/Sandra123/Sandra123/830225.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" VePlus" tvg-logo="https://logo.m3uassets.com/veplus.png" group-title="Entretenimiento", VePlus
+#EXTINF:-1 tvg-id="VEPLUS.us" tvg-name=" VePlus" tvg-logo="https://logo.m3uassets.com/veplus.png" group-title="Entretenimiento", VePlus
 http://polarbear.mov/live/Sandra123/Sandra123/707004.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Vevo Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20260303T094222SQUARE.png" group-title="Entretenimiento", Vevo Latino
 http://polarbear.mov/live/Sandra123/Sandra123/830209.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Vevo Regional Mexicano" tvg-logo="https://e7.pngegg.com/pngimages/510/93/png-clipart-vevo-logo-music-video-youtube-logo-text-trademark.png" group-title="Entretenimiento", Vevo Regional Mexicano
+#EXTINF:-1 tvg-id="VevoRegionalMexicano.pluto" tvg-name=" Vevo Regional Mexicano" tvg-logo="https://e7.pngegg.com/pngimages/510/93/png-clipart-vevo-logo-music-video-youtube-logo-text-trademark.png" group-title="Entretenimiento", Vevo Regional Mexicano
 http://polarbear.mov/live/Sandra123/Sandra123/707007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Vevo Íconos Latinos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbku6wRr8cxE-MuED6Do92aPQ7ouoUQXs_pg&s" group-title="Entretenimiento", Vevo Íconos Latinos
+#EXTINF:-1 tvg-id="VevoÍconosLatinos.pluto" tvg-name=" Vevo Íconos Latinos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbku6wRr8cxE-MuED6Do92aPQ7ouoUQXs_pg&s" group-title="Entretenimiento", Vevo Íconos Latinos
 http://polarbear.mov/live/Sandra123/Sandra123/707006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Vidas Extremas" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BAA7B0C1-76FD-4DDD-87EA-7034BD93028F/3-1x1.png/900" group-title="Entretenimiento", Vidas Extremas
+#EXTINF:-1 tvg-id="VidasExtremas.pluto" tvg-name=" Vidas Extremas" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BAA7B0C1-76FD-4DDD-87EA-7034BD93028F/3-1x1.png/900" group-title="Entretenimiento", Vidas Extremas
 http://polarbear.mov/live/Sandra123/Sandra123/707019.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Videorola" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/VR-2024.png/revision/latest?cb=20240910031904" group-title="Entretenimiento", Videorola
+#EXTINF:-1 tvg-id="VideoRola.us" tvg-name=" Videorola" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/VR-2024.png/revision/latest?cb=20240910031904" group-title="Entretenimiento", Videorola
 http://polarbear.mov/live/Sandra123/Sandra123/707003.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" ViX Grandes Parejas" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100012EJ_20260421T142342SQUARE.png" group-title="Entretenimiento", ViX Grandes Parejas
 http://polarbear.mov/live/Sandra123/Sandra123/830240.m3u8
@@ -798,27 +798,27 @@ http://polarbear.mov/live/Sandra123/Sandra123/830242.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/830241.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Vme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/V-me_logo.svg/1280px-V-me_logo.svg.png" group-title="Entretenimiento", Vme
 http://polarbear.mov/live/Sandra123/Sandra123/707002.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Wapa America" tvg-logo="https://logo.m3uassets.com/wapaamerica.png" group-title="Entretenimiento", Wapa America
+#EXTINF:-1 tvg-id="WAPAAmerica.us" tvg-name=" Wapa America" tvg-logo="https://logo.m3uassets.com/wapaamerica.png" group-title="Entretenimiento", Wapa America
 http://polarbear.mov/live/Sandra123/Sandra123/3172.m3u8
-#EXTINF:-1 tvg-id="a&e.us" tvg-name=" WAPA+" tvg-logo="https://ipuntotv.com/IMAGES/Wapa-mas-logo-nuevo.jpg" group-title="Entretenimiento", WAPA+
+#EXTINF:-1 tvg-id="" tvg-name=" WAPA+" tvg-logo="https://ipuntotv.com/IMAGES/Wapa-mas-logo-nuevo.jpg" group-title="Entretenimiento", WAPA+
 http://polarbear.mov/live/Sandra123/Sandra123/3173.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Zona Investigacion" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f653ff7d-39d9-4da4-a3d3-dc0fc71b6dd4/Zone_Investigacion_-_1500X1000_PNG_w_transparent_background_Logo_for_dark___white_backgrounds_-_JuanMa_Velasquez.png" group-title="Entretenimiento", Zona Investigacion
 http://polarbear.mov/live/Sandra123/Sandra123/830181.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" ZooMoo" tvg-logo="https://logo.m3uassets.com/zoomoo.png" group-title="Entretenimiento", ZooMoo
+#EXTINF:-1 tvg-id="ZooMoo.us" tvg-name=" ZooMoo" tvg-logo="https://logo.m3uassets.com/zoomoo.png" group-title="Entretenimiento", ZooMoo
 http://polarbear.mov/live/Sandra123/Sandra123/707001.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" ¿Qué Culpa Tiene Fatmagül" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US270000298_20260421T142000SQUARE.png" group-title="Entretenimiento", ¿Qué Culpa Tiene Fatmagül
 http://polarbear.mov/live/Sandra123/Sandra123/830198.m3u8
-#EXTINF:-1 tvg-id="multimediostelevision.us" tvg-name="USA Multimedios Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="Entretenimiento",USA Multimedios Television
+#EXTINF:-1 tvg-id="" tvg-name="USA Multimedios Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="Entretenimiento",USA Multimedios Television
 http://polarbear.mov/live/Sandra123/Sandra123/3170.m3u8
-#EXTINF:-1 tvg-id="tr3s.us" tvg-name="USA TR3S" tvg-logo="https://logo.m3uassets.com/tr3s.png" group-title="Entretenimiento",USA TR3S
+#EXTINF:-1 tvg-id="" tvg-name="USA TR3S" tvg-logo="https://logo.m3uassets.com/tr3s.png" group-title="Entretenimiento",USA TR3S
 http://polarbear.mov/live/Sandra123/Sandra123/3169.m3u8
-#EXTINF:-1 tvg-id="universo.us" tvg-name="USA Universo" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2019/4/25/Universo-logos-templateUniverso-Logo-White-450x228.png" group-title="Entretenimiento",USA Universo
+#EXTINF:-1 tvg-id="" tvg-name="USA Universo" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2019/4/25/Universo-logos-templateUniverso-Logo-White-450x228.png" group-title="Entretenimiento",USA Universo
 http://polarbear.mov/live/Sandra123/Sandra123/3168.m3u8
-#EXTINF:-1 tvg-id="universo.us" tvg-name="USA Universo West" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2019/4/25/Universo-logos-templateUniverso-Logo-White-450x228.png" group-title="Entretenimiento",USA Universo West
+#EXTINF:-1 tvg-id="" tvg-name="USA Universo West" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2019/4/25/Universo-logos-templateUniverso-Logo-White-450x228.png" group-title="Entretenimiento",USA Universo West
 http://polarbear.mov/live/Sandra123/Sandra123/3167.m3u8
-#EXTINF:-1 tvg-id="daystar.us" tvg-name="Daystar Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_%282008%E2%80%93present%29_unmodified_logo.svg/3840px-Daystar_%282008%E2%80%93present%29_unmodified_logo.svg.png" group-title="Entretenimiento",Daystar Espanol
+#EXTINF:-1 tvg-id="" tvg-name="Daystar Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_%282008%E2%80%93present%29_unmodified_logo.svg/3840px-Daystar_%282008%E2%80%93present%29_unmodified_logo.svg.png" group-title="Entretenimiento",Daystar Espanol
 http://polarbear.mov/live/Sandra123/Sandra123/636628.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Enlace" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/USA_Network_2025_logo.svg" group-title="Entretenimiento",Enlace
+#EXTINF:-1 tvg-id="Enlace.dr" tvg-name="Enlace" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/USA_Network_2025_logo.svg" group-title="Entretenimiento",Enlace
 http://polarbear.mov/live/Sandra123/Sandra123/636624.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cops en Español FHD ▪ᴘʟᴇx▪" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png" group-title="Entretenimiento",Cops en Español FHD ▪ᴘʟᴇx▪
 http://polarbear.mov/live/Sandra123/Sandra123/622419.m3u8
@@ -830,53 +830,53 @@ http://polarbear.mov/live/Sandra123/Sandra123/622127.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/622032.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astros vs Padres Español @ Aug 9 20:00 PM :Peacock Event 10" tvg-logo="https://logo.m3uassets.com/nbcpeacock.png" group-title="Deportes",Astros vs Padres Español @ Aug 9 20:00 PM :Peacock Event 10
 http://polarbear.mov/live/Sandra123/Sandra123/698661.m3u8
-#EXTINF:-1 tvg-id="beinsportsxtraespanol.us" tvg-name="beIN Sports XTRA En Español" tvg-logo="https://logo.m3uassets.com/beinsportsxtraenespanol.png" group-title="Deportes",beIN Sports XTRA En Español
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports XTRA En Español" tvg-logo="https://logo.m3uassets.com/beinsportsxtraenespanol.png" group-title="Deportes",beIN Sports XTRA En Español
 http://polarbear.mov/live/Sandra123/Sandra123/710440.m3u8
-#EXTINF:-1 tvg-id="ESPNPlus.6" tvg-name="Eredivisie: En Español PEC Zwolle vs Ajax @ Aug 9 8:29 AM :ESPN+ 06" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="Deportes",Eredivisie: En Español PEC Zwolle vs Ajax @ Aug 9 8:29 AM :ESPN+ 06
+#EXTINF:-1 tvg-id="" tvg-name="Eredivisie: En Español PEC Zwolle vs Ajax @ Aug 9 8:29 AM :ESPN+ 06" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="Deportes",Eredivisie: En Español PEC Zwolle vs Ajax @ Aug 9 8:29 AM :ESPN+ 06
 http://polarbear.mov/live/Sandra123/Sandra123/635531.m3u8
-#EXTINF:-1 tvg-id="foxsports.us" tvg-name="Fox Sports en Espanol" tvg-logo="https://logo.m3uassets.com/foxsportstennessee.png" group-title="Deportes",Fox Sports en Espanol
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports en Espanol" tvg-logo="https://logo.m3uassets.com/foxsportstennessee.png" group-title="Deportes",Fox Sports en Espanol
 http://polarbear.mov/live/Sandra123/Sandra123/710552.m3u8
-#EXTINF:-1 tvg-id="0" tvg-name="Softball 01 :High School Softball: PGF 18U Platinum National Championship @ Jul 25 8:00 PM" tvg-logo="https://goaugie.com/images/2017/4/19/softballncaa.jpg" group-title="Deportes",Softball 01 :High School Softball: PGF 18U Platinum National Championship @ Jul 25 8:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="Softball 01 :High School Softball: PGF 18U Platinum National Championship @ Jul 25 8:00 PM" tvg-logo="https://goaugie.com/images/2017/4/19/softballncaa.jpg" group-title="Deportes",Softball 01 :High School Softball: PGF 18U Platinum National Championship @ Jul 25 8:00 PM
 http://polarbear.mov/live/Sandra123/Sandra123/3096.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Softball 02 :High School Softball: PGF 16U Platinum National Championship @ Jul 25 10:00 PM" tvg-logo="https://goaugie.com/images/2017/4/19/softballncaa.jpg" group-title="Deportes",Softball 02 :High School Softball: PGF 16U Platinum National Championship @ Jul 25 10:00 PM
 http://polarbear.mov/live/Sandra123/Sandra123/3095.m3u8
-#EXTINF:-1 tvg-id="beinsportsenespanol.us" tvg-name="USA Bein Sports en Espanol" tvg-logo="https://logo.m3uassets.com/beinsportsenespanol.png" group-title="Deportes",USA Bein Sports en Espanol
+#EXTINF:-1 tvg-id="" tvg-name="USA Bein Sports en Espanol" tvg-logo="https://logo.m3uassets.com/beinsportsenespanol.png" group-title="Deportes",USA Bein Sports en Espanol
 http://polarbear.mov/live/Sandra123/Sandra123/942.m3u8
-#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="USA ESPN Deportes" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="Deportes",USA ESPN Deportes
+#EXTINF:-1 tvg-id="" tvg-name="USA ESPN Deportes" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="Deportes",USA ESPN Deportes
 http://polarbear.mov/live/Sandra123/Sandra123/3165.m3u8
-#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="USA Fox Deportes" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FOX-Deportes-1040x585.jpg" group-title="Deportes",USA Fox Deportes
+#EXTINF:-1 tvg-id="" tvg-name="USA Fox Deportes" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FOX-Deportes-1040x585.jpg" group-title="Deportes",USA Fox Deportes
 http://polarbear.mov/live/Sandra123/Sandra123/3164.m3u8
-#EXTINF:-1 tvg-id="beinsportenespanol.us" tvg-name=" BEIN Sports en Español" tvg-logo="https://logo.m3uassets.com/beinsportsenespaol.png" group-title="Deportes", BEIN Sports en Español
+#EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-name=" BEIN Sports en Español" tvg-logo="https://logo.m3uassets.com/beinsportsenespaol.png" group-title="Deportes", BEIN Sports en Español
 http://polarbear.mov/live/Sandra123/Sandra123/3242.m3u8
-#EXTINF:-1 tvg-id="beinsportsxtraespanol.us" tvg-name=" beIN Sports Xtra en Espanol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/367f55e2-df38-4fc5-b6cf-c102fd938601/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png" group-title="Deportes", beIN Sports Xtra en Espanol
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Sports Xtra en Espanol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/367f55e2-df38-4fc5-b6cf-c102fd938601/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png" group-title="Deportes", beIN Sports Xtra en Espanol
 http://polarbear.mov/live/Sandra123/Sandra123/830260.m3u8
-#EXTINF:-1 tvg-id="canelatvdeportes.mx" tvg-name=" Canela.TV Deportes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f345c0b8-c5b8-49a4-82f2-28fa7fcfe7e8/CM-Plex-dark_logo-CanelaTV-deportes_-_Natalia_Rodriguez.png" group-title="Deportes", Canela.TV Deportes
+#EXTINF:-1 tvg-id="" tvg-name=" Canela.TV Deportes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f345c0b8-c5b8-49a4-82f2-28fa7fcfe7e8/CM-Plex-dark_logo-CanelaTV-deportes_-_Natalia_Rodriguez.png" group-title="Deportes", Canela.TV Deportes
 http://polarbear.mov/live/Sandra123/Sandra123/830259.m3u8
-#EXTINF:-1 tvg-id="foxsportsnetppv.us" tvg-name=" Fox Deportes" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/10/Fox-Deportes-Logo.png" group-title="Deportes", Fox Deportes
+#EXTINF:-1 tvg-id="" tvg-name=" Fox Deportes" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/10/Fox-Deportes-Logo.png" group-title="Deportes", Fox Deportes
 http://polarbear.mov/live/Sandra123/Sandra123/3221.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" ITV Deportes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png" group-title="Deportes", ITV Deportes
 http://polarbear.mov/live/Sandra123/Sandra123/830214.m3u8
-#EXTINF:-1 tvg-id="noticiastelemundoahora.us" tvg-name=" Telemundo Deportes Ahora" tvg-logo="https://image.xumo.com/v1/channels/channel/99951459/168x168.webp?type=color_onBlack" group-title="Deportes", Telemundo Deportes Ahora
+#EXTINF:-1 tvg-id="TelemundoDeportesAhora.peacocktv" tvg-name=" Telemundo Deportes Ahora" tvg-logo="https://image.xumo.com/v1/channels/channel/99951459/168x168.webp?type=color_onBlack" group-title="Deportes", Telemundo Deportes Ahora
 http://polarbear.mov/live/Sandra123/Sandra123/830263.m3u8
-#EXTINF:-1 tvg-id="tudn.us" tvg-name=" TUDN X1" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X1
+#EXTINF:-1 tvg-id="" tvg-name=" TUDN X1" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X1
 http://polarbear.mov/live/Sandra123/Sandra123/3186.m3u8
-#EXTINF:-1 tvg-id="tudn.us" tvg-name=" TUDN X10" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X10
+#EXTINF:-1 tvg-id="" tvg-name=" TUDN X10" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X10
 http://polarbear.mov/live/Sandra123/Sandra123/3185.m3u8
-#EXTINF:-1 tvg-id="tudn.us" tvg-name=" TUDN X2" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X2
+#EXTINF:-1 tvg-id="" tvg-name=" TUDN X2" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X2
 http://polarbear.mov/live/Sandra123/Sandra123/3184.m3u8
-#EXTINF:-1 tvg-id="tudn.us" tvg-name=" TUDN X3" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X3
+#EXTINF:-1 tvg-id="" tvg-name=" TUDN X3" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X3
 http://polarbear.mov/live/Sandra123/Sandra123/3183.m3u8
-#EXTINF:-1 tvg-id="tudn.us" tvg-name=" TUDN X4" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X4
+#EXTINF:-1 tvg-id="" tvg-name=" TUDN X4" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X4
 http://polarbear.mov/live/Sandra123/Sandra123/3182.m3u8
-#EXTINF:-1 tvg-id="tudn.us" tvg-name=" TUDN X5" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X5
+#EXTINF:-1 tvg-id="" tvg-name=" TUDN X5" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X5
 http://polarbear.mov/live/Sandra123/Sandra123/3181.m3u8
-#EXTINF:-1 tvg-id="TUDNX6" tvg-name=" TUDN X6" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X6
+#EXTINF:-1 tvg-id="" tvg-name=" TUDN X6" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X6
 http://polarbear.mov/live/Sandra123/Sandra123/3180.m3u8
-#EXTINF:-1 tvg-id="tudn.us" tvg-name=" TUDN X7" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X7
+#EXTINF:-1 tvg-id="" tvg-name=" TUDN X7" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X7
 http://polarbear.mov/live/Sandra123/Sandra123/3179.m3u8
-#EXTINF:-1 tvg-id="tudn.us" tvg-name=" TUDN X8" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X8
+#EXTINF:-1 tvg-id="" tvg-name=" TUDN X8" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X8
 http://polarbear.mov/live/Sandra123/Sandra123/3178.m3u8
-#EXTINF:-1 tvg-id="tudn.us" tvg-name=" TUDN X9" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X9
+#EXTINF:-1 tvg-id="" tvg-name=" TUDN X9" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X9
 http://polarbear.mov/live/Sandra123/Sandra123/3177.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" ViX Deportes 21" tvg-logo="http://p-img.movetv.com/cms/images/fe9d44799eef7096aaed963416f323dc7ceae1d3.png" group-title="Deportes", ViX Deportes 21
 http://polarbear.mov/live/Sandra123/Sandra123/830258.m3u8
@@ -884,11 +884,11 @@ http://polarbear.mov/live/Sandra123/Sandra123/830258.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/830257.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" ViX Deportes 23" tvg-logo="http://p-img.movetv.com/cms/images/e66be32852219c6a053dbf7a4168813a2369474e.png" group-title="Deportes", ViX Deportes 23
 http://polarbear.mov/live/Sandra123/Sandra123/830256.m3u8
-#EXTINF:-1 tvg-id="zonafutbol.us" tvg-name=" ZONA Tudn Futbol" tvg-logo="https://logo.m3uassets.com/zonafutbol.png" group-title="Deportes", ZONA Tudn Futbol
+#EXTINF:-1 tvg-id="" tvg-name=" ZONA Tudn Futbol" tvg-logo="https://logo.m3uassets.com/zonafutbol.png" group-title="Deportes", ZONA Tudn Futbol
 http://polarbear.mov/live/Sandra123/Sandra123/3171.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAR: TELE SUR SPANISH" tvg-logo="https://asiagrandiptv.us/logo//TELESURSPANISH.png" group-title="Noticias",CAR: TELE SUR SPANISH
 http://polarbear.mov/live/Sandra123/Sandra123/280166.m3u8
-#EXTINF:-1 tvg-id="cnnenespañol.us" tvg-name="USA CNN Espanol" tvg-logo="https://logo.m3uassets.com/cnnenespanol.png" group-title="Noticias",USA CNN Espanol
+#EXTINF:-1 tvg-id="" tvg-name="USA CNN Espanol" tvg-logo="https://logo.m3uassets.com/cnnenespanol.png" group-title="Noticias",USA CNN Espanol
 http://polarbear.mov/live/Sandra123/Sandra123/3263.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="USA Estrella News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/estrella-news-vod.png" group-title="Noticias",USA Estrella News
 http://polarbear.mov/live/Sandra123/Sandra123/623307.m3u8
@@ -896,13 +896,13 @@ http://polarbear.mov/live/Sandra123/Sandra123/623307.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/830243.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" CNN Noticias" tvg-logo="https://images.pluto.tv/channels/673248f9030a2c0008033af8/featuredImage_1777908720377.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" group-title="Noticias", CNN Noticias
 http://polarbear.mov/live/Sandra123/Sandra123/707008.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Estrella News" tvg-logo="https://logo.m3uassets.com/estrellanews.png" group-title="Noticias", Estrella News
+#EXTINF:-1 tvg-id="EstrellaNews.pluto" tvg-name=" Estrella News" tvg-logo="https://logo.m3uassets.com/estrellanews.png" group-title="Noticias", Estrella News
 http://polarbear.mov/live/Sandra123/Sandra123/707026.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Meganoticias" tvg-logo="https://logowik.com/content/uploads/images/meganoticias7444.logowik.com.webp" group-title="España", Meganoticias
 http://polarbear.mov/live/Sandra123/Sandra123/707053.m3u8
-#EXTINF:-1 tvg-id="noticiastelemundoahora.us" tvg-name=" Noticias Telemundo AHORA" tvg-logo="https://provider-static.plex.tv/a/epg/channels/logos/gracenote/a88b95413ac88f1f1147ea1d00692653.png" group-title="Noticias", Noticias Telemundo AHORA
+#EXTINF:-1 tvg-id="" tvg-name=" Noticias Telemundo AHORA" tvg-logo="https://provider-static.plex.tv/a/epg/channels/logos/gracenote/a88b95413ac88f1f1147ea1d00692653.png" group-title="Noticias", Noticias Telemundo AHORA
 http://polarbear.mov/live/Sandra123/Sandra123/830265.m3u8
-#EXTINF:-1 tvg-id="ntn24.us" tvg-name=" NTN24" tvg-logo="https://logo.m3uassets.com/ntn24.png" group-title="Noticias", NTN24
+#EXTINF:-1 tvg-id="NTN24.us" tvg-name=" NTN24" tvg-logo="https://logo.m3uassets.com/ntn24.png" group-title="Noticias", NTN24
 http://polarbear.mov/live/Sandra123/Sandra123/3203.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" RCN Noticias" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9150537f-f9e4-4f21-b5e2-bc57b7a5ea35/RCN_NOTICIAS_WHITE_-_JuanMa_VelasquezRDX.png" group-title="Noticias", RCN Noticias
 http://polarbear.mov/live/Sandra123/Sandra123/830250.m3u8
@@ -916,63 +916,63 @@ http://polarbear.mov/live/Sandra123/Sandra123/707032.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/830254.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Telemundo Noticias Noreste" tvg-logo="https://image.xumo.com/v1/channels/channel/99951228/168x168.webp?type=color_onBlack" group-title="Noticias", Telemundo Noticias Noreste
 http://polarbear.mov/live/Sandra123/Sandra123/830249.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Telemundo Noticias Texas" tvg-logo="https://image.xumo.com/v1/channels/channel/99951226/168x168.webp?type=color_onBlack" group-title="Noticias", Telemundo Noticias Texas
+#EXTINF:-1 tvg-id="TelemundoNoticiasTexas.pluto" tvg-name=" Telemundo Noticias Texas" tvg-logo="https://image.xumo.com/v1/channels/channel/99951226/168x168.webp?type=color_onBlack" group-title="Noticias", Telemundo Noticias Texas
 http://polarbear.mov/live/Sandra123/Sandra123/830251.m3u8
-#EXTINF:-1 tvg-id="mnmxus.us" tvg-name="USA Univision Noticias" tvg-logo="https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Bd5dGQpgq11xtNELGWUhAiM0r7Y=/960x0/arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/VW4KDLVCKII6JFOT2S7WAIOUGA.jpg" group-title="Noticias",USA Univision Noticias
+#EXTINF:-1 tvg-id="" tvg-name="USA Univision Noticias" tvg-logo="https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Bd5dGQpgq11xtNELGWUhAiM0r7Y=/960x0/arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/VW4KDLVCKII6JFOT2S7WAIOUGA.jpg" group-title="Noticias",USA Univision Noticias
 http://polarbear.mov/live/Sandra123/Sandra123/3390.m3u8
-#EXTINF:-1 tvg-id="4uv.us" tvg-name="USA Cine de Horror" tvg-logo="https://worldscreen.com/wp-content/uploads/2025/10/Cine-De-Horror-1025.jpg" group-title="Cine y Series",USA Cine de Horror
+#EXTINF:-1 tvg-id="" tvg-name="USA Cine de Horror" tvg-logo="https://worldscreen.com/wp-content/uploads/2025/10/Cine-De-Horror-1025.jpg" group-title="Cine y Series",USA Cine de Horror
 http://polarbear.mov/live/Sandra123/Sandra123/707063.m3u8
-#EXTINF:-1 tvg-id="latinocinema.us" tvg-name="USA Cine Latino" tvg-logo="https://logo.m3uassets.com/cine.png" group-title="Cine y Series",USA Cine Latino
+#EXTINF:-1 tvg-id="" tvg-name="USA Cine Latino" tvg-logo="https://logo.m3uassets.com/cine.png" group-title="Cine y Series",USA Cine Latino
 http://polarbear.mov/live/Sandra123/Sandra123/3161.m3u8
-#EXTINF:-1 tvg-id="cinemaxenespañol.us" tvg-name="USA Cinemax Latino" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="Cine y Series",USA Cinemax Latino
+#EXTINF:-1 tvg-id="" tvg-name="USA Cinemax Latino" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="Cine y Series",USA Cinemax Latino
 http://polarbear.mov/live/Sandra123/Sandra123/3160.m3u8
-#EXTINF:-1 tvg-id="cinemaxenespañol.us" tvg-name="USA Cinemax Latino" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="Cine y Series",USA Cinemax Latino
+#EXTINF:-1 tvg-id="" tvg-name="USA Cinemax Latino" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="Cine y Series",USA Cinemax Latino
 http://polarbear.mov/live/Sandra123/Sandra123/808.m3u8
-#EXTINF:-1 tvg-id="latinocinema.us" tvg-name="USA Cinemax Latino UHD" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="Cine y Series",USA Cinemax Latino UHD
+#EXTINF:-1 tvg-id="" tvg-name="USA Cinemax Latino UHD" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="Cine y Series",USA Cinemax Latino UHD
 http://polarbear.mov/live/Sandra123/Sandra123/268851.m3u8
-#EXTINF:-1 tvg-id="hbolatino.us" tvg-name="USA HBO Latino" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" group-title="Cine y Series",USA HBO Latino
+#EXTINF:-1 tvg-id="" tvg-name="USA HBO Latino" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" group-title="Cine y Series",USA HBO Latino
 http://polarbear.mov/live/Sandra123/Sandra123/3158.m3u8
-#EXTINF:-1 tvg-id="hbolatino.us" tvg-name="USA HBO Latino East" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="Cine y Series",USA HBO Latino East
+#EXTINF:-1 tvg-id="" tvg-name="USA HBO Latino East" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="Cine y Series",USA HBO Latino East
 http://polarbear.mov/live/Sandra123/Sandra123/741.m3u8
-#EXTINF:-1 tvg-id="hbolatino.us" tvg-name="USA HBO Latino East UHD" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="Cine y Series",USA HBO Latino East UHD
+#EXTINF:-1 tvg-id="" tvg-name="USA HBO Latino East UHD" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="Cine y Series",USA HBO Latino East UHD
 http://polarbear.mov/live/Sandra123/Sandra123/268959.m3u8
-#EXTINF:-1 tvg-id="hbolatino()west.us" tvg-name="USA HBO Latino West" tvg-logo="https://logo.m3uassets.com/hbowest.png" group-title="Cine y Series",USA HBO Latino West
+#EXTINF:-1 tvg-id="" tvg-name="USA HBO Latino West" tvg-logo="https://logo.m3uassets.com/hbowest.png" group-title="Cine y Series",USA HBO Latino West
 http://polarbear.mov/live/Sandra123/Sandra123/290172.m3u8
-#EXTINF:-1 tvg-id="hbowest.us" tvg-name="USA HBO Latino West" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" group-title="Cine y Series",USA HBO Latino West
+#EXTINF:-1 tvg-id="" tvg-name="USA HBO Latino West" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" group-title="Cine y Series",USA HBO Latino West
 http://polarbear.mov/live/Sandra123/Sandra123/3157.m3u8
-#EXTINF:-1 tvg-id="hbolatino()west.us" tvg-name="USA HBO Latino West UHD" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" group-title="Cine y Series",USA HBO Latino West UHD
+#EXTINF:-1 tvg-id="" tvg-name="USA HBO Latino West UHD" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" group-title="Cine y Series",USA HBO Latino West UHD
 http://polarbear.mov/live/Sandra123/Sandra123/813694.m3u8
-#EXTINF:-1 tvg-id="a3cine.us" tvg-name=" A3Cine" tvg-logo="https://mma.prnewswire.com/media/629670/Atrescine_Logo.jpg" group-title="Cine y Series", A3Cine
+#EXTINF:-1 tvg-id="A3Cine.us" tvg-name=" A3Cine" tvg-logo="https://mma.prnewswire.com/media/629670/Atrescine_Logo.jpg" group-title="Cine y Series", A3Cine
 http://polarbear.mov/live/Sandra123/Sandra123/3257.m3u8
-#EXTINF:-1 tvg-id="latinocinema.us" tvg-name=" AZ Cinema" tvg-logo="https://americancable.ec/wp-content/uploads/2021/09/40-logo-azcinema.png" group-title="Cine y Series", AZ Cinema
+#EXTINF:-1 tvg-id="" tvg-name=" AZ Cinema" tvg-logo="https://americancable.ec/wp-content/uploads/2021/09/40-logo-azcinema.png" group-title="Cine y Series", AZ Cinema
 http://polarbear.mov/live/Sandra123/Sandra123/3250.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Cine Club" tvg-logo="http://p-img.movetv.com/cms/images/875441ad3df2f9d4a680e6db6b08b8e8ac8e7699.png" group-title="Cine y Series", Cine Club
 http://polarbear.mov/live/Sandra123/Sandra123/830233.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Cine Clásico" tvg-logo="https://logo.m3uassets.com/cinelat.png" group-title="Cine y Series", Cine Clásico
+#EXTINF:-1 tvg-id="CineClásico.pluto" tvg-name=" Cine Clásico" tvg-logo="https://logo.m3uassets.com/cinelat.png" group-title="Cine y Series", Cine Clásico
 http://polarbear.mov/live/Sandra123/Sandra123/707067.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Cine de Oro" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700005KL_20260421T142142SQUARE.png" group-title="Cine y Series", Cine de Oro
 http://polarbear.mov/live/Sandra123/Sandra123/830237.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Cine Estelar" tvg-logo="https://logo.m3uassets.com/plutotvcineestelar.png" group-title="Cine y Series", Cine Estelar
+#EXTINF:-1 tvg-id="CineEstelar.us" tvg-name=" Cine Estelar" tvg-logo="https://logo.m3uassets.com/plutotvcineestelar.png" group-title="Cine y Series", Cine Estelar
 http://polarbear.mov/live/Sandra123/Sandra123/707072.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Cine EstrellaTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/09f86900-5fce-4b68-944a-a52733ca2ec2/cine-logo_color_-_Erick_Ramirez1500x1000.png" group-title="Cine y Series", Cine EstrellaTV
 http://polarbear.mov/live/Sandra123/Sandra123/830228.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Cine Mexicano" tvg-logo="https://logo.m3uassets.com/tempcs1315cinemexicano.png" group-title="Cine y Series", Cine Mexicano
+#EXTINF:-1 tvg-id="CineMexicano.mx" tvg-name=" Cine Mexicano" tvg-logo="https://logo.m3uassets.com/tempcs1315cinemexicano.png" group-title="Cine y Series", Cine Mexicano
 http://polarbear.mov/live/Sandra123/Sandra123/707071.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Cine Nostalgia" tvg-logo="https://logo.m3uassets.com/cinenostalgia.png" group-title="Cine y Series", Cine Nostalgia
+#EXTINF:-1 tvg-id="CineNostalgia.us" tvg-name=" Cine Nostalgia" tvg-logo="https://logo.m3uassets.com/cinenostalgia.png" group-title="Cine y Series", Cine Nostalgia
 http://polarbear.mov/live/Sandra123/Sandra123/707070.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Cine Retro" tvg-logo="https://logo.m3uassets.com/plutotvcineretro.png" group-title="Cine y Series", Cine Retro
 http://polarbear.mov/live/Sandra123/Sandra123/707069.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Cine Romantico" tvg-logo="https://mma.prnewswire.com/media/1321479/UP_Entertainment_Cine_Romantico_Logo.jpg" group-title="Cine y Series", Cine Romantico
 http://polarbear.mov/live/Sandra123/Sandra123/707064.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Cine Vault" tvg-logo="https://logo.m3uassets.com/cinelatino.png" group-title="Cine y Series", Cine Vault
+#EXTINF:-1 tvg-id="Cinevault.us" tvg-name=" Cine Vault" tvg-logo="https://logo.m3uassets.com/cinelatino.png" group-title="Cine y Series", Cine Vault
 http://polarbear.mov/live/Sandra123/Sandra123/707062.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Cine Vault Classics" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYfObIZurdmgdtQSeLWZGvB47XOC7RmbWwg&s" group-title="Cine y Series", Cine Vault Classics
+#EXTINF:-1 tvg-id="CINEVAULTClassics.us" tvg-name=" Cine Vault Classics" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYfObIZurdmgdtQSeLWZGvB47XOC7RmbWwg&s" group-title="Cine y Series", Cine Vault Classics
 http://polarbear.mov/live/Sandra123/Sandra123/707061.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Cine Vault Westerns" tvg-logo="https://logo.m3uassets.com/cinevaultwesterns.png" group-title="Cine y Series", Cine Vault Westerns
+#EXTINF:-1 tvg-id="CINEVAULTWesterns.us" tvg-name=" Cine Vault Westerns" tvg-logo="https://logo.m3uassets.com/cinevaultwesterns.png" group-title="Cine y Series", Cine Vault Westerns
 http://polarbear.mov/live/Sandra123/Sandra123/707060.m3u8
-#EXTINF:-1 tvg-id="cinemadinamita.us" tvg-name=" Cinema Dinamita" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/1588706493698-9FZI0PVBWD50JVE24B0K/network_cinemadinamita.png" group-title="Cine y Series", Cinema Dinamita
+#EXTINF:-1 tvg-id="CinemaDinamita.us" tvg-name=" Cinema Dinamita" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/1588706493698-9FZI0PVBWD50JVE24B0K/network_cinemadinamita.png" group-title="Cine y Series", Cinema Dinamita
 http://polarbear.mov/live/Sandra123/Sandra123/3237.m3u8
-#EXTINF:-1 tvg-id="cinevault.us" tvg-name=" CINEVAULT" tvg-logo="https://logo.m3uassets.com/cinelatino.png" group-title="Cine y Series", CINEVAULT
+#EXTINF:-1 tvg-id="Cinevault.us" tvg-name=" CINEVAULT" tvg-logo="https://logo.m3uassets.com/cinelatino.png" group-title="Cine y Series", CINEVAULT
 http://polarbear.mov/live/Sandra123/Sandra123/707066.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" DP De Pelicula" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/PELIC-logo.png" group-title="Cine y Series", DP De Pelicula
 http://polarbear.mov/live/Sandra123/Sandra123/3229.m3u8
@@ -986,21 +986,21 @@ http://polarbear.mov/live/Sandra123/Sandra123/830231.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/830180.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Grjngo vs Peliculas Del Oeste" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76964e60-8756-4551-8748-dbd7852bd0bd/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png" group-title="Cine y Series", Grjngo vs Peliculas Del Oeste
 http://polarbear.mov/live/Sandra123/Sandra123/830176.m3u8
-#EXTINF:-1 tvg-id="hbo.us" tvg-name=" HBO Latino" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/HBOLATINAMERICA.jpg" group-title="Cine y Series", HBO Latino
+#EXTINF:-1 tvg-id="HBOLatino.us" tvg-name=" HBO Latino" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/HBOLATINAMERICA.jpg" group-title="Cine y Series", HBO Latino
 http://polarbear.mov/live/Sandra123/Sandra123/3217.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Sony Cine" tvg-logo="https://logo.m3uassets.com/cinesony.png" group-title="Cine y Series", Sony Cine
 http://polarbear.mov/live/Sandra123/Sandra123/707050.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Todo Cine" tvg-logo="https://provider-static.plex.tv/epg/cms/production/afe5cd54-0d6d-4b60-a4df-91a8d7ac7960/TodoCine_-_White_Fernando_Fraderdx.png" group-title="Cine y Series", Todo Cine
 http://polarbear.mov/live/Sandra123/Sandra123/830236.m3u8
-#EXTINF:-1 tvg-id="starzencoreespañol.us" tvg-name="USA Starz Encore Español" tvg-logo="https://logo.m3uassets.com/starzencoreespanol.png" group-title="Cine y Series",USA Starz Encore Español
+#EXTINF:-1 tvg-id="" tvg-name="USA Starz Encore Español" tvg-logo="https://logo.m3uassets.com/starzencoreespanol.png" group-title="Cine y Series",USA Starz Encore Español
 http://polarbear.mov/live/Sandra123/Sandra123/762.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine en Español HD ▪ᴘʟᴇx▪" tvg-logo="https://provider-static.plex.tv/epg/cms/production/18be52bf-43c6-4ac0-b3bf-ed51b252cb89/Cine_en_espanol_logo_1500x1000px_WHT.png" group-title="Cine y Series",Cine en Español HD ▪ᴘʟᴇx▪
 http://polarbear.mov/live/Sandra123/Sandra123/622434.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FILMRISE: Cheaters en Español HD ▪ᴘʟᴇx▪" tvg-logo="https://s12.gifyu.com/images/SrYC6.webp" group-title="Cine y Series",FILMRISE: Cheaters en Español HD ▪ᴘʟᴇx▪
 http://polarbear.mov/live/Sandra123/Sandra123/622346.m3u8
-#EXTINF:-1 tvg-id="discoveryfamilia.us" tvg-name=" Discovery Familia" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/DSFAM-logo.png" group-title="Infantil", Discovery Familia
+#EXTINF:-1 tvg-id="" tvg-name=" Discovery Familia" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/DSFAM-logo.png" group-title="Infantil", Discovery Familia
 http://polarbear.mov/live/Sandra123/Sandra123/3231.m3u8
-#EXTINF:-1 tvg-id="stingrayromancelatino.us" tvg-name="[US] STINGRAY ROMANCE LATINO FHD [sᴛᴠ+]" tvg-logo="https://logo.m3uassets.com/stingrayromance.png" group-title="Música",[US] STINGRAY ROMANCE LATINO FHD [sᴛᴠ+]
+#EXTINF:-1 tvg-id="" tvg-name="[US] STINGRAY ROMANCE LATINO FHD [sᴛᴠ+]" tvg-logo="https://logo.m3uassets.com/stingrayromance.png" group-title="Música",[US] STINGRAY ROMANCE LATINO FHD [sᴛᴠ+]
 http://polarbear.mov/live/Sandra123/Sandra123/623171.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] STINGRAY TODAY'S LATIN POP FHD [sᴛᴠ+]" tvg-logo="https://logo.m3uassets.com/stingraytoday'slatinpop.png" group-title="Música",[US] STINGRAY TODAY'S LATIN POP FHD [sᴛᴠ+]
 http://polarbear.mov/live/Sandra123/Sandra123/623168.m3u8
@@ -1008,17 +1008,17 @@ http://polarbear.mov/live/Sandra123/Sandra123/623168.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/623187.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[US] XITE SIEMPRE LATINO FHD [sᴛᴠ+]" tvg-logo="https://s9.gifyu.com/images/Sai76.png" group-title="Música",[US] XITE SIEMPRE LATINO FHD [sᴛᴠ+]
 http://polarbear.mov/live/Sandra123/Sandra123/623183.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" MTV en español" tvg-logo="https://logo.m3uassets.com/mtvenespanol.png" group-title="Música", MTV en español
+#EXTINF:-1 tvg-id="MTVenespañol.pluto" tvg-name=" MTV en español" tvg-logo="https://logo.m3uassets.com/mtvenespanol.png" group-title="Música", MTV en español
 http://polarbear.mov/live/Sandra123/Sandra123/707030.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Stingray Romance Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20260421T141914SQUARE.png" group-title="Música", Stingray Romance Latino
+#EXTINF:-1 tvg-id="StingrayRomanceLatino.us" tvg-name=" Stingray Romance Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20260421T141914SQUARE.png" group-title="Música", Stingray Romance Latino
 http://polarbear.mov/live/Sandra123/Sandra123/830207.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Stingray Today's Latin Pop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500009Y3_20260421T141859SQUARE.png" group-title="Música", Stingray Today's Latin Pop
 http://polarbear.mov/live/Sandra123/Sandra123/830219.m3u8
-#EXTINF:-1 tvg-id="telehit.us" tvg-name=" Telehit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" group-title="Música", Telehit
+#EXTINF:-1 tvg-id="Telehit.dr" tvg-name=" Telehit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png" group-title="Música", Telehit
 http://polarbear.mov/live/Sandra123/Sandra123/3190.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" XITE Nuevo Latino" tvg-logo="https://provider-static.plex.tv/epg/cms/production/25aac646-3806-4e44-b1aa-cd8e3407f3c3/xitenuevolatino_logo_light_-_Arlette_FiranRDX.png" group-title="Música", XITE Nuevo Latino
+#EXTINF:-1 tvg-id="XITENuevoLatino.us" tvg-name=" XITE Nuevo Latino" tvg-logo="https://provider-static.plex.tv/epg/cms/production/25aac646-3806-4e44-b1aa-cd8e3407f3c3/xitenuevolatino_logo_light_-_Arlette_FiranRDX.png" group-title="Música", XITE Nuevo Latino
 http://polarbear.mov/live/Sandra123/Sandra123/830218.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" XITE Siempre Latino" tvg-logo="https://provider-static.plex.tv/epg/cms/production/35a1d7e4-caa3-477a-b813-90d23a756a16/xitesiemprelatino_logo_light_-_Arlette_FiranRDX.png" group-title="Música", XITE Siempre Latino
+#EXTINF:-1 tvg-id="XITESiempreLatino.us" tvg-name=" XITE Siempre Latino" tvg-logo="https://provider-static.plex.tv/epg/cms/production/35a1d7e4-caa3-477a-b813-90d23a756a16/xitesiemprelatino_logo_light_-_Arlette_FiranRDX.png" group-title="Música", XITE Siempre Latino
 http://polarbear.mov/live/Sandra123/Sandra123/830215.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="USA Music Choice Video | Pop Latino" tvg-logo="https://logo.m3uassets.com/musicchoicelightclassical.png" group-title="Música",USA Music Choice Video | Pop Latino
 http://polarbear.mov/live/Sandra123/Sandra123/1127.m3u8

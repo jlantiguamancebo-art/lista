@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-do.xml,https://iptv-epg.org/files/epg-mx.xml,https://iptv-epg.org/files/epg-es.xml,https://iptv-epg.org/files/epg-us.xml"
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-do.xml.gz,https://iptv-epg.org/files/epg-mx.xml.gz,https://iptv-epg.org/files/epg-es.xml.gz,https://iptv-epg.org/files/epg-us.xml.gz"
 #EXTINF:-1 tvg-id="TeleAntillas.dr" tvg-logo="https://i.imgur.com/G1pJZkC.png" group-title="República Dominicana",02 - Tele Antillas
 http://45.171.108.253:8888/TELEANTILLAS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3AqCAji.png" group-title="República Dominicana",04 - Canal 4 RD

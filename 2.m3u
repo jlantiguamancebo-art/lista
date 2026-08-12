@@ -4,9 +4,7 @@ http://45.171.108.253:8888/TELEANTILLAS/index.m3u8
 #EXTINF:-1 tvg-id="Canal4RD.do@SD" tvg-logo="https://i.imgur.com/3AqCAji.png" group-title="República Dominicana",04 - Canal 4 RD
 https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemicro.do@SD" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Telemicro.png" group-title="República Dominicana",05 - Telemicro (480p)
-#EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/index_pc.php
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0
-https://live2.telemicro.com.do/live/55/playlist.m3u8
+https://live2.telemicro.com.do/live/55/playlist.m3u8|Referer=https://telemicro.com.do/players/5tv/index_pc.php&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="CanaldelSol.do@SD" tvg-logo="https://i.imgur.com/gK0M1jB.png" group-title="República Dominicana",06 - Canal del Sol
 https://stream.canaldelsol.com/sol26/live_1080.m3u8
 #EXTINF:-1 tvg-id="Antena7.do@SD" tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="República Dominicana",07 - Antena 7

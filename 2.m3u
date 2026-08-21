@@ -71,8 +71,6 @@ https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
 https://cloud5.livescast.com:19360/canalvegateve/canalvegateve.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dBEysOV.png" group-title="República Dominicana",52 - Teleimpacto
 https://vpss2003.streamprolive.com/hls/live.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg" group-title="República Dominicana",55 - Super TV 55
-#OFF# https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/I2wRq88.png" group-title="República Dominicana",89 - Bajo Techo TV
 https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://a7tvjarabacoa.netlify.app/IMG_1968.PNG" group-title="República Dominicana",A7 TV
@@ -95,8 +93,6 @@ https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8
 https://vdopanel.jlahozconsulting.com:3648/live/atabaltvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.banivision.com/wp-content/uploads/2023/04/Bani-Vision-Favicon.png" group-title="República Dominicana",Bani Vision
 https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="" group-title="República Dominicana",Bebeto TV
-#OFF# https://domapp2.site:2087/Juanandres2026/Navegador255/649081
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XqQ3kCs.png" group-title="República Dominicana",Bellavision
 https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/npiRBPC.png" group-title="República Dominicana",Boca Chica TV
@@ -107,8 +103,6 @@ https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
 https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="República Dominicana",Boreal
 https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3d8cLm9.jpg" group-title="República Dominicana",Camu TV
-https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k8jxt12.png" group-title="República Dominicana",Cana TV Digital
 https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png" group-title="República Dominicana",Canal 17 RTVD
@@ -127,8 +121,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
 https://canalda.rgradio.net:3084/live/canaldalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/isXlMAh.png" group-title="República Dominicana",Cananga TV
 https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3906-294x165-FFFFFF.jpg" group-title="República Dominicana",Caoba TV Radio
-https://host.streamingnation.live:3940/live/caobatvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="República Dominicana",Cascara TV
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/ShPaOvn.jpg" group-title="República Dominicana",Cenovision HD
@@ -149,8 +141,6 @@ https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
 https://edge.essastream.com/cntmas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="República Dominicana",COCO TV
 https://edge.essastream.com/canalcocotv/playlist.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/DbjywI3.png" group-title="República Dominicana",Codigo TV
-#OFF# https://edge.essastream.com/codigotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZeUgLCa.png" group-title="República Dominicana",Colimdo TV
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://colometv.com/assets/images/logo.png" group-title="República Dominicana",Colome TV
@@ -175,8 +165,6 @@ https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/Y4ahiYu.png" group-title="República Dominicana",Ecovisión
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yjuTl6N.png" group-title="República Dominicana",El Nuevo Diario TV
-#OFF# https://nuevodiario01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://elpituco.com/wp-content/uploads/2021/04/ElPituco.png" group-title="República Dominicana",El Pituco TV
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FnshExB.jpg" group-title="República Dominicana",El Puerto TV
@@ -189,8 +177,6 @@ https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8
 https://edge.essastream.com/enntivision/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3508-294x165-FFFFFF.jpg" group-title="República Dominicana",Enterate RD
 https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/U9OsybQ.jpg" group-title="República Dominicana",Entuno TV
-#OFF# https://soportedvb.click:3442/live/entunotvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3780-294x165-FFFFFF.jpg" group-title="República Dominicana",Extra 86 TV
 https://video-eu1.streamerr.co/hls/sb77f834a54/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YtdOXWb.png" group-title="República Dominicana",Farovisión
@@ -207,8 +193,6 @@ https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
 https://fox.hostlagarto.com:8081/ghtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/br9TNG8.png" group-title="República Dominicana",Gi Television
 https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sGN1NbR.png" group-title="República Dominicana",Global Social TV
-#OFF# http://latinstream.xyz/PFj5kWPF7N/CKYprEyEeW/1517667
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1rQaROm.png" group-title="República Dominicana",Global TV
 http://itsidletime.xyz:8080/Trial/Trial123/53694
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PBgQi9a.png" group-title="República Dominicana",Guaymate TV
@@ -245,12 +229,8 @@ https://edge.enhdtv.com/8206/index.m3u8
 https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2896-294x165-FFFFFF.jpg" group-title="República Dominicana",La Ruta TV
 https://streamunoapp.com:3983/live/larutatvlive.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UNiyOvd.png" group-title="República Dominicana",La Sultana del Este TV
-#OFF# https://micanal.ovh/livestreams/544.EP3QGO4KPL66.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://gia.tv/streams/pstream/208429.png" group-title="República Dominicana",La Voz de Jesus HD
 https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DKDFpHt.png" group-title="República Dominicana",La Voz del Tropico
-#OFF# https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dominicanchannels.com/wp-content/uploads/lagunatv.jpg" group-title="República Dominicana",Laguna TV
 https://cnn.hostlagarto.com/lagutv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.larivision.com/web/wp-content/uploads/2025/07/logow.png" group-title="República Dominicana",Larivision TV
@@ -273,14 +253,10 @@ https://live.obslivestream.com/makaomux/index.m3u8
 https://vdopanel.jlahozconsulting.com:3303/live/makinalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3445-294x165-FFFFFF.jpg" group-title="República Dominicana",Manaclar Television
 https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4060-294x165-FFFFFF.jpg" group-title="República Dominicana",Maniel TV
-#OFF# https://stream.inliveserver.com:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3355-294x165-FFFFFF.jpg" group-title="República Dominicana",Marka TV
 https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3738-294x165-FFFFFF.jpg" group-title="República Dominicana",Marla Vision
 https://soportedvb.click:3877/live/merlavisionlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="República Dominicana",Mega Cine TV
-https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/u5ECnZd.png" group-title="República Dominicana",Megavisión TV
 http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/uODDaEY.png" group-title="República Dominicana",Mi Turno TV
@@ -343,16 +319,10 @@ https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8
 https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="República Dominicana",Ready TV Canal 6
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Yb4lhpG.png" group-title="República Dominicana",Red Social Codi TV
-#OFF# http://latinstream.xyz/PFj5kWPF7N/CKYprEyEeW/391533
 #EXTINF:-1 tvg-id="" tvg-logo="https://dominicanchannels.com/wp-content/uploads/Reportero-100x75-1.png" group-title="República Dominicana",Reportero TV
 https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/12Z9qPw.png" group-title="República Dominicana",RNN DOS
-#OFF# http://latinstream.xyz/PFj5kWPF7N/CKYprEyEeW/1508601
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/FkHqqsi.jpg" group-title="República Dominicana",Rocavision TV
 https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oY4Xfvq.png" group-title="República Dominicana",Ruta 66 TV
-#OFF# https://cnn.livestreaminggroup.info:3796/live/ruta66tvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pwmJrsm.jpg" group-title="República Dominicana",San Isidro TV
 https://5790d294af2dc.streamlock.net/expresooriental/expresooriental/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://santacruztv8.com/assets/images/logo.png" group-title="República Dominicana",Santa Cruz TV
@@ -363,30 +333,18 @@ https://edge.essastream.com/telemilenio/playlist.m3u8
 https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3226-294x165-FFFFFF.jpg" group-title="República Dominicana",Siembra TV
 https://streamunoapp.com:3809/live/siembratvlive.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/io9o30K.jpg" group-title="República Dominicana",Sima Vision TV
-#OFF# https://soportedvb.click:3668/live/simavisiontvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TJEqwZo.png" group-title="República Dominicana",Super 7 FM
 http://003391.xyz/968a004697be/ff265c0bb5/2013401
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3431-294x165-FFFFFF.jpg" group-title="República Dominicana",Super Digital TV
-#OFF# https://stream.inliveserver.com:19360/8006/8006.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://canalesdominicanos.live/template/images/radios/small/supremateve.jpeg" group-title="República Dominicana",Supremateve
-#OFF# https://ss2.tvrdomi.com:1936/supremateve/supremateve/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oAyvK0N.jpeg" group-title="República Dominicana",Sur TV
 http://itsidletime.xyz:8080/Trial/Trial123/56528
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/C8dSJM7.png" group-title="República Dominicana",TDN Medios
 https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3822-294x165-FFFFFF.jpg" group-title="República Dominicana",Tele Dajabon TV
-#OFF# https://tuvideoonline.com.ar:3599/live/tvdajabonlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dominicanchannels.com/wp-content/uploads/teledominicana.png" group-title="República Dominicana",Tele Dominicana TV
 https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dominicanchannels.com/wp-content/uploads/tele-ola.jpeg" group-title="República Dominicana",Tele Ola 44
 https://teleola.ddns.net/hls/stream.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://www.telepoder.online/wp-content/uploads/2024/02/cropped-cropped-Logo-PoderTV2.png" group-title="República Dominicana",Tele Poder TV
-#OFF# https://cdn.telepoder.online:3229/dash/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/LmBxN5x.png" group-title="República Dominicana",Tele Proyecto TV
 https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ql2eaP0.png" group-title="República Dominicana",Telealtura
-#OFF# http://plan-ia.ca/MF4L1FC725PVDHU/OBJ9WyobU4/1288607
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nh4sNVI.png" group-title="República Dominicana",TeleBendicion
 https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/90cTK8S.png" group-title="República Dominicana",Telecanal 12
@@ -405,32 +363,20 @@ https://streamunoapp.com:3366/live/telemetrolive.m3u8
 http://plan-ia.ca/MF4L1FC725PVDHU/OBJ9WyobU4/110316
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3878-294x165-FFFFFF.jpg" group-title="República Dominicana",Telenews TV
 https://hilandofinotv.essastream.com:3480/live/telenewscanallive.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="República Dominicana",Telenord 10
-#OFF# http://latinstream.xyz/PFj5kWPF7N/CKYprEyEeW/294438
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/o7EzEsV.png" group-title="República Dominicana",Telenord 12
-#OFF# http://latinstream.xyz/PFj5kWPF7N/CKYprEyEeW/294438
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="República Dominicana",Telenord 8
 https://fox.hostlagarto.com:8081/telenord8/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/s43eFy0.png" group-title="República Dominicana",TeleRadioNorte
-https://angelistic.live:3785/live/tvoficiallive.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-294x165-FFFFFF.jpg" group-title="República Dominicana",Telesiglo
-#OFF# https://cnn.hostlagarto.com/telesiglo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ig4gR93.png" group-title="República Dominicana",Teletur
 https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/ejKctXc.png" group-title="República Dominicana",Telever
 https://soportedvb.click:3413/live/televerlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M9A6hqR.png" group-title="República Dominicana",Televiaducto Canal 14
 http://lowteck.xyz:83/Jackplatinum/3657842091/775776
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M9A6hqR.png" group-title="República Dominicana",Televiaducto Canal 3
-#OFF# http://latinstream.xyz/PFj5kWPF7N/CKYprEyEeW/2353957
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mmjbcGr.png" group-title="República Dominicana",Television del Este
 https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cPIgs0v.png" group-title="República Dominicana",Tenarenses TV
 https://edge.essastream.com/tenarensestvrd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg" group-title="República Dominicana",Tiguerito TV
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rSIB579.jpeg" group-title="República Dominicana",TNE Canal 58
-#OFF# http://latinstream.xyz/PFj5kWPF7N/CKYprEyEeW/296021
 #EXTINF:-1 tvg-id="" tvg-logo="https://gia.tv/streams/pptv/208314.jpg" group-title="República Dominicana",Tom And Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3900-294x165-FFFFFF.jpg" group-title="República Dominicana",Topical Moon RD
@@ -445,22 +391,14 @@ https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
 https://streamunoapp.com:3086/live/telemileniolive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e2BXUdH.png" group-title="República Dominicana",TV 10 San Juan
 https://59d39900ebfb8.streamlock.net/tv10sanjuan/tv10sanjuan/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="República Dominicana",TV Canal Sur
-https://domapp2.site:2087/Juanandres2026/Navegador255/614782
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sMF7JDm.png" group-title="República Dominicana",TV Cotui Canal 31
-#OFF# http://latinstream.xyz/PFj5kWPF7N/CKYprEyEeW/2353957
 #EXTINF:-1 tvg-id="" tvg-logo="https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png" group-title="República Dominicana",TV Daja
 https://edge.essastream.com/dajatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ptQyOMi.png" group-title="República Dominicana",TV Higuey Digital
 https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eThe0io.png" group-title="República Dominicana",TV Hispanic
 https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FZUQ2WP.png" group-title="República Dominicana",TV Luz
-#OFF# http://latinstream.xyz/PFj5kWPF7N/CKYprEyEeW/1083943
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DHyRWc0.png" group-title="República Dominicana",TV Montana Canal 10
 http://plan-ia.ca/MF4L1FC725PVDHU/OBJ9WyobU4/30559
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/r3urUnn.png" group-title="República Dominicana",TV Plata
-#OFF# http://plan-ia.ca/MF4L1FC725PVDHU/OBJ9WyobU4/575622
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/G7X4LQI.png" group-title="República Dominicana",TV Quisqueya
 https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ahz7X7u.png" group-title="República Dominicana",TV Éxitos
@@ -561,12 +499,8 @@ http://velive.lat:8080/MikeRodri10/Mike202610/21466
 http://polarbear.mov/live/Sandra123/Sandra123/830252.m3u8
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-name=" Bandamax" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/BDMAX-logo.png" group-title="Entretenimiento", Bandamax
 http://polarbear.mov/live/Sandra123/Sandra123/3245.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-name=" Bodas+" tvg-logo="https://logo.m3uassets.com/dashlatinx.png" group-title="Entretenimiento", Bodas+
-#OFF# http://polarbear.mov/live/Sandra123/Sandra123/707024.m3u8
 #EXTINF:-1 tvg-id="BuenViaje.es" tvg-name=" Buen Viaje" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d468b64b-c6a3-427f-a5c0-331bb6478407/channel_logo_1500x1000_light.png.png" group-title="Entretenimiento", Buen Viaje
 http://polarbear.mov/live/Sandra123/Sandra123/830173.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-name=" Butaca TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ebdc98b6-adde-4e50-b1e9-ab7b3bfecd23/Butaca_Tv_pack_1500X1000_RDX.png" group-title="Entretenimiento", Butaca TV
-#OFF# http://polarbear.mov/live/Sandra123/Sandra123/830172.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" C4 en Alerta" tvg-logo="https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png" group-title="Entretenimiento", C4 en Alerta
 http://lowteck.xyz:83/Jackplatinum/3657842091/826779
 #EXTINF:-1 tvg-id="Canal22.us" tvg-name=" Canal 22 Internacional" tvg-logo="https://logo.m3uassets.com/canal22internacional.png" group-title="Entretenimiento", Canal 22 Internacional
@@ -593,20 +527,16 @@ http://lowteck.xyz:83/Jackplatinum/3657842091/826806
 http://polarbear.mov/live/Sandra123/Sandra123/707059.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" CG MMA En Español" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600005ST_20260421T141742SQUARE.png" group-title="Entretenimiento", CG MMA En Español
 http://polarbear.mov/live/Sandra123/Sandra123/830211.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-name=" Cheaters en Espanol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0328822-b149-4524-ad89-1c87c2543268/FilmRise_CheatersEnEspanol_Logo_ColorRDX.png" group-title="Entretenimiento", Cheaters en Espanol
-#OFF# http://polarbear.mov/live/Sandra123/Sandra123/830169.m3u8
 #EXTINF:-1 tvg-id="ClanTVE.es" tvg-name=" CLAN" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/a/ad/Clan_TVE_-1.png" group-title="Entretenimiento", CLAN
 http://polarbear.mov/live/Sandra123/Sandra123/3236.m3u8
 #EXTINF:-1 tvg-id="Clic.us" tvg-name=" Clic" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5524a542-5952-4090-9e2e-780e1a3adc22/clic_logo_light_-_James_Stowe_Color_rdx.png" group-title="Entretenimiento", Clic
 http://polarbear.mov/live/Sandra123/Sandra123/830168.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Combate Global MMA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600006R8_20260421T143045SQUARE.png" group-title="Entretenimiento", Combate Global MMA
 http://polarbear.mov/live/Sandra123/Sandra123/830210.m3u8
-#OFF# #EXTINF:-1 tvg-id="ComedyCentralenespañol.pluto" tvg-name=" Comedy Central en español" tvg-logo="https://logo.m3uassets.com/comedycentralenespanol.png" group-title="Entretenimiento", Comedy Central en español
-#OFF# http://latinstream.xyz/PFj5kWPF7N/CKYprEyEeW/386489
+#EXTINF:-1 tvg-id="ComedyCentralenespañol.pluto" tvg-name=" Comedy Central en español" tvg-logo="https://logo.m3uassets.com/comedycentralenespanol.png" group-title="Entretenimiento", Comedy Central en español
+http://latinstream.xyz/PFj5kWPF7N/CKYprEyEeW/386489
 #EXTINF:-1 tvg-id="" tvg-name=" Como Dice el Dicho" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700004ME_20260421T142145SQUARE.png" group-title="Entretenimiento", Como Dice el Dicho
 http://polarbear.mov/live/Sandra123/Sandra123/830234.m3u8
-#OFF# #EXTINF:-1 tvg-id="ConstruccionesAsombrosas.pluto" tvg-name=" Construcciones Asombrosas" tvg-logo="https://media.licdn.com/dms/image/v2/C4D0BAQGN9_LalhaP3A/company-logo_200_200/company-logo_200_200/0/1630550828826?e=2147483647&v=beta&t=hdOUoKG8YnnmB_9sDXImwxnm83koNkMipGB4E_MdtTM" group-title="Entretenimiento", Construcciones Asombrosas
-#OFF# http://latinstream.xyz/PFj5kWPF7N/CKYprEyEeW/1519518
 #EXTINF:-1 tvg-id="" tvg-name=" Cops en Espanol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png" group-title="Entretenimiento", Cops en Espanol
 http://lowteck.xyz:83/Jackplatinum/3657842091/826806
 #EXTINF:-1 tvg-id="Corazon.us" tvg-name=" Corazon" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08be4d01-35de-46c7-b600-546316cbaf4a/corazon_logo_light_-_James_Stowe.png" group-title="Entretenimiento", Corazon
@@ -639,10 +569,6 @@ http://polarbear.mov/live/Sandra123/Sandra123/830166.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/707025.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name=" EstrellaTV" tvg-logo="https://logo.m3uassets.com/estrellatv.png" group-title="Entretenimiento", EstrellaTV
 http://polarbear.mov/live/Sandra123/Sandra123/707027.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-name=" Expedientes Sobrenaturales" tvg-logo="https://logo.m3uassets.com/sobrenatural.png" group-title="Entretenimiento", Expedientes Sobrenaturales
-#OFF# http://polarbear.mov/live/Sandra123/Sandra123/707014.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-name=" Foodies" tvg-logo="https://logo.m3uassets.com/foodies.png" group-title="Entretenimiento", Foodies
-#OFF# http://polarbear.mov/live/Sandra123/Sandra123/707021.m3u8
 #EXTINF:-1 tvg-id="FOROtv.mx" tvg-name=" FOROtv" tvg-logo="https://logo.m3uassets.com/forotv.png" group-title="Entretenimiento", FOROtv
 http://polarbear.mov/live/Sandra123/Sandra123/3223.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" FreeTV Accion" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e9130d6-b68b-4d8e-889f-7eef2ad2c0c4/FreeTVAccion_Circle_1500x1000_-_Ralph_Campillo__1_Color.png" group-title="Entretenimiento", FreeTV Accion
@@ -651,20 +577,10 @@ http://polarbear.mov/live/Sandra123/Sandra123/830196.m3u8
 http://003391.xyz/968a004697be/ff265c0bb5/1476384
 #EXTINF:-1 tvg-id="" tvg-name=" FreeTV Estelar" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b96e6421-c1fa-4773-8a6d-3e980fcd1084/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo__1_.png" group-title="Entretenimiento", FreeTV Estelar
 http://lowteck.xyz:83/Jackplatinum/3657842091/826863
-#OFF# #EXTINF:-1 tvg-id="" tvg-name=" FreeTV Familia" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6eaccf07-a855-4636-ae58-bb9405a021f7/FreeTVFamilia_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Entretenimiento", FreeTV Familia
-#OFF# http://latinstream.xyz/PFj5kWPF7N/CKYprEyEeW/1757218
-#OFF# #EXTINF:-1 tvg-id="" tvg-name=" FreeTV Hits" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b1c2a69a-6ca6-4c92-b090-53de85f49c8f/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png" group-title="Entretenimiento", FreeTV Hits
-#OFF# http://latinstream.xyz/PFj5kWPF7N/CKYprEyEeW/1757216
-#OFF# #EXTINF:-1 tvg-id="" tvg-name=" FreeTV Horror" tvg-logo="https://provider-static.plex.tv/epg/cms/production/420ddff5-f7d5-4ac5-8a43-722d3c940ed0/FreeTVHorror_Circle_1500x1000_-_Ralph_Campillo_WHITE_ATTRIBUTIONRDX__1_.png" group-title="Entretenimiento", FreeTV Horror
-#OFF# http://polarbear.mov/live/Sandra123/Sandra123/830191.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-name=" FreeTV Live" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c76bfce2-95b6-4ce7-b817-2eb3a3de13bf/FreeTV_Live.png" group-title="Entretenimiento", FreeTV Live
-#OFF# http://latinstream.xyz/PFj5kWPF7N/CKYprEyEeW/1757217
 #EXTINF:-1 tvg-id="" tvg-name=" FreeTV Sureno" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cc2b79be-49b6-49b0-95dc-be39ab298aca/FreeTVSureno_Circle_1500x1000_-_Ralph_Campillo__1_.png" group-title="Entretenimiento", FreeTV Sureno
 http://lowteck.xyz:83/Jackplatinum/3657842091/826864
 #EXTINF:-1 tvg-id="" tvg-name=" Galanes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700002DU_20260421T142154SQUARE.png" group-title="Entretenimiento", Galanes
 http://polarbear.mov/live/Sandra123/Sandra123/830224.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-name=" Gata Salvaje" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6690839-646f-43fc-bd75-b508f908d1ee/Plex_GataSalvaje_750x500_ChannelLogo_Light_RDX.png" group-title="Entretenimiento", Gata Salvaje
-#OFF# http://polarbear.mov/live/Sandra123/Sandra123/830177.m3u8
 #EXTINF:-1 tvg-id="GOL.es" tvg-name=" GOL TV" tvg-logo="https://logo.m3uassets.com/goltvlatinamerica.png" group-title="Entretenimiento", GOL TV
 http://003391.xyz/968a004697be/ff265c0bb5/1199316
 #EXTINF:-1 tvg-id="" tvg-name=" Hallmark en español" tvg-logo="https://logo.m3uassets.com/hallmark.png" group-title="Entretenimiento", Hallmark en español
@@ -677,10 +593,6 @@ http://polarbear.mov/live/Sandra123/Sandra123/267603.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/707054.m3u8
 #EXTINF:-1 tvg-id="HolaTV.mx" tvg-name=" HOLA! TV" tvg-logo="https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg" group-title="Entretenimiento", HOLA! TV
 http://polarbear.mov/live/Sandra123/Sandra123/3216.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-name=" Ideas En 5 Minutos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dfe80db0-76d2-4437-bae4-470236b57cfb/1500x1000_dark_-_Irina_Larionova.png" group-title="Entretenimiento", Ideas En 5 Minutos
-#OFF# http://polarbear.mov/live/Sandra123/Sandra123/830164.m3u8
-#OFF# #EXTINF:-1 tvg-id="Investiga.pluto" tvg-name=" Investiga" tvg-logo="https://logo.m3uassets.com/investigation.png" group-title="Entretenimiento", Investiga
-#OFF# http://vortyxal.com/MAGRQ4P2V5/02uF4MKrT2/364723
 #EXTINF:-1 tvg-id="" tvg-name=" Iron Chef en espanol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7e7e0544-7004-46ac-bea2-b21a2a7ab166/Plex_xumoTile_FilmRise_IronChefEnEspanol_logo_color_white_text.png" group-title="Entretenimiento", Iron Chef en espanol
 http://polarbear.mov/live/Sandra123/Sandra123/830163.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" La Rosa de Guadalupe" tvg-logo="http://p-img.movetv.com/1280x720/99dd1671839bc702aa066a24c46dfdb6.png" group-title="Entretenimiento", La Rosa de Guadalupe
@@ -705,8 +617,6 @@ http://polarbear.mov/live/Sandra123/Sandra123/830162.m3u8
 http://lowteck.xyz:83/Jackplatinum/3657842091/826921
 #EXTINF:-1 tvg-id="" tvg-name=" Moovimex" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8cc525b5848c561da7e2d47b934adf0c/rokuFeed/assets/949ad8bc33d5535ea1c104214bef0c15.jpg" group-title="Entretenimiento", Moovimex
 http://003391.xyz/968a004697be/ff265c0bb5/1476261
-#OFF# #EXTINF:-1 tvg-id="" tvg-name=" Mundo geek" tvg-logo="https://logo.m3uassets.com/mundogeek.png" group-title="Entretenimiento", Mundo geek
-#OFF# http://polarbear.mov/live/Sandra123/Sandra123/707017.m3u8
 #EXTINF:-1 tvg-id="Másadrenalina.pluto" tvg-name=" Más adrenalina" tvg-logo="https://iconape.com/wp-content/files/xx/285625/png/285625.png" group-title="Entretenimiento", Más adrenalina
 http://velive.lat:8080/MikeRodri10/Mike202610/429651
 #EXTINF:-1 tvg-id="NatGeoMundo.us" tvg-name=" Nat Geo Mundo" tvg-logo="https://p1.hiclipart.com/preview/323/20/6/tv-channel-icons-pack-nat-geo-mundo-color-png-icon.jpg" group-title="Entretenimiento", Nat Geo Mundo
@@ -745,20 +655,12 @@ http://polarbear.mov/live/Sandra123/Sandra123/830227.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/830158.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" RTP Internacional" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" group-title="Entretenimiento", RTP Internacional
 http://polarbear.mov/live/Sandra123/Sandra123/3195.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Runtime Espanol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/158f2ae8-032e-4f0e-8143-b9939c2fd5a2/Runtime_USH_Light_Logo_-_JP_Garcia.png" group-title="Entretenimiento", Runtime Espanol
-http://lowteck.xyz:83/Jackplatinum/3657842091/826984
-#OFF# #EXTINF:-1 tvg-id="" tvg-name=" Saborear TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b0e8cad-4177-4427-90c2-dad12ed8e5c5/Saboreartv_1500x1000-_For_light_backgrounds.png" group-title="Entretenimiento", Saborear TV
-#OFF# http://polarbear.mov/live/Sandra123/Sandra123/830155.m3u8
-#OFF# #EXTINF:-1 tvg-id="SaladeEmergencias:HistoriasInéditas.pluto" tvg-name=" Sala de Emergencias Historias Inéditas" tvg-logo="https://logo.m3uassets.com/prontosocorrohistoriasdeemergencia.png" group-title="Entretenimiento", Sala de Emergencias Historias Inéditas
-#OFF# http://latinstream.xyz/PFj5kWPF7N/CKYprEyEeW/386483
 #EXTINF:-1 tvg-id="SomosNovelas.us" tvg-name=" Somos Novelas" tvg-logo="https://logo.m3uassets.com/tringnovelas.png" group-title="Entretenimiento", Somos Novelas
 http://polarbear.mov/live/Sandra123/Sandra123/707051.m3u8
 #EXTINF:-1 tvg-id="Escape.sxm" tvg-name=" Sony One Escape Perfecto" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3a7f2ae8da19530ba33c0c3502becd32/rokuFeed/assets/9aed2b616f4d57b6819cb58ab2a688d5.jpg" group-title="Entretenimiento", Sony One Escape Perfecto
 http://polarbear.mov/live/Sandra123/Sandra123/707041.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Spark TV Luz y Amor" tvg-logo="https://provider-static.plex.tv/epg/cms/production/332040a1-861c-4db8-b4fa-56cdcf686cb4/Plex_SparkTV_key-art_Spanish-RDX.png" group-title="Entretenimiento", Spark TV Luz y Amor
 http://polarbear.mov/live/Sandra123/Sandra123/830154.m3u8
-#EXTINF:-1 tvg-id="Telecentro.dr" tvg-name=" TeleCentro" tvg-logo="https://logo.m3uassets.com/telecentro.png" group-title="Entretenimiento", TeleCentro
-http://polarbear.mov/live/Sandra123/Sandra123/3192.m3u8
 #EXTINF:-1 tvg-id="TeleFE.us" tvg-name=" Telefe" tvg-logo="https://logo.m3uassets.com/telefeint.png" group-title="Entretenimiento", Telefe
 http://polarbear.mov/live/Sandra123/Sandra123/3191.m3u8
 #EXTINF:-1 tvg-id="TeleOnce.pr" tvg-name=" Teleonce America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/af7d82cf-f17f-40b5-b086-ed6a61c17d2e/logo_Teleonce_AmericaRDX_COLOR.png" group-title="Entretenimiento", Teleonce America
@@ -777,8 +679,6 @@ http://polarbear.mov/live/Sandra123/Sandra123/830235.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/3208.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TRACE Latina" tvg-logo="https://provider-static.plex.tv/epg/cms/production/04b0a12e-b393-4456-9927-a48b793b623a/trace_latina_light_-_Nathan_BECKER.png" group-title="Entretenimiento", TRACE Latina
 http://polarbear.mov/live/Sandra123/Sandra123/830208.m3u8
-#OFF# #EXTINF:-1 tvg-id="Discovery.es" tvg-name=" TuDiscovery" tvg-logo="https://logo.m3uassets.com/discovery.png" group-title="Entretenimiento", TuDiscovery
-#OFF# http://polarbear.mov/live/Sandra123/Sandra123/707016.m3u8
 #EXTINF:-1 tvg-id="TVE.mx" tvg-name=" TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/3840px-TVE.svg.png" group-title="Entretenimiento", TVE
 http://polarbear.mov/live/Sandra123/Sandra123/707005.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Vecinos" tvg-logo="http://p-img.movetv.com/1280x720/cf6f265df8aeeadc23385a166444257a.png" group-title="Entretenimiento", Vecinos
@@ -787,12 +687,6 @@ http://polarbear.mov/live/Sandra123/Sandra123/830225.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/707004.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Vevo Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20260303T094222SQUARE.png" group-title="Entretenimiento", Vevo Latino
 http://003391.xyz/968a004697be/ff265c0bb5/1476033
-#OFF# #EXTINF:-1 tvg-id="VevoRegionalMexicano.pluto" tvg-name=" Vevo Regional Mexicano" tvg-logo="https://e7.pngegg.com/pngimages/510/93/png-clipart-vevo-logo-music-video-youtube-logo-text-trademark.png" group-title="Entretenimiento", Vevo Regional Mexicano
-#OFF# http://polarbear.mov/live/Sandra123/Sandra123/707007.m3u8
-#OFF# #EXTINF:-1 tvg-id="VevoÍconosLatinos.pluto" tvg-name=" Vevo Íconos Latinos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbku6wRr8cxE-MuED6Do92aPQ7ouoUQXs_pg&s" group-title="Entretenimiento", Vevo Íconos Latinos
-#OFF# http://polarbear.mov/live/Sandra123/Sandra123/707006.m3u8
-#OFF# #EXTINF:-1 tvg-id="VidasExtremas.pluto" tvg-name=" Vidas Extremas" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/BAA7B0C1-76FD-4DDD-87EA-7034BD93028F/3-1x1.png/900" group-title="Entretenimiento", Vidas Extremas
-#OFF# http://polarbear.mov/live/Sandra123/Sandra123/707019.m3u8
 #EXTINF:-1 tvg-id="VideoRola.us" tvg-name=" Videorola" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/VR-2024.png/revision/latest?cb=20240910031904" group-title="Entretenimiento", Videorola
 http://polarbear.mov/live/Sandra123/Sandra123/707003.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" ViX Grandes Parejas" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100012EJ_20260421T142342SQUARE.png" group-title="Entretenimiento", ViX Grandes Parejas
@@ -837,8 +731,6 @@ http://lowteck.xyz:83/Jackplatinum/3657842091/826984
 http://polarbear.mov/live/Sandra123/Sandra123/622032.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astros vs Padres Español @ Aug 9 20:00 PM :Peacock Event 10" tvg-logo="https://logo.m3uassets.com/nbcpeacock.png" group-title="Deportes",Astros vs Padres Español @ Aug 9 20:00 PM :Peacock Event 10
 http://itsidletime.xyz:8080/Trial/Trial123/228208
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports XTRA En Español" tvg-logo="https://logo.m3uassets.com/beinsportsxtraenespanol.png" group-title="Deportes",beIN Sports XTRA En Español
-http://polarbear.mov/live/Sandra123/Sandra123/710440.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eredivisie: En Español PEC Zwolle vs Ajax @ Aug 9 8:29 AM :ESPN+ 06" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="Deportes",Eredivisie: En Español PEC Zwolle vs Ajax @ Aug 9 8:29 AM :ESPN+ 06
 http://velive.lat:8080/MikeRodri10/Mike202610/369715
 #EXTINF:-1 tvg-id="FOXSports.mx" tvg-name="Fox Sports en Espanol" tvg-logo="https://logo.m3uassets.com/foxsportstennessee.png" group-title="Deportes",Fox Sports en Espanol
@@ -917,8 +809,6 @@ http://polarbear.mov/live/Sandra123/Sandra123/830250.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/707046.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Telemundo Noticias California" tvg-logo="https://image.xumo.com/v1/channels/channel/99951225/168x168.webp?type=color_onBlack" group-title="Noticias", Telemundo Noticias California
 http://polarbear.mov/live/Sandra123/Sandra123/830255.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Telemundo Noticias California" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvb2jZYNNBzI3rttB3je2gUS9Wl5ODLiiCeg&s" group-title="Noticias", Telemundo Noticias California
-http://polarbear.mov/live/Sandra123/Sandra123/707032.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Telemundo Noticias Florida" tvg-logo="https://image.xumo.com/v1/channels/channel/99951227/168x168.webp?type=color_onBlack" group-title="Noticias", Telemundo Noticias Florida
 http://polarbear.mov/live/Sandra123/Sandra123/830254.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Telemundo Noticias Noreste" tvg-logo="https://image.xumo.com/v1/channels/channel/99951228/168x168.webp?type=color_onBlack" group-title="Noticias", Telemundo Noticias Noreste
@@ -931,8 +821,6 @@ http://polarbear.mov/live/Sandra123/Sandra123/3390.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/707063.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="USA Cine Latino" tvg-logo="https://logo.m3uassets.com/cine.png" group-title="Cine y Series",USA Cine Latino
 http://polarbear.mov/live/Sandra123/Sandra123/3161.m3u8
-#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="USA Cinemax Latino" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="Cine y Series",USA Cinemax Latino
-http://polarbear.mov/live/Sandra123/Sandra123/3160.m3u8
 #EXTINF:-1 tvg-id="Cinemax.dr" tvg-name="USA Cinemax Latino" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="Cine y Series",USA Cinemax Latino
 http://polarbear.mov/live/Sandra123/Sandra123/808.m3u8
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="USA Cinemax Latino UHD" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="Cine y Series",USA Cinemax Latino UHD
@@ -979,8 +867,6 @@ http://polarbear.mov/live/Sandra123/Sandra123/707061.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/707060.m3u8
 #EXTINF:-1 tvg-id="CinemaDinamita.us" tvg-name=" Cinema Dinamita" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/1588706493698-9FZI0PVBWD50JVE24B0K/network_cinemadinamita.png" group-title="Cine y Series", Cinema Dinamita
 http://polarbear.mov/live/Sandra123/Sandra123/3237.m3u8
-#EXTINF:-1 tvg-id="Cinevault.us" tvg-name=" CINEVAULT" tvg-logo="https://logo.m3uassets.com/cinelatino.png" group-title="Cine y Series", CINEVAULT
-http://polarbear.mov/live/Sandra123/Sandra123/707066.m3u8
 #EXTINF:-1 tvg-id="DePelicula.us" tvg-name=" DP De Pelicula" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/PELIC-logo.png" group-title="Cine y Series", DP De Pelicula
 http://polarbear.mov/live/Sandra123/Sandra123/3229.m3u8
 #EXTINF:-1 tvg-id="DePelicula.dr" tvg-name=" DP De Pelicula Clasico" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/PCLAS-logo.png" group-title="Cine y Series", DP De Pelicula Clasico
@@ -1003,8 +889,6 @@ http://polarbear.mov/live/Sandra123/Sandra123/830236.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/762.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine en Español HD ▪ᴘʟᴇx▪" tvg-logo="https://provider-static.plex.tv/epg/cms/production/18be52bf-43c6-4ac0-b3bf-ed51b252cb89/Cine_en_espanol_logo_1500x1000px_WHT.png" group-title="Cine y Series",Cine en Español HD ▪ᴘʟᴇx▪
 http://003391.xyz/968a004697be/ff265c0bb5/1954704
-#OFF# #EXTINF:-1 tvg-id="" tvg-name="FILMRISE: Cheaters en Español HD ▪ᴘʟᴇx▪" tvg-logo="https://s12.gifyu.com/images/SrYC6.webp" group-title="Cine y Series",FILMRISE: Cheaters en Español HD ▪ᴘʟᴇx▪
-#OFF# http://latinstream.xyz/PFj5kWPF7N/CKYprEyEeW/1516124
 #EXTINF:-1 tvg-id="DiscoveryFamiliaEnEspanol.us" tvg-name=" Discovery Familia" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/DSFAM-logo.png" group-title="Infantil", Discovery Familia
 http://polarbear.mov/live/Sandra123/Sandra123/3231.m3u8
 #EXTINF:-1 tvg-id="StingrayRomanceLatino.us" tvg-name="[US] STINGRAY ROMANCE LATINO FHD [sᴛᴠ+]" tvg-logo="https://logo.m3uassets.com/stingrayromance.png" group-title="Música",[US] STINGRAY ROMANCE LATINO FHD [sᴛᴠ+]
@@ -1029,14 +913,6 @@ http://polarbear.mov/live/Sandra123/Sandra123/830218.m3u8
 http://polarbear.mov/live/Sandra123/Sandra123/830215.m3u8
 #EXTINF:-1 tvg-id="Platino.mx" tvg-name="USA Music Choice Video | Pop Latino" tvg-logo="https://logo.m3uassets.com/musicchoicelightclassical.png" group-title="Música",USA Music Choice Video | Pop Latino
 http://polarbear.mov/live/Sandra123/Sandra123/1127.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Street Food Latin America" tvg-logo="" group-title="24/7",24/7 Street Food Latin America
-http://polarbear.mov/live/Sandra123/Sandra123/90700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Spanish Princess" tvg-logo="" group-title="24/7",24/7 The Spanish Princess
-http://polarbear.mov/live/Sandra123/Sandra123/291493.m3u8
-#EXTINF:-1 tvg-id="AdrenalinaPuraTV.us@SD" tvg-logo="https://i.imgur.com/Pvid2iH.png" group-title="Películas",Adrenalina Pura TV (720p)
-https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
-#EXTINF:-1 tvg-id="AlternaTV.ar@SD" tvg-logo="https://tv.alterna.ar/alternatv.png" group-title="Películas",Alterna TV (720p) [Not 24/7]
-https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Películas",AMC Latin America (1080p)
 http://15.204.246.24:8080/AMCHD/index.m3u8
 #EXTINF:-1 tvg-id="AuroraMediaFilms.gt@SD" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="Películas",Aurora Media Films (720p)
@@ -1049,22 +925,14 @@ http://177.234.249.178:8888/AXN/index.m3u8
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Películas",AXN Latin America South
 http://45.228.235.116:8000/play/a0iy/index.m3u8
-#EXTINF:-1 tvg-id="Boreal.do@SD" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Películas",Boreal (720p) [Not 24/7]
-https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CanalCineDios.co@SD" tvg-logo="https://i.imgur.com/S4xqZgV.png" group-title="Películas",Canal Cine Dios
 https://canal.mediaserver.com.co/live/cinedios.m3u8
-#EXTINF:-1 tvg-id="CINDIETV.br@HD" tvg-logo="https://a.jsrdn.com/hls/23208/cindie-tv/logo_20250225_222520_68.png" group-title="Películas",CINDIE TV (1080p)
-https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 #EXTINF:-1 tvg-id="CineAdrenalina.us@SD" tvg-logo="https://i.imgur.com/njCKaMv.png" group-title="Películas",Cine adrenalina
 https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
 #EXTINF:-1 tvg-id="CineAmor.us@SD" tvg-logo="https://i.imgur.com/eAS86qH.png" group-title="Películas",Cine Amor
 https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineComedia.us@US" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG_1732662798298.png" group-title="Películas",Cine comedia
 https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
-#OFF# #EXTINF:-1 tvg-id="CineFamiliar.us@SD" tvg-logo="https://i.imgur.com/ZgP2hE3.png" group-title="Películas",Cine Familiar (1080p)
-#OFF# http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8
-#OFF# #EXTINF:-1 tvg-id="CineHispano.us@SD" tvg-logo="https://i.imgur.com/tfgyfrw.png" group-title="Películas",Cine Hispano (1080p)
-#OFF# http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CineMexicano.us@SD" tvg-logo="https://i.imgur.com/BhHKphL.png" group-title="Películas",Cine Mexicano (1080p)
 http://177.234.249.178:8888/AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="CinePremiere.us@SD" tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="Películas",Cine Premiere
@@ -1081,14 +949,8 @@ http://15.204.246.24:8080/CinecanalHD/index.m3u8
 http://138.121.15.230:9002/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Películas",Cinecanal South (1080p)
 http://45.162.193.35/CINECANAL/index.m3u8
-#OFF# #EXTINF:-1 tvg-id="CineLatino.mx@SD" tvg-logo="https://i.imgur.com/2V0R0xT.png" group-title="Películas",CineLatino (720p)
-#OFF# http://45.162.193.35/CINELATINO_HD/index.m3u8
 #EXTINF:-1 tvg-id="CosmosTv.ar@HD" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Películas",Cosmos Tv
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 tvg-id="CosmosTv.ar@SD" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Películas",Cosmos Tv
-https://canaletaplus.com:3922/live/cosmoslive.m3u8
-#OFF# #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Películas",De Pelicula Latin America (1080p)
-#OFF# http://38.19.41.46:8081/DEPELICULA/index.m3u8
 #EXTINF:-1 tvg-id="DePeliculaUS.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/960px-DPel%C3%ADcula_2021.svg.png" group-title="Películas",De Pelicula US (720p)
 http://138.121.15.230:9002/DEPELICULA/index.m3u8
 #EXTINF:-1 tvg-id="DHE.us@SD" tvg-logo="https://i.imgur.com/nsttoEa.png" group-title="Películas",DHE (1080p)
@@ -1097,10 +959,6 @@ http://15.204.246.24:8080/DHEHD/index.m3u8
 https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
 #EXTINF:-1 tvg-id="FilmArts.ar@Panregional" tvg-logo="https://i.imgur.com/ukdmEKD.png" group-title="Películas",Film & Arts (1080p)
 http://003391.xyz/968a004697be/ff265c0bb5/1340243
-#OFF# #EXTINF:-1 tvg-id="Filmex.mx@SD" tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="Películas",Filmex (Xumo) (1080p) [Geo-blocked]
-#OFF# https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
-#OFF# #EXTINF:-1 tvg-id="FilmexClasico.mx@SD" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="Películas",Filmex Clásico (1080p) [Geo-blocked]
-#OFF# https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FXMovieChannel.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png" group-title="Películas",FX Movie Channel HD (1080p)
 https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8
 #EXTINF:-1 tvg-id="LifetimeMovies.us@East" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="Películas",Lifetime Movies (1080p)
@@ -1119,10 +977,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NextHD.py@SD" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Películas",Next HD (480p)
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-#OFF# #EXTINF:-1 tvg-id="OrbitaChileTV.cl@HD" tvg-logo="https://i.imgur.com/gbNh79Z.png" group-title="Películas",Orbita Chile TV (1080p)
-#OFF# https://orbitachiletv.org/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="PantallaClasicaEC.ec@SD" tvg-logo="https://i.imgur.com/mhbERF9.jpg" group-title="Películas",Pantalla Clásica EC (512p) [Not 24/7]
-http://003391.xyz/968a004697be/ff265c0bb5/1013650
 #EXTINF:-1 tvg-id="ParamountNetworkdePlutoTV.de@ES" tvg-logo="https://images.pluto.tv/channels/68d566603d3a9580eb461251/colorLogoPNG_1762199133146.png" group-title="Películas",Paramount Network de Pluto TV
 https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
 #EXTINF:-1 tvg-id="PersianaLatino.fr@SD" tvg-logo="" group-title="Películas",Persiana Latino
@@ -1135,26 +989,16 @@ https://jmp2.uk/plu-645a309c5a0cd5000873f609.m3u8
 https://jmp2.uk/plu-5f1ac2591dd8880007bb7d6d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineAccion.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG_1760378798093.png" group-title="Películas",Pluto TV Cine Acción
 https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineClasico.de@ES" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Clásico
-https://jmp2.uk/plu-61373bb45168fe000773eecd.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineClasico.us@LatAm" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Clásico
-https://jmp2.uk/plu-609059dc63be6e0007b4eca6.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineComedia.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG_1769092378955.png" group-title="Películas",Pluto TV Cine Comedia
 https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineComedia.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG_1732662798298.png" group-title="Películas",Pluto TV Cine Comedia
-https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineCrimen.us@LatAm" tvg-logo="https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Crimen
 https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCinedeautor.de@ES" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="Películas",Pluto TV Cine de autor
 https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineDrama.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Drama
 https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineDrama.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Drama
-https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineEstelar.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Estelar
 https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineEstelar.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1769014514491.png" group-title="Películas",Pluto TV Cine Estelar
-https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineFamilia.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG_1732045254120.png" group-title="Películas",Pluto TV Cine Familia
 https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineInspirador.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6806d519fea7414f33f57016/colorLogoPNG_1746817663597.png" group-title="Películas",Pluto TV Cine Inspirador
@@ -1181,46 +1025,14 @@ https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8
 https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSciFi.de@ES" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" group-title="Películas",Pluto TV Sci-Fi
 https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.us@LatAm" tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" group-title="Películas",Pluto TV Sci-Fi
-https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.us@US" tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" group-title="Películas",Pluto TV Sci-Fi
-https://jmp2.uk/plu-5b4fc274694c027be6ed3eea.m3u8
-#EXTINF:-1 tvg-id="PlutoTVThrillers.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="Películas",Pluto TV Thrillers
-https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
-#EXTINF:-1 tvg-id="PlutoTVWestern.de@ES" tvg-logo="https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG_1732030684562.png" group-title="Películas",Pluto TV Western
-https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
-#EXTINF:-1 tvg-id="PlutoTVZombies.de@ES" tvg-logo="https://images.pluto.tv/channels/65786888b228b7000843ad9a/colorLogoPNG.png" group-title="Películas",Pluto TV Zombies
-https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
-#EXTINF:-1 tvg-id="PopcornCentral.mx@SD" tvg-logo="https://i.imgur.com/ULGVjyC.png" group-title="Películas",Popcorn Central (1080p)
-https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Spain" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Películas",Rakuten TV Action Movies Spain (1080p)
-https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Spain" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Películas",Rakuten TV Comedy Movies Spain (1080p)
-https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaMovies.es@Spain" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Películas",Rakuten TV Drama Movies Spain (1080p)
-https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Spain" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Películas",Rakuten TV Family Movies Spain (1080p)
-https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
-#EXTINF:-1 tvg-id="RakutenTVTopMovies.es@Spain" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Películas",Rakuten TV Top Movies Spain (1080p)
-https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-#EXTINF:-1 tvg-id="RuntimeEspanol.us@SD" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Películas",Runtime Espanol (720p)
-https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
-#EXTINF:-1 tvg-id="SensaCineTVxPluto.de@ES" tvg-logo="https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoPNG_1748957675934.png" group-title="Películas",SensaCine TV x Pluto
-https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
 #EXTINF:-1 tvg-id="SonyCanalNovelas.us@SD" tvg-logo="" group-title="Películas",Sony Canal Novelas
 http://003391.xyz/968a004697be/ff265c0bb5/609700
 #EXTINF:-1 tvg-id="SonyMoviesLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Películas",Sony Movies Latin America (720p)
 http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
-#EXTINF:-1 tvg-id="StarChannel.cl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Películas",Star Channel (720p)
-http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Películas",Star Channel Latin America (1080p)
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us@CentralAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Películas",Star Channel Latin America Central America (1080p)
 https://streamer.metronethn.com/StarChannel/index.m3u8
-#EXTINF:-1 tvg-id="StarTrekVoyager.de@ES" tvg-logo="https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png" group-title="Películas",Star Trek: Voyager
-https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
-#EXTINF:-1 tvg-id="StarzCinema.us@East" tvg-logo="https://i.imgur.com/ghzzKoT.png" group-title="Películas",Starz Cinema (720p)
-http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="XtremaAccion.ar@SD" tvg-logo="https://i.imgur.com/z5NwizH.png" http-referrer="https://xtrematv.com/?p=1434" group-title="Películas",Xtrema Accion
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1434
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
@@ -1230,7 +1042,3 @@ https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaTerror.ar@SD" tvg-logo="https://i.imgur.com/FcaTUym.png" http-referrer="https://xtrematv.com/?p=1456" group-title="Películas",Xtrema Terror
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
-#EXTINF:-1 tvg-id="CineFriki.es@SD" tvg-logo="https://i.imgur.com/b3Ospym.png" group-title="Películas",Zylo Cine Friki (1080p)
-https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
-#EXTINF:-1 tvg-id="CineWestern.es@SD" tvg-logo="https://i.imgur.com/2UROzSc.png" group-title="Películas",Zylo Cine Western (1080p)
-https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8

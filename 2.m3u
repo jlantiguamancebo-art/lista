@@ -454,9 +454,9 @@ http://luxury-tv.us/tvmario2026/M7887357/769649
 #EXTINF:-1 tvg-id="Discovery.es" tvg-name="USA Discovery Turbo" tvg-logo="https://d3hjzzsa8cr26l.cloudfront.net/2f509bab-1252-11e8-a56d-535a4e504290.jpg" group-title="Entretenimiento",USA Discovery Turbo
 http://38.134.250.110:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="USA Discovery Español" tvg-logo="https://d3hjzzsa8cr26l.cloudfront.net/2f509bab-1252-11e8-a56d-535a4e504290.jpg" group-title="Entretenimiento",USA Discovery Theater HD
-http://luxury-tv.us/tvmario2026/M7887357/769649
+http://181.224.200.5:2277/play/a0bj/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="USA Discovery Español" tvg-logo="https://d3hjzzsa8cr26l.cloudfront.net/2f509bab-1252-11e8-a56d-535a4e504290.jpg" group-title="Entretenimiento",USA Discovery Theater 4k
-http://luxury-tv.us/tvmario2026/M7887357/769649
+http://181.224.200.5:2277/play/a0bj/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.es" tvg-name="USA Discovery Español" tvg-logo="https://logo.m3uassets.com/discoveryespanol.png" group-title="Entretenimiento",USA Discovery Español
 http://luxury-tv.us/tvmario2026/M7887357/769649
 #EXTINF:-1 tvg-id="" tvg-name="USA El Rey Rebel" tvg-logo="https://logo.m3uassets.com/rebeltv.png" group-title="Entretenimiento",USA El Rey Rebel

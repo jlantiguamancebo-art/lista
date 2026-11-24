@@ -4,25 +4,25 @@ http://45.171.108.253:8888/TELEANTILLAS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3AqCAji.png" group-title="República Dominicana",04 - Canal 4 RD
 https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemicroInternacional.dr" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="República Dominicana",05 - Telemicro 
-http://luxury-tv.us/tvmario2026/M7887357/748973
+http://luxury-tv.us/L20260704/L20260704/748973
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gK0M1jB.png" group-title="República Dominicana",06 - Canal del Sol
 https://stream.canaldelsol.com/sol26/live_1080.m3u8
 #EXTINF:-1 tvg-id="Canal7.dr" tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="República Dominicana",07 - Antena 7
-http://luxury-tv.us/tvmario2026/M7887357/745845
+http://luxury-tv.us/L20260704/L20260704/745845
 #EXTINF:-1 tvg-id="CDNDeportes.dr" tvg-logo="https://i.imgur.com/eQyjIgf.png" group-title="República Dominicana",08 - CDN Deportes
 https://hls.tvabierta.net/hls/036.m3u8
 #EXTINF:-1 tvg-id="ColorVision.dr"  tvg-logo="https://colorvision.com.do/wp-content/uploads/logo.png" group-title="República Dominicana",09 - Color Vision
 #EXTVLCOPT:http-user-agent=VLC/3.0.21 LibVLC/3.0.21
 http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/601495
 #EXTINF:-1 tvg-id="ColorVision.dr" tvg-logo="https://colorvision.com.do/wp-content/uploads/logo.png" group-title="República Dominicana",09 - Color Vision 2
-http://telepluspromax.xyz/live/VecP4xqXpy/2nNFq5EkfW/294427.ts
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/601495
 #EXTINF:-1 tvg-id="Telesistema11.dr" tvg-logo="https://i.imgur.com/ZzeZKCu.png" group-title="República Dominicana",11 - Telesistema 11
 #EXTVLCOPT:http-user-agent=VLC/3.0.21 LibVLC/3.0.21
-http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/1368
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/601505
 #EXTINF:-1 tvg-id="Telecentro.dr" tvg-logo="https://i.imgur.com/F17zNXh.png" group-title="República Dominicana",13 - Telecentro
-http://luxury-tv.us/tvmario2026/M7887357/748946
+http://luxury-tv.us/L20260704/L20260704/748946
 #EXTINF:-1 tvg-id="Telemicro.dr" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="República Dominicana",15 - Digital 15
-http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/601496
 #EXTINF:-1 tvg-id="Teleunion.dr" tvg-logo="https://i.imgur.com/vTfxkjW.png" group-title="República Dominicana",16 - Teleunion
 http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gVtLpMD.png" group-title="República Dominicana",17 - Entelevision
@@ -32,13 +32,13 @@ https://edge.essastream.com/noticias16/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mJN2XNm.png" group-title="República Dominicana",19 - Cinevision Canal 19
 https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2OpCxa6.png" group-title="República Dominicana",20 - Nexxo TV
-http://luxury-tv.us/tvmario2026/M7887357/748566
+http://luxury-tv.us/L20260704/L20260704/748566
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="República Dominicana",21 - Antena 21
-http://luxury-tv.us/tvmario2026/M7887357/745843
+http://luxury-tv.us/L20260704/L20260704/745843
 #EXTINF:-1 tvg-id="" tvg-logo="https://dominicanchannels.com/wp-content/uploads/ccviison-1.png" group-title="República Dominicana",22 - CV Vision TV
 https://eu1.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QpnctoU.png" group-title="República Dominicana",23 - Telefuturo
-http://luxury-tv.us/tvmario2026/M7887357/748959
+http://luxury-tv.us/L20260704/L20260704/748959
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rI8c5UM.png" group-title="República Dominicana",24 - Telesantodomingo
 https://vdopanel.jlahozconsulting.com:3769/live/santodomingolive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XjGb2UM.png" group-title="República Dominicana",26 - Carivision
@@ -56,7 +56,7 @@ http://luxury-tv.us/tvmario2026/M7887357/748884
 #EXTINF:-1 tvg-id="CDN.dr" tvg-logo="https://i.imgur.com/eQyjIgf.png" group-title="República Dominicana",37 - CDN
 http://187.245.231.226:8000/play/a0ss/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jhiZfHf.png" group-title="República Dominicana",38 - Acento TV
-https://acentotv01.streamprolive.com/hls/live.m3u8
+http://luxury-tv.us/L20260704/L20260704/745522
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7Zr79F2.png" group-title="República Dominicana",40 - Señales TV
 https://live.dionelysterrero.com/senalestv/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="República Dominicana",41 - Televida
@@ -74,15 +74,15 @@ https://vpss2003.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/I2wRq88.png" group-title="República Dominicana",89 - Bajo Techo TV
 https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://a7tvjarabacoa.netlify.app/IMG_1968.PNG" group-title="República Dominicana",A7 TV
-http://luxury-tv.us/tvmario2026/M7887357/749086
+http://luxury-tv.us/L20260704/L20260704/749086
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uU01KHz.png" group-title="República Dominicana",Adoram TV
-http://luxury-tv.us/tvmario2026/M7887357/747743
+http://luxury-tv.us/L20260704/L20260704/747743
 #EXTINF:-1 tvg-id="Aguila.sxm" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3770-294x165-FFFFFF.jpg" group-title="República Dominicana",Aguila TV
 https://fox.hostlagarto.com:8081/aguilatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dyJyuXc.png" group-title="República Dominicana",Ahora TV
 https://stream.haislin.com/ahoratv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="República Dominicana",AION TV
-http://luxury-tv.us/tvmario2026/M7887357/745590
+http://luxury-tv.us/L20260704/L20260704/745590
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/C3fdPYGs/Alcarrizo.jpg" group-title="República Dominicana",Alcarrizos TV
 http://latinostream.xyz/Javier17/L20260126/745691
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O6USO8r.png" group-title="República Dominicana",Alegre TV RD
@@ -90,7 +90,7 @@ https://streamunoapp.com:3149/live/alegretvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KWvVLhc.png" group-title="República Dominicana",Altanto TV
 https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/QWR9SOH.png" group-title="República Dominicana",Atabal TV
-http://luxury-tv.us/tvmario2026/M7887357/747795
+http://luxury-tv.us/L20260704/L20260704/747795
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.banivision.com/wp-content/uploads/2023/04/Bani-Vision-Favicon.png" group-title="República Dominicana",Bani Vision
 https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XqQ3kCs.png" group-title="República Dominicana",Bellavision
@@ -104,7 +104,7 @@ https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="República Dominicana",Boreal
 https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k8jxt12.png" group-title="República Dominicana",Cana TV Digital
-http://luxury-tv.us/tvmario2026/M7887357/746502
+http://luxury-tv.us/L20260704/L20260704/746502
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2YvKhjW4/Quisqueya-17-AZUL.png" group-title="República Dominicana",Canal 17 RTVD
 https://domapp2.site:2087/Juanandres2026/Navegador255/13773
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HcLs5eM.png" group-title="República Dominicana",Canal 56
@@ -116,9 +116,9 @@ https://stream.haislin.com/14tv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JO5yuNC.png" group-title="República Dominicana",Canal DTV
 https://s.emisoras.tv:8081/dtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/puOrL7B.jpg" group-title="República Dominicana",Canal Multivision
-http://luxury-tv.us/tvmario2026/M7887357/746638
+http://luxury-tv.us/L20260704/L20260704/746638
 #EXTINF:-1 tvg-id="" tvg-logo="https://canaldahd.com/wp-content/uploads/2023/03/cropped-canaldahdlogo-1.png" group-title="República Dominicana",Canalda 26 HD
-https://canalda.rgradio.net:3084/live/canaldalive.m3u8
+http://luxury-tv.us/L20260704/L20260704/746666
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/isXlMAh.png" group-title="República Dominicana",Cananga TV
 https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="República Dominicana",Cascara TV
@@ -127,8 +127,8 @@ https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
 https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="República Dominicana",Chinola TV
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iHjdckl.png" group-title="República Dominicana",Cibaeña TV
-#OFF# https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iHjdckl.png" group-title="República Dominicana",Cibaeña TV
+https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2PNw6BA.png" group-title="República Dominicana",Cielo TV
 https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg" group-title="República Dominicana",Citrico TV
@@ -162,7 +162,7 @@ https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FQkLIMR.png" group-title="República Dominicana",Digital Vision 63
 http://latinostream.xyz/Javier17/L20260126/748187
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/ccFwraQ.png" group-title="República Dominicana",Ecos Canal 57
-http://luxury-tv.us/tvmario2026/M7887357/748207
+http://luxury-tv.us/L20260704/L20260704/748207
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/Y4ahiYu.png" group-title="República Dominicana",Ecovisión
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://elpituco.com/wp-content/uploads/2021/04/ElPituco.png" group-title="República Dominicana",El Pituco TV
@@ -174,15 +174,15 @@ https://stream.elseis.do/canal6/live_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VqxSsZD.png" group-title="República Dominicana",Elias Pina TV
 https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nePOFZW.png" group-title="República Dominicana",Enntivision
-http://luxury-tv.us/tvmario2026/M7887357/748238
+http://luxury-tv.us/L20260704/L20260704/748238
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3508-294x165-FFFFFF.jpg" group-title="República Dominicana",Enterate RD
 https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3780-294x165-FFFFFF.jpg" group-title="República Dominicana",Extra 86 TV
 https://video-eu1.streamerr.co/hls/sb77f834a54/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YtdOXWb.png" group-title="República Dominicana",Farovisión
 https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3802-294x165-FFFFFF.jpg" group-title="República Dominicana",Femenina TV
-#OFF# http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/2227709
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3802-294x165-FFFFFF.jpg" group-title="República Dominicana",Femenina TV
+http://luxury-tv.us/L20260704/L20260704/1041370
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VxeTREd.png" group-title="República Dominicana",FRATA TV
 https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/T9vWjeB.png" group-title="República Dominicana",Fuego TV
@@ -204,9 +204,9 @@ https://fox.hostlagarto.com:8081/hmtv/index.m3u8
 #OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/E7ta6g8.png" group-title="República Dominicana",Hilando Fino TV
 #OFF# https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cx5V233.jpg" group-title="República Dominicana",Hits 360 TV
-http://luxury-tv.us/tvmario2026/M7887357/748345
+http://luxury-tv.us/L20260704/L20260704/748345
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0WBsAin.png" group-title="República Dominicana",HTV Live
-http://luxury-tv.us/tvmario2026/M7887357/748349
+http://luxury-tv.us/L20260704/L20260704/748349
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="República Dominicana",Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/TmJaXrO.jpg" group-title="República Dominicana",Informe TV
@@ -220,21 +220,21 @@ https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3812-294x165-FFFFFF.jpg" group-title="República Dominicana",Junior Technologia TV
 https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EfMtOja.png" group-title="República Dominicana",La Caleta TV
-http://luxury-tv.us/tvmario2026/M7887357/748409
+http://luxury-tv.us/L20260704/L20260704/748409
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/kq1CrDE.png" group-title="República Dominicana",La Descarga TV
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://lahoratv.org/imagen/lahora.jpeg" group-title="República Dominicana",La Hora TV
 https://edge.enhdtv.com/8206/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3386-294x165-FFFFFF.jpg" group-title="República Dominicana",La Reina TV
-http://luxury-tv.us/tvmario2026/M7887357/748422
+http://luxury-tv.us/L20260704/L20260704/748422
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2896-294x165-FFFFFF.jpg" group-title="República Dominicana",La Ruta TV
 https://streamunoapp.com:3983/live/larutatvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://gia.tv/streams/pstream/208429.png" group-title="República Dominicana",La Voz de Jesus HD
-http://luxury-tv.us/tvmario2026/M7887357/748428
+http://luxury-tv.us/L20260704/L20260704/748428
 #EXTINF:-1 tvg-id="" tvg-logo="https://dominicanchannels.com/wp-content/uploads/lagunatv.jpg" group-title="República Dominicana",Laguna TV
 https://cnn.hostlagarto.com/lagutv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.larivision.com/web/wp-content/uploads/2025/07/logow.png" group-title="República Dominicana",Larivision TV
-http://luxury-tv.us/tvmario2026/M7887357/748435
+http://luxury-tv.us/L20260704/L20260704/748435
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UAfyeYT.png" group-title="República Dominicana",Latina TV Internacional
 https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3232-294x165-FFFFFF.jpg" group-title="República Dominicana",Lena TV
@@ -268,7 +268,7 @@ https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hwC1stN.png" group-title="República Dominicana",Mision ELTV
 https://rd.tvabierta.net/live/misioneltv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vclDXV7.jpeg" group-title="República Dominicana",Moca Vision Canal 48
-http://luxury-tv.us/tvmario2026/M7887357/748522
+http://luxury-tv.us/L20260704/L20260704/748522
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/ExoOHQI.jpeg" group-title="República Dominicana",Montecristi Digital 8
 https://soportedvb.click:3400/live/montecristitvlive.m3u8
 #OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://montonestv.com/wp-content/uploads/2025/11/montones-logo.png" group-title="República Dominicana",Montones TV
@@ -276,15 +276,15 @@ https://soportedvb.click:3400/live/montecristitvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3759-294x165-FFFFFF.jpg" group-title="República Dominicana",Morro TV
 https://fox.hostlagarto.com:8081/morrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wMse6cT.png" group-title="República Dominicana",Musavision
-http://luxury-tv.us/tvmario2026/M7887357/748547
+http://luxury-tv.us/L20260704/L20260704/748547
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/g7iFN3s.png" group-title="República Dominicana",Naranja TV
-https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
+http://luxury-tv.us/L20260704/L20260704/1033863
 #EXTINF:-1 tvg-id="" tvg-logo="https://dominicanchannels.com/wp-content/uploads/navarrete.png" group-title="República Dominicana",Navarrete Television
 https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/z9JkxcM.png" group-title="República Dominicana",Nitida TV
 https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rdomint.com/images/station/300.jpg" group-title="República Dominicana",Notisur TV
-https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8
+http://luxury-tv.us/L20260704/L20260704/748581
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/0fWQS53.png" group-title="República Dominicana",Nueva Vision 14
 https://domapp2.site:2087/Juanandres2026/Navegador255/695199
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QghtwMB.jpeg" group-title="República Dominicana",OEPM TV
@@ -300,15 +300,15 @@ https://streamunoapp.com:3255/live/palmartvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k1Wj5ka.png" group-title="República Dominicana",Peravia Vision
 https://ss2.tvrdomi.com:1936/peraviavision/peraviavision/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3664-294x165-FFFFFF.jpg" group-title="República Dominicana",Portal Digital TV
-http://luxury-tv.us/tvmario2026/M7887357/748672
+http://luxury-tv.us/L20260704/L20260704/748672
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a9ORO1G.png" group-title="República Dominicana",Pronems TV
 https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8gSLJ2f.png" group-title="República Dominicana",Pula TV
-http://luxury-tv.us/tvmario2026/M7887357/748687
+http://luxury-tv.us/L20260704/L20260704/748687
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KF7fLTx.png" group-title="República Dominicana",Punta Cana TV
 https://fox.hostlagarto.com:8081/puntacanatv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/vfvN6ox.png" group-title="República Dominicana",Punto TV
-http://luxury-tv.us/tvmario2026/M7887357/748689
+http://luxury-tv.us/L20260704/L20260704/748689
 #EXTINF:-1 tvg-id="" tvg-logo="https://puntotvdigital.net/wp-content/uploads/2024/02/logo.png" group-title="República Dominicana",Punto TV Digital 40
 https://ss2.tvrdomi.com:1936/puntotvdigital/puntotvdigital/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3039-294x165-FFFFFF.jpg" group-title="República Dominicana",R Television
@@ -316,7 +316,7 @@ http://luxury-tv.us/tvmario2026/M7887357/748700
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HpKQYp3.png" group-title="República Dominicana",R&E TV
 https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x02CGSW.png" group-title="República Dominicana",RDN
-https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8
+http://luxury-tv.us/L20260704/L20260704/748760
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="República Dominicana",Ready TV Canal 6
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dominicanchannels.com/wp-content/uploads/Reportero-100x75-1.png" group-title="República Dominicana",Reportero TV
@@ -328,7 +328,7 @@ https://5790d294af2dc.streamlock.net/expresooriental/expresooriental/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-logo="https://santacruztv8.com/assets/images/logo.png" group-title="República Dominicana",Santa Cruz TV
 https://host.streamingnation.live/p/3345/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/10SUxGZ.png" group-title="República Dominicana",Santiago TV
-https://edge.essastream.com/telemilenio/playlist.m3u8
+http://luxury-tv.us/L20260704/L20260704/748832
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/KGqUu1X.jpg" group-title="República Dominicana",Señal Digital TV
 https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3226-294x165-FFFFFF.jpg" group-title="República Dominicana",Siembra TV
@@ -352,7 +352,7 @@ https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/IpInp05.png" group-title="República Dominicana",TeleCibao HD
 https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/FtV5TCs.jpg" group-title="República Dominicana",Telecomercio TV
-http://luxury-tv.us/tvmario2026/M7887357/748951
+http://luxury-tv.us/L20260704/L20260704/748951
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TMvV9dF.png" group-title="República Dominicana",Telecontacto
 http://luxury-tv.us/tvmario2026/M7887357/748952
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="República Dominicana",Telemax
@@ -360,45 +360,45 @@ http://itsidletime.xyz:8080/Trial/Trial123/147718
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/Ck2NL0t.png" group-title="República Dominicana",Telemetro TV
 https://streamunoapp.com:3366/live/telemetrolive.m3u8
 #EXTINF:-1 tvg-id="TelemicroInternacional.dr" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="República Dominicana",Telemicro Internacional
-http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/1356
+http://luxury-tv.us/L20260704/L20260704/748973
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3878-294x165-FFFFFF.jpg" group-title="República Dominicana",Telenews TV
-http://luxury-tv.us/tvmario2026/M7887357/748977
+http://luxury-tv.us/L20260704/L20260704/748977
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="República Dominicana",Telenord 8
 https://fox.hostlagarto.com:8081/telenord8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ig4gR93.png" group-title="República Dominicana",Teletur
-http://luxury-tv.us/tvmario2026/M7887357/749009
+http://luxury-tv.us/L20260704/L20260704/749009
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/ejKctXc.png" group-title="República Dominicana",Telever
 https://soportedvb.click:3413/live/televerlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M9A6hqR.png" group-title="República Dominicana",Televiaducto Canal 14
-http://luxury-tv.us/tvmario2026/M7887357/749014
+http://luxury-tv.us/L20260704/L20260704/749014
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mmjbcGr.png" group-title="República Dominicana",Television del Este
 https://edge.essastream.com/televisiondeleste/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cPIgs0v.png" group-title="República Dominicana",Tenarenses TV
-http://luxury-tv.us/tvmario2026/M7887357/749027
+http://luxury-tv.us/L20260704/L20260704/749027
 #EXTINF:-1 tvg-id="" tvg-logo="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg" group-title="República Dominicana",Tiguerito TV
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://gia.tv/streams/pptv/208314.jpg" group-title="República Dominicana",Tom And Jerry
-http://luxury-tv.us/tvmario2026/M7887357/749049
+http://luxury-tv.us/L20260704/L20260704/749049
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3900-294x165-FFFFFF.jpg" group-title="República Dominicana",Topical Moon RD
 https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://latoratv69.com.do/wp-content/themes/bootscore/assets/img/logo-tora-tv.png" group-title="República Dominicana",Tora Canal 69
 https://tv.wracanal10.com:3012/live/latoratvlive.m3u8
-#OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/khj869k.png" group-title="República Dominicana",Tour Spot TV
-#OFF# https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/khj869k.png" group-title="República Dominicana",Tour Spot TV
+https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://gia.tv/streams/pptv/208343.jpg" group-title="República Dominicana",Turismo HD
-http://luxury-tv.us/tvmario2026/M7887357/749080
+http://luxury-tv.us/L20260704/L20260704/749080
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3800-294x165-FFFFFF.jpg" group-title="República Dominicana",Turismo RD TV
-http://luxury-tv.us/tvmario2026/M7887357/749080
+http://luxury-tv.us/L20260704/L20260704/749080
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/e2BXUdH.png" group-title="República Dominicana",TV 10 San Juan
-http://luxury-tv.us/tvmario2026/M7887357/749083
+http://luxury-tv.us/L20260704/L20260704/749083
 #EXTINF:-1 tvg-id="" tvg-logo="https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png" group-title="República Dominicana",TV Daja
-http://luxury-tv.us/tvmario2026/M7887357/749133
+http://luxury-tv.us/L20260704/L20260704/749133
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ptQyOMi.png" group-title="República Dominicana",TV Higuey Digital
 https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eThe0io.png" group-title="República Dominicana",TV Hispanic
 https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DHyRWc0.png" group-title="República Dominicana",TV Montana Canal 10
-http://luxury-tv.us/tvmario2026/M7887357/749187
+http://luxury-tv.us/L20260704/L20260704/749187
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/G7X4LQI.png" group-title="República Dominicana",TV Quisqueya
 https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ahz7X7u.png" group-title="República Dominicana",TV Éxitos
@@ -406,7 +406,7 @@ http://velive.lat:8080/MikeRodri10/Mike202610/462437
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4037-294x165-FFFFFF.jpg" group-title="República Dominicana",TVN
 https://5790d294af2dc.streamlock.net/tvn/tvn/playlist.m3u8
 #EXTINF:-1 tvg-id="TVN24.us" tvg-logo="https://i.imgur.com/bu6bQMa.png" group-title="República Dominicana",TVN 24
-http://luxury-tv.us/tvmario2026/M7887357/749262
+http://luxury-tv.us/L20260704/L20260704/749262
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MhloaFB.png" group-title="República Dominicana",TVO
 https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a2YX1oj.jpg" group-title="República Dominicana",TVS
@@ -426,7 +426,7 @@ https://ss2.tvrdomi.com:1936/vision3000/vision3000/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4gj5NMa.png" group-title="República Dominicana",Vision NDV
 https://soportedvb.click:3891/live/visionndvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://xtratvrd.com/logo512.png" group-title="República Dominicana",Xtra TV
-http://luxury-tv.us/tvmario2026/M7887357/746867
+http://luxury-tv.us/L20260704/L20260704/746867
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bvPh0Uq.png" group-title="República Dominicana",Xtremo Channel
 https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YjceEv5.png" group-title="República Dominicana",Yunavision
@@ -434,7 +434,7 @@ https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8
 #OFF# #EXTINF:-1 tvg-id="" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4058-294x165-FFFFFF.jpg" group-title="República Dominicana",ZAS TV
 #OFF# https://cloud5.zastv.net/hls/zastv.m3u8
 #EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png" group-title="España",Antena 3 Internacional (mas estable)
-https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3.mpd
+http://luxury-tv.us/L20260704/L20260704/747779
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MxJNPHsn/La-1.png" group-title="España",RTVE La 1 Internacional (América)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="España",RTVE 24 Horas
@@ -477,44 +477,44 @@ http://luxury-tv.us/tvmario2026/M7887357/769775
 http://latinostream.xyz/Javier17/L20260126/745778
 #EXTINF:-1 tvg-id="AMERICATEVE.us" tvg-name=" AMERICATEVE" tvg-logo="https://image.xumo.com/v1/channels/channel/99951140/168x168.webp?type=color_onBlack" group-title="Entretenimiento", AMERICATEVE
 http://luxury-tv.us/tvmario2026/M7887357/745802
-#EXTINF:-1 tvg-id="" tvg-name=" Amor Real" tvg-logo="http://p-img.movetv.com/1280x720/e68b3c63a23f04292c22f9c701ffc0cd.png" group-title="Entretenimiento", Amor Real
-http://luxury-tv.us/tvmario2026/M7887357/1037212
+#OFF# #EXTINF:-1 tvg-id="" tvg-name=" Amor Real" tvg-logo="http://p-img.movetv.com/1280x720/e68b3c63a23f04292c22f9c701ffc0cd.png" group-title="Entretenimiento", Amor Real
+#OFF# http://luxury-tv.us/tvmario2026/M7887357/1037212
 #EXTINF:-1 tvg-id="" tvg-name=" Angelique" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200004HD_20260421T142111SQUARE.png" group-title="Entretenimiento", Angelique
 https://domapp2.site:2087/Juanandres2026/Navegador255/615955
 #EXTINF:-1 tvg-id="" tvg-name=" Anger Management en espanol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a663e04f-8322-45f6-a64d-bafe754d4e09/AngrMngmnt_logo_dark_1500x1000_-_Chris_Connors.png" group-title="Entretenimiento", Anger Management en espanol
-http://luxury-tv.us/tvmario2026/M7887357/745827
+http://luxury-tv.us/L20260704/L20260704/745827
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name=" Antena 3" tvg-logo="https://www.getsatellite.com/channels/antena3.png" group-title="España", Antena 3
 http://luxury-tv.us/tvmario2026/M7887357/769032
 #EXTINF:-1 tvg-id="Antena3.es" tvg-name=" Antena 3 Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Antena3_2017.svg/1280px-Antena3_2017.svg.png" group-title="España", Antena 3 Internacional
-http://luxury-tv.us/tvmario2026/M7887357/747779
+http://luxury-tv.us/L20260704/L20260704/747779
 #EXTINF:-1 tvg-id="" tvg-name=" Aqui Y Ahora" tvg-logo="https://64.media.tumblr.com/4ef59dea72aa9fab0e9f90272f419181/f27eb80cea7d2730-ef/s500x750/cb7e3f6c323e9246c38a86ae79838609951d99fc.png" group-title="Entretenimiento", Aqui Y Ahora
-http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/2015207
+http://luxury-tv.us/L20260704/L20260704/1033812
 #EXTINF:-1 tvg-id="ATRESseries.us" tvg-name=" Atres series" tvg-logo="https://logo.m3uassets.com/a3satreseries1.png" group-title="Entretenimiento", Atres series
-http://mystreamlive.online/Limardotv/s2225805/4711252
+http://luxury-tv.us/L20260704/L20260704/769140
 #EXTINF:-1 tvg-id="" tvg-name=" Autopista al Cielo" tvg-logo="https://provider-static.plex.tv/epg/cms/production/68950c80-d981-457f-89f9-d51fc2bcab02/Plex_FilmRise_AutopistaAlCielo_Color_Logo.png" group-title="Entretenimiento", Autopista al Cielo
 http://luxury-tv.us/tvmario2026/M7887357/1033856
 #EXTINF:-1 tvg-id="Clic.us" tvg-name=" AZ Clic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png" group-title="Entretenimiento", AZ Clic
-http://luxury-tv.us/tvmario2026/M7887357/747813
+http://luxury-tv.us/L20260704/L20260704/747813
 #EXTINF:-1 tvg-id="AzCorazón.mx" tvg-name=" AZ Corazon" tvg-logo="https://logo.m3uassets.com/azcorazon2.png" group-title="Entretenimiento", AZ Corazon
 http://velive.lat:8080/MikeRodri10/Mike202610/21466
 #EXTINF:-1 tvg-id="AztecaInternacional.us" tvg-name=" Azteca Internacional" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png" group-title="Entretenimiento", Azteca Internacional
-http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/643
+http://luxury-tv.us/L20260704/L20260704/746036
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-name=" Bandamax" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/BDMAX-logo.png" group-title="Entretenimiento", Bandamax
-http://luxury-tv.us/tvmario2026/M7887357/746078
+http://luxury-tv.us/L20260704/L20260704/746078
 #EXTINF:-1 tvg-id="BuenViaje.es" tvg-name=" Buen Viaje" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d468b64b-c6a3-427f-a5c0-331bb6478407/channel_logo_1500x1000_light.png.png" group-title="Entretenimiento", Buen Viaje
 http://luxury-tv.us/tvmario2026/M7887357/769699
 #EXTINF:-1 tvg-id="" tvg-name=" C4 en Alerta" tvg-logo="https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png" group-title="Entretenimiento", C4 en Alerta
 http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/516358
 #EXTINF:-1 tvg-id="Canal22.us" tvg-name=" Canal 22 Internacional" tvg-logo="https://logo.m3uassets.com/canal22internacional.png" group-title="Entretenimiento", Canal 22 Internacional
-http://luxury-tv.us/tvmario2026/M7887357/746538
+http://luxury-tv.us/L20260704/L20260704/746538
 #EXTINF:-1 tvg-id="CanalOnce.us" tvg-name=" Canal Once" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png" group-title="Entretenimiento", Canal Once
-http://mystreamlive.online/Limardotv/s2225805/4710273
-#EXTINF:-1 tvg-id="" tvg-name=" Canal ViX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200005Y2_20260421T142129SQUARE.png" group-title="Entretenimiento", Canal ViX
-http://mystreamlive.online/Limardotv/s2225805/2989023
+http://luxury-tv.us/L20260704/L20260704/769294
+#OFF# #EXTINF:-1 tvg-id="" tvg-name=" Canal ViX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200005Y2_20260421T142129SQUARE.png" group-title="Entretenimiento", Canal ViX
+#OFF# http://mystreamlive.online/Limardotv/s2225805/2989023
 #EXTINF:-1 tvg-id="" tvg-name=" Canela.TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIssIG9umc4C0UN6jaK6vxqbsezIS5MI06AA&s" group-title="Entretenimiento", Canela.TV
 http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/482970
 #EXTINF:-1 tvg-id="" tvg-name=" Canela.TV Clasicos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b35a0b8-05da-4dcb-ab8d-4155a92274eb/CM-Plex-dark_logo-CanelaTV-clasicos_-_Natalia_Rodriguez.png" group-title="Entretenimiento", Canela.TV Clasicos
-http://luxury-tv.us/tvmario2026/M7887357/746681
+http://luxury-tv.us/L20260704/L20260704/746681
 #EXTINF:-1 tvg-id="Hollywood.es" tvg-name=" Canela.TV Hollywood y Mas" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3cadef2-bd63-425b-a7d4-e48752f83c1d/CM-Plex-dark_logo-CanelaTV-hollywood_y_mas_-_Mariana_Gonzalez.png" group-title="Entretenimiento", Canela.TV Hollywood y Mas
 http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/482970
 #EXTINF:-1 tvg-id="" tvg-name=" Canela.TV Narco vs Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1a0bf145-a80f-4dd5-8134-ecb3975c389f/CM-Plex-dark_logo-CanelaTV-narco_drama_-_Natalia_Rodriguez.png" group-title="Entretenimiento", Canela.TV Narco vs Drama
@@ -524,35 +524,35 @@ http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/261870
 #EXTINF:-1 tvg-id="" tvg-name=" Caso Cerrado" tvg-logo="https://provider-static.plex.tv/5/epg/channels/logos/gracenote/5eb0e12c2b5ed3288faa8f00c79c4d6b.png" group-title="Entretenimiento", Caso Cerrado
 http://luxury-tv.us/tvmario2026/M7887357/1035942
 #EXTINF:-1 tvg-id="CBSenespañol.pluto" tvg-name=" CBS en español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/CBS_Corporation_logo.svg" group-title="Entretenimiento", CBS en español
-http://mystreamlive.online/Limardotv/s2225805/386488
-#EXTINF:-1 tvg-id="CentroamericaTV.us" tvg-name=" Centroamerica TV" tvg-logo="https://logo.m3uassets.com/centroamericatv.png" group-title="Entretenimiento", Centroamerica TV
-http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/2229191
+http://luxury-tv.us/L20260704/L20260704/746768
+#OFF# #EXTINF:-1 tvg-id="CentroamericaTV.us" tvg-name=" Centroamerica TV" tvg-logo="https://logo.m3uassets.com/centroamericatv.png" group-title="Entretenimiento", Centroamerica TV
+#OFF# http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/2229191
 #EXTINF:-1 tvg-id="" tvg-name=" CG MMA En Español" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600005ST_20260421T141742SQUARE.png" group-title="Entretenimiento", CG MMA En Español
-http://luxury-tv.us/tvmario2026/M7887357/1035320
+http://luxury-tv.us/L20260704/L20260704/1035320
 #EXTINF:-1 tvg-id="ClanTVE.es" tvg-name=" CLAN" tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/a/ad/Clan_TVE_-1.png" group-title="Entretenimiento", CLAN
-http://luxury-tv.us/tvmario2026/M7887357/751633
+http://luxury-tv.us/L20260704/L20260704/751633
 #EXTINF:-1 tvg-id="Clic.us" tvg-name=" Clic" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5524a542-5952-4090-9e2e-780e1a3adc22/clic_logo_light_-_James_Stowe_Color_rdx.png" group-title="Entretenimiento", Clic
-http://luxury-tv.us/tvmario2026/M7887357/769528
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/516118
 #EXTINF:-1 tvg-id="" tvg-name=" Combate Global MMA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600006R8_20260421T143045SQUARE.png" group-title="Entretenimiento", Combate Global MMA
-http://luxury-tv.us/tvmario2026/M7887357/748133
+http://luxury-tv.us/L20260704/L20260704/748133
 #EXTINF:-1 tvg-id="ComedyCentralenespañol.pluto" tvg-name=" Comedy Central en español" tvg-logo="https://logo.m3uassets.com/comedycentralenespanol.png" group-title="Entretenimiento", Comedy Central en español
-http://mystreamlive.online/Limardotv/s2225805/386489
-#EXTINF:-1 tvg-id="" tvg-name=" Como Dice el Dicho" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700004ME_20260421T142145SQUARE.png" group-title="Entretenimiento", Como Dice el Dicho
-http://luxury-tv.us/tvmario2026/M7887357/1037229
+http://luxury-tv.us/L20260704/L20260704/751647
+#OFF# #EXTINF:-1 tvg-id="" tvg-name=" Como Dice el Dicho" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700004ME_20260421T142145SQUARE.png" group-title="Entretenimiento", Como Dice el Dicho
+#OFF# http://luxury-tv.us/tvmario2026/M7887357/1037229
 #EXTINF:-1 tvg-id="" tvg-name=" Cops en Espanol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png" group-title="Entretenimiento", Cops en Espanol
-http://mystreamlive.online/Limardotv/s2225805/386356
+http://luxury-tv.us/L20260704/L20260704/748233
 #EXTINF:-1 tvg-id="Corazon.us" tvg-name=" Corazon" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08be4d01-35de-46c7-b600-546316cbaf4a/corazon_logo_light_-_James_Stowe.png" group-title="Entretenimiento", Corazon
-http://mundo2.pro/Roberto1/Roberto12/317499
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/516125
 #EXTINF:-1 tvg-id="Crimen.pluto" tvg-name=" Crimen" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Univision2019.svg/revision/latest?cb=20210317233059" group-title="Entretenimiento", Crimen
-http://mundo2.pro/Roberto1/Roberto12/111422
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/334663
 #OFF# #EXTINF:-1 tvg-id="Crímenesimperfectos.pluto" tvg-name=" Crímenes imperfectos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeKnrrMLjlxFRFoBp6ICJk6apJzbhVRBF47Q&s" group-title="Entretenimiento", Crímenes imperfectos
 #OFF# http://polarbear.mov/live/Sandra123/Sandra123/707012.m3u8
 #EXTINF:-1 tvg-id="CSIenEspañol.pluto" tvg-name=" CSI en Español" tvg-logo="https://logo.m3uassets.com/csienespanol.png" group-title="Entretenimiento", CSI en Español
 http://luxury-tv.us/tvmario2026/M7887357/748160
 #EXTINF:-1 tvg-id="CSI:Miamienespañol.pluto" tvg-name=" CSI Miami en español" tvg-logo="https://logo.m3uassets.com/csienespanol.png" group-title="Entretenimiento", CSI Miami en español
-http://luxury-tv.us/tvmario2026/M7887357/748233
+http://luxury-tv.us/L20260704/L20260704/748233
 #EXTINF:-1 tvg-id="CSI:NYenespañol.pluto" tvg-name=" CSI NY en español" tvg-logo="https://logo.m3uassets.com/csienespanol.png" group-title="Entretenimiento", CSI NY en español
-http://mystreamlive.online/Limardotv/s2225805/386346
+http://luxury-tv.us/L20260704/L20260704/748233
 #OFF# #EXTINF:-1 tvg-id="" tvg-name=" Curiosity Animales" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200001IY_20240910T003736SQUARE.png" group-title="Entretenimiento", Curiosity Animales
 #OFF# http://polarbear.mov/live/Sandra123/Sandra123/830187.m3u8
 #OFF# #EXTINF:-1 tvg-id="" tvg-name=" Curiosity Explora" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US22000020U_20241217T202304SQUARE.png" group-title="Entretenimiento", Curiosity Explora
@@ -562,11 +562,11 @@ http://mystreamlive.online/Limardotv/s2225805/386346
 #EXTINF:-1 tvg-id="EcuavisaInternacional.us" tvg-name=" Ecuavisa Internacional" tvg-logo="https://logo.m3uassets.com/ecuavisa.png" group-title="Entretenimiento", Ecuavisa Internacional
 http://luxury-tv.us/tvmario2026/M7887357/1034838
 #EXTINF:-1 tvg-id="Elgourmet.dr" tvg-name=" El Gourmet" tvg-logo="https://cdn.mitvstatic.com/channels/2c15cb09-f111-4b08-b86e-421cbf221fe1_m.jpg" group-title="Entretenimiento", El Gourmet
-http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/1098199
+http://luxury-tv.us/L20260704/L20260704/769785
 #EXTINF:-1 tvg-id="ElTreceInternacional.es" tvg-name=" El Trece Internacional" tvg-logo="https://logo.m3uassets.com/eltreceinternacionaleurope.png" group-title="España", El Trece Internacional
-http://luxury-tv.us/tvmario2026/M7887357/769642
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/645688
 #EXTINF:-1 tvg-id="" tvg-name=" ElectricNOW en Espanol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2ba8f950-5d83-4adb-8fd5-e0bf4426de43/ENow_ES_Logo_-_Dark_Backgrounds_1500x1000RDX.png" group-title="Entretenimiento", ElectricNOW en Espanol
-http://mystreamlive.online/Limardotv/s2225805/1514763
+http://luxury-tv.us/L20260704/L20260704/748233
 #EXTINF:-1 tvg-id="" tvg-name=" Estrella Games" tvg-logo="https://logo.m3uassets.com/estrellagames.png" group-title="Entretenimiento", Estrella Games
 http://luxury-tv.us/tvmario2026/M7887357/748245
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name=" EstrellaTV" tvg-logo="https://logo.m3uassets.com/estrellatv.png" group-title="Entretenimiento", EstrellaTV
@@ -581,8 +581,8 @@ http://luxury-tv.us/tvmario2026/M7887357/1037387
 #OFF# http://lowteck.xyz:83/Jackplatinum/3657842091/826863
 #OFF# #EXTINF:-1 tvg-id="" tvg-name=" FreeTV Sureno" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cc2b79be-49b6-49b0-95dc-be39ab298aca/FreeTVSureno_Circle_1500x1000_-_Ralph_Campillo__1_.png" group-title="Entretenimiento", FreeTV Sureno
 #OFF# http://lowteck.xyz:83/Jackplatinum/3657842091/826864
-#EXTINF:-1 tvg-id="" tvg-name=" Galanes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700002DU_20260421T142154SQUARE.png" group-title="Entretenimiento", Galanes
-http://mystreamlive.online/Limardotv/s2225805/2989010
+#OFF# #EXTINF:-1 tvg-id="" tvg-name=" Galanes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700002DU_20260421T142154SQUARE.png" group-title="Entretenimiento", Galanes
+#OFF# http://mystreamlive.online/Limardotv/s2225805/2989010
 #EXTINF:-1 tvg-id="GOL.es" tvg-name=" GOL TV" tvg-logo="https://logo.m3uassets.com/goltvlatinamerica.png" group-title="Entretenimiento", GOL TV
 http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/3745
 #EXTINF:-1 tvg-id="" tvg-name=" Hallmark en español" tvg-logo="https://logo.m3uassets.com/hallmark.png" group-title="Entretenimiento", Hallmark en español
@@ -590,13 +590,13 @@ http://luxury-tv.us/tvmario2026/M7887357/1036280
 #EXTINF:-1 tvg-id="Historia.es" tvg-name=" Historia" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600019IC_20260421T141952SQUARE.png" group-title="Entretenimiento", Historia
 http://luxury-tv.us/tvmario2026/M7887357/769187
 #EXTINF:-1 tvg-id="HistoryenEspanol.us" tvg-name=" History en ESPANOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/History_en_Espa%C3%B1ol_Logo.svg" group-title="Entretenimiento", History en ESPANOL
-http://luxury-tv.us/tvmario2026/M7887357/1036016
+http://luxury-tv.us/L20260704/L20260704/1036016
 #EXTINF:-1 tvg-id="HogarDeHGTV.us" tvg-name=" Hogar de HGTV" tvg-logo="https://logo.m3uassets.com/hogarhgtv.png" group-title="Entretenimiento", Hogar de HGTV
 http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/598069
 #EXTINF:-1 tvg-id="HolaTV.mx" tvg-name=" HOLA! TV" tvg-logo="https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg" group-title="Entretenimiento", HOLA! TV
 http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/72576
 #EXTINF:-1 tvg-id="" tvg-name=" Iron Chef en espanol" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7e7e0544-7004-46ac-bea2-b21a2a7ab166/Plex_xumoTile_FilmRise_IronChefEnEspanol_logo_color_white_text.png" group-title="Entretenimiento", Iron Chef en espanol
-http://luxury-tv.us/tvmario2026/M7887357/748233
+http://luxury-tv.us/L20260704/L20260704/748233
 #EXTINF:-1 tvg-id="" tvg-name=" La Rosa de Guadalupe" tvg-logo="http://p-img.movetv.com/1280x720/99dd1671839bc702aa066a24c46dfdb6.png" group-title="Entretenimiento", La Rosa de Guadalupe
 http://luxury-tv.us/tvmario2026/M7887357/1037050
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-name=" La Sexta" tvg-logo="https://logo.m3uassets.com/lasexta1080p.png" group-title="España", La Sexta
@@ -610,31 +610,31 @@ http://luxury-tv.us/tvmario2026/M7887357/1037281
 #OFF# #EXTINF:-1 tvg-id="" tvg-name=" Lucha Plus" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e8b87f4f-ebc1-4996-b732-b70118521f61/Plex_Channel_Logo_Color_-_Juan_Miguel_Bassalik_WHT_TEXT.png" group-title="Entretenimiento", Lucha Plus
 #OFF# http://polarbear.mov/live/Sandra123/Sandra123/830216.m3u8
 #EXTINF:-1 tvg-id="MasChic.dr" tvg-name=" Mas Chic" tvg-logo="https://amcla.s3.amazonaws.com/assets/channel_logo/light/7xly9atcpv_MC_logo.png" group-title="Entretenimiento", Mas Chic
-http://mystreamlive.online/Limardotv/s2225805/149103
+http://luxury-tv.us/L20260704/L20260704/1039283
 #EXTINF:-1 tvg-id="Mega.es" tvg-name=" Mega Tv" tvg-logo="https://logo.m3uassets.com/megatv2.png" group-title="España", Mega Tv
 http://luxury-tv.us/tvmario2026/M7887357/1012965
-#EXTINF:-1 tvg-id="" tvg-name=" Mi Casa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fba2f51d-9bc8-418d-ae07-14e84f6e7fc8/channel_logo_1500x1000_light.png.png" group-title="Entretenimiento", Mi Casa
-http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/1070268
+#OFF# #EXTINF:-1 tvg-id="" tvg-name=" Mi Casa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fba2f51d-9bc8-418d-ae07-14e84f6e7fc8/channel_logo_1500x1000_light.png.png" group-title="Entretenimiento", Mi Casa
+#OFF# http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/1070268
 #OFF# #EXTINF:-1 tvg-id="" tvg-name=" Misterios sin resolver" tvg-logo="data:image/png;base64,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" group-title="Entretenimiento", Misterios sin resolver
 #OFF# http://lowteck.xyz:83/Jackplatinum/3657842091/826921
-#EXTINF:-1 tvg-id="" tvg-name=" Moovimex" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8cc525b5848c561da7e2d47b934adf0c/rokuFeed/assets/949ad8bc33d5535ea1c104214bef0c15.jpg" group-title="Entretenimiento", Moovimex
-http://mystreamlive.online/Limardotv/s2225805/2989009
+#OFF# #EXTINF:-1 tvg-id="" tvg-name=" Moovimex" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8cc525b5848c561da7e2d47b934adf0c/rokuFeed/assets/949ad8bc33d5535ea1c104214bef0c15.jpg" group-title="Entretenimiento", Moovimex
+#OFF# http://mystreamlive.online/Limardotv/s2225805/2989009
 #EXTINF:-1 tvg-id="Másadrenalina.pluto" tvg-name=" Más adrenalina" tvg-logo="https://iconape.com/wp-content/files/xx/285625/png/285625.png" group-title="Entretenimiento", Más adrenalina
-http://luxury-tv.us/tvmario2026/M7887357/749180
+http://luxury-tv.us/L20260704/L20260704/749180
 #EXTINF:-1 tvg-id="NatGeoMundo.us" tvg-name=" Nat Geo Mundo" tvg-logo="https://p1.hiclipart.com/preview/323/20/6/tv-channel-icons-pack-nat-geo-mundo-color-png-icon.jpg" group-title="Entretenimiento", Nat Geo Mundo
 http://luxury-tv.us/tvmario2026/M7887357/769691
 #EXTINF:-1 tvg-id="" tvg-name=" Naturaleza" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b8f2b67e-a131-4b50-9864-dc0b13c3c6ed/channel_logo_1500x1000_light.png.png" group-title="Entretenimiento", Naturaleza
 http://mundo2.pro/Roberto1/Roberto12/118747
-#EXTINF:-1 tvg-id="" tvg-name=" Naturaleza Salvaje" tvg-logo="https://provider-static.plex.tv/epg/cms/production/80f7a8a5-199f-43a8-a4e7-c678df5efd7f/Plex_NatSalv_Logo_Light.png" group-title="Entretenimiento", Naturaleza Salvaje
-http://mystreamlive.online/Limardotv/s2225805/392918
+#OFF# #EXTINF:-1 tvg-id="" tvg-name=" Naturaleza Salvaje" tvg-logo="https://provider-static.plex.tv/epg/cms/production/80f7a8a5-199f-43a8-a4e7-c678df5efd7f/Plex_NatSalv_Logo_Light.png" group-title="Entretenimiento", Naturaleza Salvaje
+#OFF# http://mystreamlive.online/Limardotv/s2225805/392918
 #EXTINF:-1 tvg-id="" tvg-name=" Nosotros los Guapos" tvg-logo="http://p-img.movetv.com/images/34691586cb919252bb86b33de237fd8d0091cdf2" group-title="Entretenimiento", Nosotros los Guapos
 http://luxury-tv.us/tvmario2026/M7887357/1037237
 #OFF# #EXTINF:-1 tvg-id="" tvg-name=" Novelas de Siempre" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4104a44f-21ec-4ee6-8eca-7d151cfbd85d/Novelas_de_Siempre_Channel-Icon_ColorRDX.png" group-title="Entretenimiento", Novelas de Siempre
 #OFF# http://latinostream.xyz/Javier17/L20260126/771611
-#EXTINF:-1 tvg-id="" tvg-name=" Novelas Turcas" tvg-logo="https://logo.m3uassets.com/tlnovelaslatinamerica.png" group-title="Entretenimiento", Novelas Turcas
-http://mystreamlive.online/Limardotv/s2225805/278175
+#OFF# #EXTINF:-1 tvg-id="" tvg-name=" Novelas Turcas" tvg-logo="https://logo.m3uassets.com/tlnovelaslatinamerica.png" group-title="Entretenimiento", Novelas Turcas
+#OFF# http://mystreamlive.online/Limardotv/s2225805/278175
 #EXTINF:-1 tvg-id="" tvg-name=" Novelisima" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c02431c6-190a-426a-a652-38502fec17d8/Novelisima_logo_lightbakg_1500x1000_-_Ali_Clausen.png" group-title="Entretenimiento", Novelisima
-http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/1075409
+http://luxury-tv.us/L20260704/L20260704/748586
 #EXTINF:-1 tvg-id="NuestraTeleInt.us" tvg-name=" Nuestra Tele" tvg-logo="https://latinheat.com/wp-content/uploads/2022/09/FEATURED-1200-X-675-16-1024x576.png" group-title="Entretenimiento", Nuestra Tele
 http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/3739
 #EXTINF:-1 tvg-id="" tvg-name=" Nuestra Visión" tvg-logo="https://logo.m3uassets.com/rcnnuestratele.png" group-title="Entretenimiento", Nuestra Visión
@@ -648,7 +648,7 @@ http://luxury-tv.us/tvmario2026/M7887357/1037294
 #OFF# #EXTINF:-1 tvg-id="" tvg-name=" Pitufo TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/352d158b-9349-41a8-a273-af1eea090ce6/pitufotv_logo_dark_-_Jordan_Warkol.png" group-title="Entretenimiento", Pitufo TV
 #OFF# http://lowteck.xyz:83/Jackplatinum/3657842091/826965
 #EXTINF:-1 tvg-id="RacingAmerica.us" tvg-name=" Racing America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png" group-title="Entretenimiento", Racing America
-http://mystreamlive.online/Limardotv/s2225805/4685673
+http://luxury-tv.us/L20260704/L20260704/1033936
 #EXTINF:-1 tvg-id="RCNMas.us" tvg-name=" RCN Mas" tvg-logo="https://velloflix.com/wp-content/uploads/2025/09/rcnmas.jpg" group-title="Entretenimiento", RCN Mas
 http://luxury-tv.us/tvmario2026/M7887357/1034644
 #EXTINF:-1 tvg-id="" tvg-name=" Rebelde" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700018II_20260421T142224SQUARE.png" group-title="Entretenimiento", Rebelde
@@ -656,7 +656,7 @@ http://luxury-tv.us/tvmario2026/M7887357/1037296
 #OFF# #EXTINF:-1 tvg-id="Revry.us" tvg-name=" Revry Latinx" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4a423ae5-506e-4a10-b148-1f5dc2787db4/RevryLatinX_Logo_Plex_1500x1000_dark-backgrounds_-_Joshua_Pettway-Hinton.png" group-title="Entretenimiento", Revry Latinx
 #OFF# http://polarbear.mov/live/Sandra123/Sandra123/830158.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" RTP Internacional" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" group-title="Entretenimiento", RTP Internacional
-http://luxury-tv.us/tvmario2026/M7887357/748812
+http://luxury-tv.us/L20260704/L20260704/748812
 #EXTINF:-1 tvg-id="SomosNovelas.us" tvg-name=" Somos Novelas" tvg-logo="https://logo.m3uassets.com/tringnovelas.png" group-title="Entretenimiento", Somos Novelas
 http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/585052
 #EXTINF:-1 tvg-id="Escape.sxm" tvg-name=" Sony One Escape Perfecto" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3a7f2ae8da19530ba33c0c3502becd32/rokuFeed/assets/9aed2b616f4d57b6819cb58ab2a688d5.jpg" group-title="Entretenimiento", Sony One Escape Perfecto
@@ -666,47 +666,47 @@ http://latinostream.xyz/Javier17/L20260126/749169
 #EXTINF:-1 tvg-id="TeleFE.us" tvg-name=" Telefe" tvg-logo="https://logo.m3uassets.com/telefeint.png" group-title="Entretenimiento", Telefe
 http://luxury-tv.us/tvmario2026/M7887357/795060
 #EXTINF:-1 tvg-id="TeleOnce.pr" tvg-name=" Teleonce America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/af7d82cf-f17f-40b5-b086-ed6a61c17d2e/logo_Teleonce_AmericaRDX_COLOR.png" group-title="Entretenimiento", Teleonce America
-http://luxury-tv.us/tvmario2026/M7887357/748985
+http://luxury-tv.us/L20260704/L20260704/748985
 #EXTINF:-1 tvg-id="TeleRitmo.us" tvg-name=" Teleritmo" tvg-logo="https://www.ethnicchannels.com/images/channeldetail/teleritmo/teleritmo-logo.png" group-title="Entretenimiento", Teleritmo
 http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/72649
 #EXTINF:-1 tvg-id="TheWalkingDeadenespañol.pluto" tvg-name=" The Walking Dead en español" tvg-logo="https://logo.m3uassets.com/thewalkingdead.png" group-title="Entretenimiento", The Walking Dead en español
-http://luxury-tv.us/tvmario2026/M7887357/748233
+http://luxury-tv.us/L20260704/L20260704/748233
 #OFF# #EXTINF:-1 tvg-id="" tvg-name=" Todo Crimen" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1861c959-0e05-4dd7-83c2-91966163cc95/TODO_CRIMEN_white__1_.png" group-title="Entretenimiento", Todo Crimen
 #OFF# http://polarbear.mov/live/Sandra123/Sandra123/830179.m3u8
 #OFF# #EXTINF:-1 tvg-id="" tvg-name=" Todo Drama" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d4daa26d-847b-4c35-a59e-436a273448ce/TodoDrama_WHITERDX.png" group-title="Entretenimiento", Todo Drama
 #OFF# http://polarbear.mov/live/Sandra123/Sandra123/830153.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Todo Novelas, mas Pasiones" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f768af86-c0ca-40fa-b79a-bdfe22b54ab3/TN_MP_LOGO_TRANSP_1500x1000_Attribution_White.png", Todo Novelas group-title="Entretenimiento", mas Pasiones
-http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/663
+http://luxury-tv.us/L20260704/L20260704/749180
 #OFF# #EXTINF:-1 tvg-id="TR3S.us" tvg-name=" TR3S" tvg-logo="https://logo.m3uassets.com/latr3.png" group-title="Entretenimiento", TR3S
 #OFF# http://polarbear.mov/live/Sandra123/Sandra123/3208.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" TRACE Latina" tvg-logo="https://provider-static.plex.tv/epg/cms/production/04b0a12e-b393-4456-9927-a48b793b623a/trace_latina_light_-_Nathan_BECKER.png" group-title="Entretenimiento", TRACE Latina
-http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/1019
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/617097
 #EXTINF:-1 tvg-id="TVE.mx" tvg-name=" TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/3840px-TVE.svg.png" group-title="Entretenimiento", TVE
 http://luxury-tv.us/tvmario2026/M7887357/1013194
-#EXTINF:-1 tvg-id="" tvg-name=" Vecinos" tvg-logo="http://p-img.movetv.com/1280x720/cf6f265df8aeeadc23385a166444257a.png" group-title="Entretenimiento", Vecinos
-http://luxury-tv.us/tvmario2026/M7887357/1037115
-#EXTINF:-1 tvg-id="VEPLUS.us" tvg-name=" VePlus" tvg-logo="https://logo.m3uassets.com/veplus.png" group-title="Entretenimiento", VePlus
-http://mystreamlive.online/Limardotv/s2225805/4717261
+#OFF# #EXTINF:-1 tvg-id="" tvg-name=" Vecinos" tvg-logo="http://p-img.movetv.com/1280x720/cf6f265df8aeeadc23385a166444257a.png" group-title="Entretenimiento", Vecinos
+#OFF# http://luxury-tv.us/tvmario2026/M7887357/1037115
+#OFF# #EXTINF:-1 tvg-id="VEPLUS.us" tvg-name=" VePlus" tvg-logo="https://logo.m3uassets.com/veplus.png" group-title="Entretenimiento", VePlus
+#OFF# http://mystreamlive.online/Limardotv/s2225805/4717261
 #EXTINF:-1 tvg-id="" tvg-name=" Vevo Latino" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20260303T094222SQUARE.png" group-title="Entretenimiento", Vevo Latino
 http://velive.lat:8080/MikeRodri10/Mike202610/462458
 #EXTINF:-1 tvg-id="VideoRola.us" tvg-name=" Videorola" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/VR-2024.png/revision/latest?cb=20240910031904" group-title="Entretenimiento", Videorola
-http://luxury-tv.us/tvmario2026/M7887357/749830
+http://luxury-tv.us/L20260704/L20260704/749830
 #EXTINF:-1 tvg-id="" tvg-name=" ViX Grandes Parejas" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100012EJ_20260421T142342SQUARE.png" group-title="Entretenimiento", ViX Grandes Parejas
-http://mystreamlive.online/Limardotv/s2225805/2989057
+http://luxury-tv.us/L20260704/L20260704/749355
 #EXTINF:-1 tvg-id="" tvg-name=" ViX JaJaJa" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100010OS_20260421T142346SQUARE.png" group-title="Entretenimiento", ViX JaJaJa
-http://luxury-tv.us/tvmario2026/M7887357/749354
-#EXTINF:-1 tvg-id="" tvg-name=" ViX Novelas de romance" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB44000099N_20260421T141646SQUARE.png" group-title="Entretenimiento", ViX Novelas de romance
-http://mystreamlive.online/Limardotv/s2225805/2989061
-#EXTINF:-1 tvg-id="" tvg-name=" ViX Villanos de Novela" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100011WI_20260421T142351SQUARE.png" group-title="Entretenimiento", ViX Villanos de Novela
-http://mystreamlive.online/Limardotv/s2225805/2989062
+http://luxury-tv.us/L20260704/L20260704/749354
+#OFF# #EXTINF:-1 tvg-id="" tvg-name=" ViX Novelas de romance" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB44000099N_20260421T141646SQUARE.png" group-title="Entretenimiento", ViX Novelas de romance
+#OFF# http://mystreamlive.online/Limardotv/s2225805/2989061
+#OFF# #EXTINF:-1 tvg-id="" tvg-name=" ViX Villanos de Novela" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100011WI_20260421T142351SQUARE.png" group-title="Entretenimiento", ViX Villanos de Novela
+#OFF# http://mystreamlive.online/Limardotv/s2225805/2989062
 #OFF# #EXTINF:-1 tvg-id="" tvg-name=" Vme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/V-me_logo.svg/1280px-V-me_logo.svg.png" group-title="Entretenimiento", Vme
 #OFF# http://polarbear.mov/live/Sandra123/Sandra123/707002.m3u8
 #EXTINF:-1 tvg-id="WAPAAmerica.us" tvg-name=" Wapa America" tvg-logo="https://logo.m3uassets.com/wapaamerica.png" group-title="Entretenimiento", Wapa America
 http://luxury-tv.us/tvmario2026/M7887357/1012974
 #EXTINF:-1 tvg-id="" tvg-name=" WAPA+" tvg-logo="https://ipuntotv.com/IMAGES/Wapa-mas-logo-nuevo.jpg" group-title="Entretenimiento", WAPA+
 http://luxury-tv.us/tvmario2026/M7887357/1012956
-#EXTINF:-1 tvg-id="" tvg-name=" Zona Investigacion" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f653ff7d-39d9-4da4-a3d3-dc0fc71b6dd4/Zone_Investigacion_-_1500X1000_PNG_w_transparent_background_Logo_for_dark___white_backgrounds_-_JuanMa_Velasquez.png" group-title="Entretenimiento", Zona Investigacion
-http://mystreamlive.online/Limardotv/s2225805/4717238
+#OFF# #EXTINF:-1 tvg-id="" tvg-name=" Zona Investigacion" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f653ff7d-39d9-4da4-a3d3-dc0fc71b6dd4/Zone_Investigacion_-_1500X1000_PNG_w_transparent_background_Logo_for_dark___white_backgrounds_-_JuanMa_Velasquez.png" group-title="Entretenimiento", Zona Investigacion
+#OFF# http://mystreamlive.online/Limardotv/s2225805/4717238
 #EXTINF:-1 tvg-id="ZooMoo.us" tvg-name=" ZooMoo" tvg-logo="https://logo.m3uassets.com/zoomoo.png" group-title="Entretenimiento", ZooMoo
 http://luxury-tv.us/tvmario2026/M7887357/749404
 #OFF# #EXTINF:-1 tvg-id="" tvg-name=" ¿Qué Culpa Tiene Fatmagül" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US270000298_20260421T142000SQUARE.png" group-title="Entretenimiento", ¿Qué Culpa Tiene Fatmagül
@@ -719,28 +719,28 @@ http://luxury-tv.us/tvmario2026/M7887357/769649
 http://luxury-tv.us/tvmario2026/M7887357/769649
 #EXTINF:-1 tvg-id="UNIVERSO.us" tvg-name="USA Universo West" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2019/4/25/Universo-logos-templateUniverso-Logo-White-450x228.png" group-title="Entretenimiento",USA Universo West
 http://luxury-tv.us/tvmario2026/M7887357/769649
-#EXTINF:-1 tvg-id="DAYSTAR.us" tvg-name="Daystar Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_%282008%E2%80%93present%29_unmodified_logo.svg/3840px-Daystar_%282008%E2%80%93present%29_unmodified_logo.svg.png" group-title="Entretenimiento",Daystar Espanol
-http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/2135513
+#OFF# #EXTINF:-1 tvg-id="DAYSTAR.us" tvg-name="Daystar Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_%282008%E2%80%93present%29_unmodified_logo.svg/3840px-Daystar_%282008%E2%80%93present%29_unmodified_logo.svg.png" group-title="Entretenimiento",Daystar Espanol
+#OFF# http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/2135513
 #EXTINF:-1 tvg-id="Enlace.dr" tvg-name="Enlace" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/USA_Network_2025_logo.svg" group-title="Entretenimiento",Enlace
 http://luxury-tv.us/tvmario2026/M7887357/748236
 #EXTINF:-1 tvg-id="" tvg-name="Cops en Español FHD ▪ᴘʟᴇx▪" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png" group-title="Entretenimiento",Cops en Español FHD ▪ᴘʟᴇx▪
-http://mystreamlive.online/Limardotv/s2225805/386356
+http://luxury-tv.us/L20260704/L20260704/748233
 #EXTINF:-1 tvg-id="ElectricNow.us" tvg-name="ElectricNOW en Español FHD ▪ᴘʟᴇx▪" tvg-logo="https://s12.gifyu.com/images/SrD2p.png" group-title="Entretenimiento",ElectricNOW en Español FHD ▪ᴘʟᴇx▪
-http://mystreamlive.online/Limardotv/s2225805/1514763
-#EXTINF:-1 tvg-id="" tvg-name="Runtime Español FHD ▪ᴘʟᴇx▪" tvg-logo="https://provider-static.plex.tv/epg/cms/production/158f2ae8-032e-4f0e-8143-b9939c2fd5a2/Runtime_USH_Light_Logo_-_JP_Garcia.png" group-title="Entretenimiento",Runtime Español FHD ▪ᴘʟᴇx▪
-http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/2135513
+http://luxury-tv.us/L20260704/L20260704/748233
+#OFF# #EXTINF:-1 tvg-id="" tvg-name="Runtime Español FHD ▪ᴘʟᴇx▪" tvg-logo="https://provider-static.plex.tv/epg/cms/production/158f2ae8-032e-4f0e-8143-b9939c2fd5a2/Runtime_USH_Light_Logo_-_JP_Garcia.png" group-title="Entretenimiento",Runtime Español FHD ▪ᴘʟᴇx▪
+#OFF# http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/2135513
 #EXTINF:-1 tvg-id="" tvg-name="TRACE Latina FHD ▪ᴘʟᴇx▪" tvg-logo="https://provider-static.plex.tv/epg/cms/production/04b0a12e-b393-4456-9927-a48b793b623a/trace_latina_light_-_Nathan_BECKER.png" group-title="Entretenimiento",TRACE Latina FHD ▪ᴘʟᴇx▪
 http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/617097
-#EXTINF:-1 tvg-id="" tvg-name="Astros vs Padres Español @ Aug 9 20:00 PM :Peacock Event 10" tvg-logo="https://logo.m3uassets.com/nbcpeacock.png" group-title="Deportes",Astros vs Padres Español @ Aug 9 20:00 PM :Peacock Event 10
-http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/2135513
+#OFF# #EXTINF:-1 tvg-id="" tvg-name="Astros vs Padres Español @ Aug 9 20:00 PM :Peacock Event 10" tvg-logo="https://logo.m3uassets.com/nbcpeacock.png" group-title="Deportes",Astros vs Padres Español @ Aug 9 20:00 PM :Peacock Event 10
+#OFF# http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/2135513
 #EXTINF:-1 tvg-id="" tvg-name="Eredivisie: En Español PEC Zwolle vs Ajax @ Aug 9 8:29 AM :ESPN+ 06" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="Deportes",Eredivisie: En Español PEC Zwolle vs Ajax @ Aug 9 8:29 AM :ESPN+ 06
 http://velive.lat:8080/MikeRodri10/Mike202610/369715
 #EXTINF:-1 tvg-id="FOXSports.mx" tvg-name="Fox Sports en Espanol" tvg-logo="https://logo.m3uassets.com/foxsportstennessee.png" group-title="Deportes",Fox Sports en Espanol
 http://luxury-tv.us/tvmario2026/M7887357/1035280
 #EXTINF:-1 tvg-id="" tvg-name="Softball 01 :High School Softball: PGF 18U Platinum National Championship @ Jul 25 8:00 PM" tvg-logo="https://goaugie.com/images/2017/4/19/softballncaa.jpg" group-title="Deportes",Softball 01 :High School Softball: PGF 18U Platinum National Championship @ Jul 25 8:00 PM
-http://luxury-tv.us/tvmario2026/M7887357/749594
+http://luxury-tv.us/L20260704/L20260704/749594
 #EXTINF:-1 tvg-id="" tvg-name="Softball 02 :High School Softball: PGF 16U Platinum National Championship @ Jul 25 10:00 PM" tvg-logo="https://goaugie.com/images/2017/4/19/softballncaa.jpg" group-title="Deportes",Softball 02 :High School Softball: PGF 16U Platinum National Championship @ Jul 25 10:00 PM
-http://luxury-tv.us/tvmario2026/M7887357/749594
+http://luxury-tv.us/L20260704/L20260704/749594
 #EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-name="USA Bein Sports en Espanol" tvg-logo="https://logo.m3uassets.com/beinsportsenespanol.png" group-title="Deportes",USA Bein Sports en Espanol
 http://luxury-tv.us/tvmario2026/M7887357/769649
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="USA ESPN Deportes" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="Deportes",USA ESPN Deportes
@@ -756,7 +756,7 @@ http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/482970
 #EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name=" Fox Deportes" tvg-logo="https://www.thewrap.com/wp-content/uploads/2013/10/Fox-Deportes-Logo.png" group-title="Deportes", Fox Deportes
 http://luxury-tv.us/tvmario2026/M7887357/782410
 #EXTINF:-1 tvg-id="" tvg-name=" ITV Deportes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png" group-title="Deportes", ITV Deportes
-http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/1850258
+http://luxury-tv.us/L20260704/L20260704/748377
 #EXTINF:-1 tvg-id="TelemundoDeportesAhora.peacocktv" tvg-name=" Telemundo Deportes Ahora" tvg-logo="https://image.xumo.com/v1/channels/channel/99951459/168x168.webp?type=color_onBlack" group-title="Deportes", Telemundo Deportes Ahora
 http://luxury-tv.us/tvmario2026/M7887357/1035946
 #EXTINF:-1 tvg-id="TUDN.us" tvg-name=" TUDN X1" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X1
@@ -780,33 +780,33 @@ http://luxury-tv.us/tvmario2026/M7887357/758174
 #EXTINF:-1 tvg-id="" tvg-name=" TUDN X9" tvg-logo="https://st1.uvnimg.com/dims4/default/3e56bba/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Ff2%2F30%2F64b3884646e7ba0bafb3a615d78b%2F1440x810-2x.png" group-title="Deportes", TUDN X9
 http://luxury-tv.us/tvmario2026/M7887357/758174
 #EXTINF:-1 tvg-id="" tvg-name=" ViX Deportes 21" tvg-logo="http://p-img.movetv.com/cms/images/fe9d44799eef7096aaed963416f323dc7ceae1d3.png" group-title="Deportes", ViX Deportes 21
-http://mystreamlive.online/Limardotv/s2225805/4701949
+http://luxury-tv.us/L20260704/L20260704/756707
 #EXTINF:-1 tvg-id="" tvg-name=" ViX Deportes 22" tvg-logo="http://p-img.movetv.com/cms/images/8dd3eec3104c6805e76d73747471cd18ee373b92.png" group-title="Deportes", ViX Deportes 22
-http://mystreamlive.online/Limardotv/s2225805/4701949
+http://luxury-tv.us/L20260704/L20260704/756708
 #EXTINF:-1 tvg-id="" tvg-name=" ViX Deportes 23" tvg-logo="http://p-img.movetv.com/cms/images/e66be32852219c6a053dbf7a4168813a2369474e.png" group-title="Deportes", ViX Deportes 23
-http://mystreamlive.online/Limardotv/s2225805/4701949
+http://luxury-tv.us/L20260704/L20260704/1034005
 #EXTINF:-1 tvg-id="" tvg-name=" ZONA Tudn Futbol" tvg-logo="https://logo.m3uassets.com/zonafutbol.png" group-title="Deportes", ZONA Tudn Futbol
 http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/488589
 #EXTINF:-1 tvg-id="Telesur.es" tvg-name="CAR: TELE SUR SPANISH" tvg-logo="https://asiagrandiptv.us/logo//TELESURSPANISH.png" group-title="Noticias",CAR: TELE SUR SPANISH
-http://luxury-tv.us/tvmario2026/M7887357/748892
+http://luxury-tv.us/L20260704/L20260704/748892
 #EXTINF:-1 tvg-id="CNN.mx" tvg-name="USA CNN Espanol" tvg-logo="https://logo.m3uassets.com/cnnenespanol.png" group-title="Noticias",USA CNN Espanol
-http://mundo2.pro/Roberto1/Roberto12/317566
+http://luxury-tv.us/L20260704/L20260704/1037336
 #EXTINF:-1 tvg-id="" tvg-name="USA Estrella News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/estrella-news-vod.png" group-title="Noticias",USA Estrella News
 http://luxury-tv.us/tvmario2026/M7887357/769649
 #EXTINF:-1 tvg-id="" tvg-name=" adn Noticias" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a7ef3da6761e5b768557b00ab1ab85e4/rokuFeed/assets/9b932cd789f35309a15d82fd85d87148.jpg" group-title="Noticias", adn Noticias
-http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/646
+http://luxury-tv.us/L20260704/L20260704/751281
 #EXTINF:-1 tvg-id="CNN.sxm" tvg-name=" CNN Noticias" tvg-logo="https://images.pluto.tv/channels/673248f9030a2c0008033af8/featuredImage_1777908720377.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000" group-title="Noticias", CNN Noticias
 http://luxury-tv.us/tvmario2026/M7887357/1037336
 #EXTINF:-1 tvg-id="EstrellaNews.pluto" tvg-name=" Estrella News" tvg-logo="https://logo.m3uassets.com/estrellanews.png" group-title="Noticias", Estrella News
 http://mundo2.pro/Roberto1/Roberto12/404355
 #EXTINF:-1 tvg-id="Mega.es" tvg-name=" Meganoticias" tvg-logo="https://logowik.com/content/uploads/images/meganoticias7444.logowik.com.webp" group-title="España", Meganoticias
-http://luxury-tv.us/tvmario2026/M7887357/748494
+http://luxury-tv.us/L20260704/L20260704/748494
 #EXTINF:-1 tvg-id="NoticiasTelemundoAhora.peacocktv" tvg-name=" Noticias Telemundo AHORA" tvg-logo="https://provider-static.plex.tv/a/epg/channels/logos/gracenote/a88b95413ac88f1f1147ea1d00692653.png" group-title="Noticias", Noticias Telemundo AHORA
 http://luxury-tv.us/tvmario2026/M7887357/1012950
 #EXTINF:-1 tvg-id="NTN24.us" tvg-name=" NTN24" tvg-logo="https://logo.m3uassets.com/ntn24.png" group-title="Noticias", NTN24
-http://luxury-tv.us/tvmario2026/M7887357/748592
-#EXTINF:-1 tvg-id="" tvg-name=" RCN Noticias" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9150537f-f9e4-4f21-b5e2-bc57b7a5ea35/RCN_NOTICIAS_WHITE_-_JuanMa_VelasquezRDX.png" group-title="Noticias", RCN Noticias
-http://mystreamlive.online/Limardotv/s2225805/149069
+http://luxury-tv.us/L20260704/L20260704/748592
+#OFF# #EXTINF:-1 tvg-id="" tvg-name=" RCN Noticias" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9150537f-f9e4-4f21-b5e2-bc57b7a5ea35/RCN_NOTICIAS_WHITE_-_JuanMa_VelasquezRDX.png" group-title="Noticias", RCN Noticias
+#OFF# http://mystreamlive.online/Limardotv/s2225805/149069
 #EXTINF:-1 tvg-id="" tvg-name=" Spectrum Noticias" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzl-DLmv2YLRooqsDeWoE7UcDe9XXqjeUHQ&s" group-title="Noticias", Spectrum Noticias
 http://luxury-tv.us/tvmario2026/M7887357/1037366
 #EXTINF:-1 tvg-id="" tvg-name=" Telemundo Noticias California" tvg-logo="https://image.xumo.com/v1/channels/channel/99951225/168x168.webp?type=color_onBlack" group-title="Noticias", Telemundo Noticias California
@@ -814,13 +814,13 @@ http://luxury-tv.us/tvmario2026/M7887357/1035943
 #EXTINF:-1 tvg-id="" tvg-name=" Telemundo Noticias Florida" tvg-logo="https://image.xumo.com/v1/channels/channel/99951227/168x168.webp?type=color_onBlack" group-title="Noticias", Telemundo Noticias Florida
 http://luxury-tv.us/tvmario2026/M7887357/1035945
 #EXTINF:-1 tvg-id="" tvg-name=" Telemundo Noticias Noreste" tvg-logo="https://image.xumo.com/v1/channels/channel/99951228/168x168.webp?type=color_onBlack" group-title="Noticias", Telemundo Noticias Noreste
-http://mystreamlive.online/Limardotv/s2225805/2144157
+http://luxury-tv.us/L20260704/L20260704/1012950
 #EXTINF:-1 tvg-id="TelemundoNoticiasTexas.pluto" tvg-name=" Telemundo Noticias Texas" tvg-logo="https://image.xumo.com/v1/channels/channel/99951226/168x168.webp?type=color_onBlack" group-title="Noticias", Telemundo Noticias Texas
 http://luxury-tv.us/tvmario2026/M7887357/1035944
 #EXTINF:-1 tvg-id="Univision.mx" tvg-name="USA Univision Noticias" tvg-logo="https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Bd5dGQpgq11xtNELGWUhAiM0r7Y=/960x0/arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/VW4KDLVCKII6JFOT2S7WAIOUGA.jpg" group-title="Noticias",USA Univision Noticias
 http://luxury-tv.us/tvmario2026/M7887357/769649
 #EXTINF:-1 tvg-id="" tvg-name="USA Cine de Horror" tvg-logo="https://worldscreen.com/wp-content/uploads/2025/10/Cine-De-Horror-1025.jpg" group-title="Cine y Series",USA Cine de Horror
-http://mundo2.pro/Roberto1/Roberto12/317566
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/335484
 #EXTINF:-1 tvg-id="" tvg-name="USA Cine Latino" tvg-logo="https://logo.m3uassets.com/cine.png" group-title="Cine y Series",USA Cine Latino
 http://luxury-tv.us/tvmario2026/M7887357/769649
 #EXTINF:-1 tvg-id="Cinemax.dr" tvg-name="USA Cinemax Latino" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="Cine y Series",USA Cinemax Latino
@@ -848,25 +848,25 @@ http://luxury-tv.us/tvmario2026/M7887357/1037262
 #EXTINF:-1 tvg-id="CineClásico.pluto" tvg-name=" Cine Clásico" tvg-logo="https://logo.m3uassets.com/cinelat.png" group-title="Cine y Series", Cine Clásico
 http://luxury-tv.us/tvmario2026/M7887357/748103
 #EXTINF:-1 tvg-id="" tvg-name=" Cine de Oro" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700005KL_20260421T142142SQUARE.png" group-title="Cine y Series", Cine de Oro
-http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/633080
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/124573
 #EXTINF:-1 tvg-id="CineEstelar.us" tvg-name=" Cine Estelar" tvg-logo="https://logo.m3uassets.com/plutotvcineestelar.png" group-title="Cine y Series", Cine Estelar
-http://luxury-tv.us/tvmario2026/M7887357/769383
+http://luxury-tv.us/L20260704/L20260704/769383
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-name=" Cine EstrellaTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/09f86900-5fce-4b68-944a-a52733ca2ec2/cine-logo_color_-_Erick_Ramirez1500x1000.png" group-title="Cine y Series", Cine EstrellaTV
-http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/488439
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/488439
 #EXTINF:-1 tvg-id="CineMexicano.mx" tvg-name=" Cine Mexicano" tvg-logo="https://logo.m3uassets.com/tempcs1315cinemexicano.png" group-title="Cine y Series", Cine Mexicano
 http://luxury-tv.us/tvmario2026/M7887357/769385
 #EXTINF:-1 tvg-id="CineNostalgia.us" tvg-name=" Cine Nostalgia" tvg-logo="https://logo.m3uassets.com/cinenostalgia.png" group-title="Cine y Series", Cine Nostalgia
-http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/124573
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/124573
 #EXTINF:-1 tvg-id="" tvg-name=" Cine Retro" tvg-logo="https://logo.m3uassets.com/plutotvcineretro.png" group-title="Cine y Series", Cine Retro
 http://luxury-tv.us/tvmario2026/M7887357/750913
 #EXTINF:-1 tvg-id="" tvg-name=" Cine Romantico" tvg-logo="https://mma.prnewswire.com/media/1321479/UP_Entertainment_Cine_Romantico_Logo.jpg" group-title="Cine y Series", Cine Romantico
-http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/2513
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/124573
 #EXTINF:-1 tvg-id="Cinevault.us" tvg-name=" Cine Vault" tvg-logo="https://logo.m3uassets.com/cinelatino.png" group-title="Cine y Series", Cine Vault
-http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/124573
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/124573
 #EXTINF:-1 tvg-id="CINEVAULTClassics.us" tvg-name=" Cine Vault Classics" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYfObIZurdmgdtQSeLWZGvB47XOC7RmbWwg&s" group-title="Cine y Series", Cine Vault Classics
-http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/124573
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/124573
 #EXTINF:-1 tvg-id="CINEVAULTWesterns.us" tvg-name=" Cine Vault Westerns" tvg-logo="https://logo.m3uassets.com/cinevaultwesterns.png" group-title="Cine y Series", Cine Vault Westerns
-http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/124573
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/124573
 #EXTINF:-1 tvg-id="CinemaDinamita.us" tvg-name=" Cinema Dinamita" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ea862a8804f7204dfbb35fb/1588706493698-9FZI0PVBWD50JVE24B0K/network_cinemadinamita.png" group-title="Cine y Series", Cinema Dinamita
 http://luxury-tv.us/tvmario2026/M7887357/769429
 #EXTINF:-1 tvg-id="DePelicula.us" tvg-name=" DP De Pelicula" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/PELIC-logo.png" group-title="Cine y Series", DP De Pelicula
@@ -874,11 +874,11 @@ http://luxury-tv.us/tvmario2026/M7887357/769391
 #EXTINF:-1 tvg-id="DePelicula.dr" tvg-name=" DP De Pelicula Clasico" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/PCLAS-logo.png" group-title="Cine y Series", DP De Pelicula Clasico
 http://luxury-tv.us/tvmario2026/M7887357/769389
 #EXTINF:-1 tvg-id="" tvg-name=" FILMEX" tvg-logo="https://image.xumo.com/v1/channels/channel/99951120/168x168.webp?type=color_onBlack" group-title="Cine y Series", FILMEX
-http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/2507
+http://luxury-tv.us/L20260704/L20260704/748271
 #EXTINF:-1 tvg-id="" tvg-name=" FILMEX CLASICO" tvg-logo="https://image.xumo.com/v1/channels/channel/99981121/168x168.webp?type=color_onBlack" group-title="Cine y Series", FILMEX CLASICO
 http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/204851
-#EXTINF:-1 tvg-id="" tvg-name=" FilmRise Crimenes Verdaderos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9cb510b3-1a62-4a68-9957-58425d97e272/FilmRise_CrimenesVerdaderos_1500x1000_Light_Logo.png" group-title="Cine y Series", FilmRise Crimenes Verdaderos
-http://mystreamlive.online/Limardotv/s2225805/1516124
+#OFF# #EXTINF:-1 tvg-id="" tvg-name=" FilmRise Crimenes Verdaderos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9cb510b3-1a62-4a68-9957-58425d97e272/FilmRise_CrimenesVerdaderos_1500x1000_Light_Logo.png" group-title="Cine y Series", FilmRise Crimenes Verdaderos
+#OFF# http://mystreamlive.online/Limardotv/s2225805/1516124
 #EXTINF:-1 tvg-id="" tvg-name=" Grjngo vs Peliculas Del Oeste" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76964e60-8756-4551-8748-dbd7852bd0bd/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png" group-title="Cine y Series", Grjngo vs Peliculas Del Oeste
 http://luxury-tv.us/tvmario2026/M7887357/751951
 #EXTINF:-1 tvg-id="HBOLatino.us" tvg-name=" HBO Latino" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/HBOLATINAMERICA.jpg" group-title="Cine y Series", HBO Latino
@@ -886,13 +886,13 @@ http://itsidletime.xyz:8080/Trial/Trial123/56471
 #EXTINF:-1 tvg-id="Sony.mx" tvg-name=" Sony Cine" tvg-logo="https://logo.m3uassets.com/cinesony.png" group-title="Cine y Series", Sony Cine
 http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/72618
 #EXTINF:-1 tvg-id="" tvg-name=" Todo Cine" tvg-logo="https://provider-static.plex.tv/epg/cms/production/afe5cd54-0d6d-4b60-a4df-91a8d7ac7960/TodoCine_-_White_Fernando_Fraderdx.png" group-title="Cine y Series", Todo Cine
-http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/124573
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/124573
 #EXTINF:-1 tvg-id="Starz.us" tvg-name="USA Starz Encore Español" tvg-logo="https://logo.m3uassets.com/starzencoreespanol.png" group-title="Cine y Series",USA Starz Encore Español
 http://luxury-tv.us/tvmario2026/M7887357/769649
 #EXTINF:-1 tvg-id="" tvg-name="Cine en Español HD ▪ᴘʟᴇx▪" tvg-logo="https://provider-static.plex.tv/epg/cms/production/18be52bf-43c6-4ac0-b3bf-ed51b252cb89/Cine_en_espanol_logo_1500x1000px_WHT.png" group-title="Cine y Series",Cine en Español HD ▪ᴘʟᴇx▪
 http://mundo2.pro/Roberto1/Roberto12/316325
 #EXTINF:-1 tvg-id="DiscoveryFamiliaEnEspanol.us" tvg-name=" Discovery Familia" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/DSFAM-logo.png" group-title="Infantil", Discovery Familia
-http://vibeshowmedia.vip:8880/juliopena/Wyeqwe55Rt/1098237
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/335466
 #EXTINF:-1 tvg-id="StingrayRomanceLatino.us" tvg-name="[US] STINGRAY ROMANCE LATINO FHD [sᴛᴠ+]" tvg-logo="https://logo.m3uassets.com/stingrayromance.png" group-title="Música",[US] STINGRAY ROMANCE LATINO FHD [sᴛᴠ+]
 http://luxury-tv.us/tvmario2026/M7887357/775505
 #EXTINF:-1 tvg-id="" tvg-name="[US] STINGRAY TODAY'S LATIN POP FHD [sᴛᴠ+]" tvg-logo="https://logo.m3uassets.com/stingraytoday'slatinpop.png" group-title="Música",[US] STINGRAY TODAY'S LATIN POP FHD [sᴛᴠ+]
@@ -914,7 +914,7 @@ http://luxury-tv.us/tvmario2026/M7887357/769310
 #OFF# #EXTINF:-1 tvg-id="XITESiempreLatino.us" tvg-name=" XITE Siempre Latino" tvg-logo="https://provider-static.plex.tv/epg/cms/production/35a1d7e4-caa3-477a-b813-90d23a756a16/xitesiemprelatino_logo_light_-_Arlette_FiranRDX.png" group-title="Música", XITE Siempre Latino
 #OFF# http://mundo2.pro/Roberto1/Roberto12/93108
 #EXTINF:-1 tvg-id="Platino.mx" tvg-name="USA Music Choice Video | Pop Latino" tvg-logo="https://logo.m3uassets.com/musicchoicelightclassical.png" group-title="Música",USA Music Choice Video | Pop Latino
-http://luxury-tv.us/tvmario2026/M7887357/769649
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/335484
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Películas",AMC Latin America (1080p)
 http://luxury-tv.us/tvmario2026/M7887357/745773
 #EXTINF:-1 tvg-id="AuroraMediaFilms.gt@SD" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="Películas",Aurora Media Films (720p)
@@ -932,15 +932,15 @@ https://canal.mediaserver.com.co/live/cinedios.m3u8
 #EXTINF:-1 tvg-id="CineAdrenalina.us@SD" tvg-logo="https://i.imgur.com/njCKaMv.png" group-title="Películas",Cine adrenalina
 http://luxury-tv.us/tvmario2026/M7887357/748102
 #EXTINF:-1 tvg-id="CineAmor.us@SD" tvg-logo="https://i.imgur.com/eAS86qH.png" group-title="Películas",Cine Amor
-http://mystreamlive.online/Limardotv/s2225805/386374
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/124573
 #EXTINF:-1 tvg-id="PlutoTVCineComedia.us@US" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG_1732662798298.png" group-title="Películas",Cine comedia
-http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/124573
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/124573
 #EXTINF:-1 tvg-id="CineMexicano.us@SD" tvg-logo="https://i.imgur.com/BhHKphL.png" group-title="Películas",Cine Mexicano (1080p)
 http://luxury-tv.us/tvmario2026/M7887357/769385
 #EXTINF:-1 tvg-id="CinePremiere.us@SD" tvg-logo="https://i.imgur.com/PdhWTO6.png" group-title="Películas",Cine Premiere
 http://luxury-tv.us/tvmario2026/M7887357/748104
 #EXTINF:-1 tvg-id="CinePremium.us@SD" tvg-logo="https://i.imgur.com/tC3jGd4.png" group-title="Películas",Cine Premium (1080p)
-http://luxury-tv.us/tvmario2026/M7887357/769546
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/124573
 #EXTINF:-1 tvg-id="CineSony.us@SD" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Películas",Cine Sony (1080p)
 http://mundo2.pro/Roberto1/Roberto12/1263
 #EXTINF:-1 tvg-id="CineTerror.us@US" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Películas",Cine terror
@@ -950,7 +950,7 @@ http://luxury-tv.us/tvmario2026/M7887357/769167
 #EXTINF:-1 tvg-id="Cinecanal.us@Pacific" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Películas",Cinecanal Pacific (1080p)
 http://138.121.15.230:9002/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Películas",Cinecanal South (1080p)
-http://mundo2.pro/Roberto1/Roberto12/317508
+http://luxury-tv.us/L20260704/L20260704/769167
 #EXTINF:-1 tvg-id="CosmosTv.ar@HD" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Películas",Cosmos Tv
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="DePeliculaUS.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/960px-DPel%C3%ADcula_2021.svg.png" group-title="Películas",De Pelicula US (720p)
@@ -962,13 +962,13 @@ http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/89857
 #EXTINF:-1 tvg-id="FilmArts.ar@Panregional" tvg-logo="https://i.imgur.com/ukdmEKD.png" group-title="Películas",Film & Arts (1080p)
 http://velive.lat:8080/MikeRodri10/Mike202610/316750
 #EXTINF:-1 tvg-id="FXMovieChannel.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png" group-title="Películas",FX Movie Channel HD (1080p)
-http://mundo2.pro/Roberto1/Roberto12/317527
+http://luxury-tv.us/L20260704/L20260704/769176
 #EXTINF:-1 tvg-id="LifetimeMovies.us@East" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="Películas",Lifetime Movies (1080p)
 http://mundo2.pro/Roberto1/Roberto12/128338
 #EXTINF:-1 tvg-id="MCITelevision.co@SD" tvg-logo="https://pbs.twimg.com/profile_images/1836009952420274177/FfYonU6r_400x400.jpg" group-title="Películas",MCI Televisión (1080p)
 http://luxury-tv.us/tvmario2026/M7887357/748487
-#EXTINF:-1 tvg-id="Medium.de@ES" tvg-logo="https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png" group-title="Películas",Medium
-http://mystreamlive.online/Limardotv/s2225805/4701688
+#OFF# #EXTINF:-1 tvg-id="Medium.de@ES" tvg-logo="https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png" group-title="Películas",Medium
+#OFF# http://mystreamlive.online/Limardotv/s2225805/4701688
 #EXTINF:-1 tvg-id="MegaCineTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Películas",Mega Cine TV (1080p)
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-id="MoreMax.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/960px-MoreMax_Logo.svg.png" group-title="Películas",MoreMax (1080p)
@@ -992,11 +992,11 @@ http://luxury-tv.us/tvmario2026/M7887357/750909
 #EXTINF:-1 tvg-id="PlutoTVCineAccion.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG_1760378798093.png" group-title="Películas",Pluto TV Cine Acción
 http://luxury-tv.us/tvmario2026/M7887357/750909
 #EXTINF:-1 tvg-id="PlutoTVCineComedia.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG_1769092378955.png" group-title="Películas",Pluto TV Cine Comedia
-http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/124573
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/124573
 #EXTINF:-1 tvg-id="PlutoTVCineCrimen.us@LatAm" tvg-logo="https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Crimen
-http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/124573
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/124573
 #EXTINF:-1 tvg-id="PlutoTVCinedeautor.de@ES" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="Películas",Pluto TV Cine de autor
-http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/124573
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/124573
 #EXTINF:-1 tvg-id="PlutoTVCineDrama.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Drama
 http://luxury-tv.us/tvmario2026/M7887357/748657
 #EXTINF:-1 tvg-id="PlutoTVCineEstelar.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Estelar
@@ -1004,11 +1004,11 @@ http://luxury-tv.us/tvmario2026/M7887357/750911
 #EXTINF:-1 tvg-id="PlutoTVCineFamilia.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG_1732045254120.png" group-title="Películas",Pluto TV Cine Familia
 http://luxury-tv.us/tvmario2026/M7887357/748659
 #EXTINF:-1 tvg-id="PlutoTVCineInspirador.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6806d519fea7414f33f57016/colorLogoPNG_1746817663597.png" group-title="Películas",Pluto TV Cine Inspirador
-http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/124573
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/124573
 #EXTINF:-1 tvg-id="PlutoTVCineRomance.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG_1771344977802.png" group-title="Películas",Pluto TV Cine Romance
-http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/124573
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/124573
 #EXTINF:-1 tvg-id="PlutoTVCineRomantico.de@ES" tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG_1747044085204.png" group-title="Películas",Pluto TV Cine Romántico
-http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/124573
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/124573
 #EXTINF:-1 tvg-id="PlutoTVCineSuspenso.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Suspenso
 http://luxury-tv.us/tvmario2026/M7887357/748660
 #EXTINF:-1 tvg-id="CineTerror.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="Películas",Pluto TV Cine Terror
@@ -1020,7 +1020,7 @@ http://luxury-tv.us/tvmario2026/M7887357/748105
 #OFF# #EXTINF:-1 tvg-id="PlutoTVInvasionAlien.de@ES" tvg-logo="https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG.png" group-title="Películas",Pluto TV Invasión Alien
 #OFF# https://jmp2.uk/plu-654a35ce346f420008d5c36e.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNuestroCine.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" group-title="Películas",Pluto TV Nuestro Cine
-http://ottplayer.dyndns.tv:25461/Mmotatv/G5737553CMMED/124573
+http://ottplayer.dyndns.tv:25461/mirandatv/N361577/124573
 #EXTINF:-1 tvg-id="PlutoTVParanormal.de@ES" tvg-logo="https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png" group-title="Películas",Pluto TV Paranormal
 http://luxury-tv.us/tvmario2026/M7887357/750963
 #OFF# #EXTINF:-1 tvg-id="PlutoTVPsycho.de@ES" tvg-logo="https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png" group-title="Películas",Pluto TV Psycho
